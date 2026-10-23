@@ -1,0 +1,21 @@
+{
+  "source_file": "demo_reviews.csv",
+  "generated_utc": "2026-10-23 00:33",
+  "english_only": true,
+  "min_words": 5,
+  "games": 8,
+  "date_range": [
+    "2016-01",
+    "2024-01"
+  ],
+  "keyword_sample_per_game": 40000,
+  "validation": "skipped (pip install vaderSentiment to enable)",
+  "seconds": 3.0,
+  "rows_read": 60600,
+  "rows_other_games_or_languages": 15071,
+  "dropped_empty": 165,
+  "dropped_short": 725,
+  "dropped_duplicate": 568,
+  "dropped_bad_date": 0,
+  "rows_kept": 44071
+}

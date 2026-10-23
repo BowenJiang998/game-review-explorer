@@ -1,0 +1,401 @@
+term,count_positive,count_negative,log_odds_negative,pct_positive_reviews,pct_negative_reviews,side,game,sample_size
+disappointed,0,1112,7.018,0.0,27.04,complaint,Battle Royale X,8237
+sale skip,0,1011,6.923,0.0,24.59,complaint,Battle Royale X,8237
+skip,0,1011,6.923,0.0,24.59,complaint,Battle Royale X,8237
+wait,0,1011,6.923,0.0,24.59,complaint,Battle Royale X,8237
+wait sale,0,1011,6.923,0.0,24.59,complaint,Battle Royale X,8237
+can't,0,996,6.908,0.0,24.22,complaint,Battle Royale X,8237
+can't right,0,996,6.908,0.0,24.22,complaint,Battle Royale X,8237
+right,0,996,6.908,0.0,24.22,complaint,Battle Royale X,8237
+uninstalled,0,993,6.905,0.0,24.15,complaint,Battle Royale X,8237
+forever,0,777,6.66,0.0,18.9,complaint,Battle Royale X,8237
+characters,0,595,6.393,0.0,14.47,complaint,Battle Royale X,8237
+characters forgettable,0,595,6.393,0.0,14.47,complaint,Battle Royale X,8237
+forgettable,0,595,6.393,0.0,14.47,complaint,Battle Royale X,8237
+animations stiff,0,581,6.37,0.0,14.13,complaint,Battle Royale X,8237
+stiff,0,581,6.37,0.0,14.13,complaint,Battle Royale X,8237
+ending sense,0,578,6.364,0.0,14.06,complaint,Battle Royale X,8237
+sense,0,578,6.364,0.0,14.06,complaint,Battle Royale X,8237
+shallow,0,578,6.364,0.0,14.06,complaint,Battle Royale X,8237
+shallow ending,0,578,6.364,0.0,14.06,complaint,Battle Royale X,8237
+story shallow,0,578,6.364,0.0,14.06,complaint,Battle Royale X,8237
+graphics,0,540,6.297,0.0,13.13,complaint,Battle Royale X,8237
+graphics look,0,540,6.297,0.0,13.13,complaint,Battle Royale X,8237
+look outdated,0,540,6.297,0.0,13.13,complaint,Battle Royale X,8237
+outdated,0,540,6.297,0.0,13.13,complaint,Battle Royale X,8237
+outdated ugly,0,540,6.297,0.0,13.13,complaint,Battle Royale X,8237
+fun,1522,0,-7.325,36.9,0.0,praise,Battle Royale X,8237
+community,1086,0,-6.988,26.33,0.0,praise,Battle Royale X,8237
+easily,1056,0,-6.96,25.6,0.0,praise,Battle Royale X,8237
+easily hundreds,1056,0,-6.96,25.6,0.0,praise,Battle Royale X,8237
+hundreds,1056,0,-6.96,25.6,0.0,praise,Battle Royale X,8237
+hundreds fun,1056,0,-6.96,25.6,0.0,praise,Battle Royale X,8237
+favorites,1041,0,-6.946,25.24,0.0,praise,Battle Royale X,8237
+favorites year,1041,0,-6.946,25.24,0.0,praise,Battle Royale X,8237
+year,1041,0,-6.946,25.24,0.0,praise,Battle Royale X,8237
+highly,1008,0,-6.914,24.44,0.0,praise,Battle Royale X,8237
+highly recommended,1008,0,-6.914,24.44,0.0,praise,Battle Royale X,8237
+recommended,1008,0,-6.914,24.44,0.0,praise,Battle Royale X,8237
+amazing,860,0,-6.755,20.85,0.0,praise,Battle Royale X,8237
+blast,629,0,-6.443,15.25,0.0,praise,Battle Royale X,8237
+friends,629,0,-6.443,15.25,0.0,praise,Battle Royale X,8237
+friends blast,629,0,-6.443,15.25,0.0,praise,Battle Royale X,8237
+op,629,0,-6.443,15.25,0.0,praise,Battle Royale X,8237
+op friends,629,0,-6.443,15.25,0.0,praise,Battle Royale X,8237
+incredible,606,0,-6.405,14.69,0.0,praise,Battle Royale X,8237
+soundtrack,606,0,-6.405,14.69,0.0,praise,Battle Royale X,8237
+soundtrack incredible,606,0,-6.405,14.69,0.0,praise,Battle Royale X,8237
+community friendly,601,0,-6.397,14.57,0.0,praise,Battle Royale X,8237
+fast,601,0,-6.397,14.57,0.0,praise,Battle Royale X,8237
+fast online,601,0,-6.397,14.57,0.0,praise,Battle Royale X,8237
+friendly,601,0,-6.397,14.57,0.0,praise,Battle Royale X,8237
+uninstalled,0,107,6.9,0.0,28.61,complaint,Crypt of Echoes,3817
+disappointed,0,97,6.802,0.0,25.94,complaint,Crypt of Echoes,3817
+can't,0,86,6.683,0.0,22.99,complaint,Crypt of Echoes,3817
+can't right,0,86,6.683,0.0,22.99,complaint,Crypt of Echoes,3817
+right,0,86,6.683,0.0,22.99,complaint,Crypt of Echoes,3817
+sale skip,0,84,6.66,0.0,22.46,complaint,Crypt of Echoes,3817
+skip,0,84,6.66,0.0,22.46,complaint,Crypt of Echoes,3817
+wait,0,84,6.66,0.0,22.46,complaint,Crypt of Echoes,3817
+wait sale,0,84,6.66,0.0,22.46,complaint,Crypt of Echoes,3817
+ending sense,0,63,6.376,0.0,16.84,complaint,Crypt of Echoes,3817
+sense,0,63,6.376,0.0,16.84,complaint,Crypt of Echoes,3817
+shallow,0,63,6.376,0.0,16.84,complaint,Crypt of Echoes,3817
+shallow ending,0,63,6.376,0.0,16.84,complaint,Crypt of Echoes,3817
+story shallow,0,63,6.376,0.0,16.84,complaint,Crypt of Echoes,3817
+forever,0,47,6.089,0.0,12.57,complaint,Crypt of Echoes,3817
+animations stiff,0,45,6.046,0.0,12.03,complaint,Crypt of Echoes,3817
+stiff,0,45,6.046,0.0,12.03,complaint,Crypt of Echoes,3817
+characters,0,40,5.931,0.0,10.7,complaint,Crypt of Echoes,3817
+characters forgettable,0,40,5.931,0.0,10.7,complaint,Crypt of Echoes,3817
+forgettable,0,40,5.931,0.0,10.7,complaint,Crypt of Echoes,3817
+graphics,0,40,5.931,0.0,10.7,complaint,Crypt of Echoes,3817
+graphics look,0,40,5.931,0.0,10.7,complaint,Crypt of Echoes,3817
+look outdated,0,40,5.931,0.0,10.7,complaint,Crypt of Echoes,3817
+outdated,0,40,5.931,0.0,10.7,complaint,Crypt of Echoes,3817
+outdated ugly,0,40,5.931,0.0,10.7,complaint,Crypt of Echoes,3817
+fun,1238,0,-4.905,35.96,0.0,praise,Crypt of Echoes,3817
+community,965,0,-4.656,28.03,0.0,praise,Crypt of Echoes,3817
+favorites,899,0,-4.585,26.11,0.0,praise,Crypt of Echoes,3817
+favorites year,899,0,-4.585,26.11,0.0,praise,Crypt of Echoes,3817
+year,899,0,-4.585,26.11,0.0,praise,Crypt of Echoes,3817
+easily,851,0,-4.53,24.72,0.0,praise,Crypt of Echoes,3817
+easily hundreds,851,0,-4.53,24.72,0.0,praise,Crypt of Echoes,3817
+highly,851,0,-4.53,24.72,0.0,praise,Crypt of Echoes,3817
+highly recommended,851,0,-4.53,24.72,0.0,praise,Crypt of Echoes,3817
+hundreds,851,0,-4.53,24.72,0.0,praise,Crypt of Echoes,3817
+hundreds fun,851,0,-4.53,24.72,0.0,praise,Crypt of Echoes,3817
+recommended,851,0,-4.53,24.72,0.0,praise,Crypt of Echoes,3817
+amazing,711,0,-4.351,20.65,0.0,praise,Crypt of Echoes,3817
+community friendly,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+community patch,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+developers,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+developers listen,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+fast,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+fast online,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+friendly,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+listen,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+listen community,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+matchmaking fast,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+online,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+online community,514,0,-4.027,14.93,0.0,praise,Crypt of Echoes,3817
+uninstalled,0,412,6.964,0.0,26.55,complaint,Deep Ocean Survival,5529
+disappointed,0,400,6.935,0.0,25.77,complaint,Deep Ocean Survival,5529
+can't,0,373,6.865,0.0,24.03,complaint,Deep Ocean Survival,5529
+can't right,0,373,6.865,0.0,24.03,complaint,Deep Ocean Survival,5529
+right,0,373,6.865,0.0,24.03,complaint,Deep Ocean Survival,5529
+sale skip,0,367,6.849,0.0,23.65,complaint,Deep Ocean Survival,5529
+skip,0,367,6.849,0.0,23.65,complaint,Deep Ocean Survival,5529
+wait,0,367,6.849,0.0,23.65,complaint,Deep Ocean Survival,5529
+wait sale,0,367,6.849,0.0,23.65,complaint,Deep Ocean Survival,5529
+forever,0,253,6.478,0.0,16.3,complaint,Deep Ocean Survival,5529
+characters,0,236,6.409,0.0,15.21,complaint,Deep Ocean Survival,5529
+characters forgettable,0,236,6.409,0.0,15.21,complaint,Deep Ocean Survival,5529
+forgettable,0,236,6.409,0.0,15.21,complaint,Deep Ocean Survival,5529
+ending sense,0,211,6.297,0.0,13.6,complaint,Deep Ocean Survival,5529
+sense,0,211,6.297,0.0,13.6,complaint,Deep Ocean Survival,5529
+shallow,0,211,6.297,0.0,13.6,complaint,Deep Ocean Survival,5529
+shallow ending,0,211,6.297,0.0,13.6,complaint,Deep Ocean Survival,5529
+story shallow,0,211,6.297,0.0,13.6,complaint,Deep Ocean Survival,5529
+graphics,0,207,6.278,0.0,13.34,complaint,Deep Ocean Survival,5529
+graphics look,0,207,6.278,0.0,13.34,complaint,Deep Ocean Survival,5529
+look outdated,0,207,6.278,0.0,13.34,complaint,Deep Ocean Survival,5529
+outdated,0,207,6.278,0.0,13.34,complaint,Deep Ocean Survival,5529
+outdated ugly,0,207,6.278,0.0,13.34,complaint,Deep Ocean Survival,5529
+ugly,0,207,6.278,0.0,13.34,complaint,Deep Ocean Survival,5529
+animations stiff,0,197,6.229,0.0,12.69,complaint,Deep Ocean Survival,5529
+fun,1439,0,-6.332,36.18,0.0,praise,Deep Ocean Survival,5529
+community,1085,0,-6.05,27.28,0.0,praise,Deep Ocean Survival,5529
+easily,1052,0,-6.019,26.45,0.0,praise,Deep Ocean Survival,5529
+easily hundreds,1052,0,-6.019,26.45,0.0,praise,Deep Ocean Survival,5529
+hundreds,1052,0,-6.019,26.45,0.0,praise,Deep Ocean Survival,5529
+hundreds fun,1052,0,-6.019,26.45,0.0,praise,Deep Ocean Survival,5529
+favorites,992,0,-5.96,24.94,0.0,praise,Deep Ocean Survival,5529
+favorites year,992,0,-5.96,24.94,0.0,praise,Deep Ocean Survival,5529
+year,992,0,-5.96,24.94,0.0,praise,Deep Ocean Survival,5529
+highly,947,0,-5.914,23.81,0.0,praise,Deep Ocean Survival,5529
+highly recommended,947,0,-5.914,23.81,0.0,praise,Deep Ocean Survival,5529
+recommended,947,0,-5.914,23.81,0.0,praise,Deep Ocean Survival,5529
+amazing,832,0,-5.784,20.92,0.0,praise,Deep Ocean Survival,5529
+community patch,580,0,-5.424,14.58,0.0,praise,Deep Ocean Survival,5529
+developers,580,0,-5.424,14.58,0.0,praise,Deep Ocean Survival,5529
+developers listen,580,0,-5.424,14.58,0.0,praise,Deep Ocean Survival,5529
+listen,580,0,-5.424,14.58,0.0,praise,Deep Ocean Survival,5529
+listen community,580,0,-5.424,14.58,0.0,praise,Deep Ocean Survival,5529
+patch quickly,580,0,-5.424,14.58,0.0,praise,Deep Ocean Survival,5529
+quickly,580,0,-5.424,14.58,0.0,praise,Deep Ocean Survival,5529
+incredible,579,0,-5.422,14.56,0.0,praise,Deep Ocean Survival,5529
+soundtrack,579,0,-5.422,14.56,0.0,praise,Deep Ocean Survival,5529
+soundtrack incredible,579,0,-5.422,14.56,0.0,praise,Deep Ocean Survival,5529
+acting,575,0,-5.416,14.46,0.0,praise,Deep Ocean Survival,5529
+amazing music,575,0,-5.416,14.46,0.0,praise,Deep Ocean Survival,5529
+disappointed,0,418,6.382,0.0,25.64,complaint,Iron Siege Online,3929
+uninstalled,0,408,6.357,0.0,25.03,complaint,Iron Siege Online,3929
+can't,0,403,6.345,0.0,24.72,complaint,Iron Siege Online,3929
+can't right,0,403,6.345,0.0,24.72,complaint,Iron Siege Online,3929
+right,0,403,6.345,0.0,24.72,complaint,Iron Siege Online,3929
+sale skip,0,401,6.34,0.0,24.6,complaint,Iron Siege Online,3929
+skip,0,401,6.34,0.0,24.6,complaint,Iron Siege Online,3929
+wait,0,401,6.34,0.0,24.6,complaint,Iron Siege Online,3929
+wait sale,0,401,6.34,0.0,24.6,complaint,Iron Siege Online,3929
+forever,0,314,6.096,0.0,19.26,complaint,Iron Siege Online,3929
+animations stiff,0,253,5.881,0.0,15.52,complaint,Iron Siege Online,3929
+stiff,0,253,5.881,0.0,15.52,complaint,Iron Siege Online,3929
+ending sense,0,242,5.837,0.0,14.85,complaint,Iron Siege Online,3929
+sense,0,242,5.837,0.0,14.85,complaint,Iron Siege Online,3929
+shallow,0,242,5.837,0.0,14.85,complaint,Iron Siege Online,3929
+shallow ending,0,242,5.837,0.0,14.85,complaint,Iron Siege Online,3929
+story shallow,0,242,5.837,0.0,14.85,complaint,Iron Siege Online,3929
+characters,0,227,5.773,0.0,13.93,complaint,Iron Siege Online,3929
+characters forgettable,0,227,5.773,0.0,13.93,complaint,Iron Siege Online,3929
+forgettable,0,227,5.773,0.0,13.93,complaint,Iron Siege Online,3929
+graphics,0,203,5.662,0.0,12.45,complaint,Iron Siege Online,3929
+graphics look,0,203,5.662,0.0,12.45,complaint,Iron Siege Online,3929
+look outdated,0,203,5.662,0.0,12.45,complaint,Iron Siege Online,3929
+outdated,0,203,5.662,0.0,12.45,complaint,Iron Siege Online,3929
+outdated ugly,0,203,5.662,0.0,12.45,complaint,Iron Siege Online,3929
+fun,826,0,-6.374,35.93,0.0,praise,Iron Siege Online,3929
+community,628,0,-6.1,27.32,0.0,praise,Iron Siege Online,3929
+highly,623,0,-6.092,27.1,0.0,praise,Iron Siege Online,3929
+highly recommended,623,0,-6.092,27.1,0.0,praise,Iron Siege Online,3929
+recommended,623,0,-6.092,27.1,0.0,praise,Iron Siege Online,3929
+favorites,593,0,-6.043,25.79,0.0,praise,Iron Siege Online,3929
+favorites year,593,0,-6.043,25.79,0.0,praise,Iron Siege Online,3929
+year,593,0,-6.043,25.79,0.0,praise,Iron Siege Online,3929
+easily,555,0,-5.977,24.14,0.0,praise,Iron Siege Online,3929
+easily hundreds,555,0,-5.977,24.14,0.0,praise,Iron Siege Online,3929
+hundreds,555,0,-5.977,24.14,0.0,praise,Iron Siege Online,3929
+hundreds fun,555,0,-5.977,24.14,0.0,praise,Iron Siege Online,3929
+amazing,466,0,-5.803,20.27,0.0,praise,Iron Siege Online,3929
+incredible,365,0,-5.559,15.88,0.0,praise,Iron Siege Online,3929
+soundtrack,365,0,-5.559,15.88,0.0,praise,Iron Siege Online,3929
+soundtrack incredible,365,0,-5.559,15.88,0.0,praise,Iron Siege Online,3929
+adding,350,0,-5.517,15.22,0.0,praise,Iron Siege Online,3929
+adding free,350,0,-5.517,15.22,0.0,praise,Iron Siege Online,3929
+devs adding,350,0,-5.517,15.22,0.0,praise,Iron Siege Online,3929
+free,350,0,-5.517,15.22,0.0,praise,Iron Siege Online,3929
+free updates,350,0,-5.517,15.22,0.0,praise,Iron Siege Online,3929
+updates,350,0,-5.517,15.22,0.0,praise,Iron Siege Online,3929
+community patch,340,0,-5.488,14.79,0.0,praise,Iron Siege Online,3929
+developers,340,0,-5.488,14.79,0.0,praise,Iron Siege Online,3929
+developers listen,340,0,-5.488,14.79,0.0,praise,Iron Siege Online,3929
+uninstalled,0,363,7.096,0.0,26.34,complaint,Neon Drift Racers,5949
+can't,0,354,7.071,0.0,25.69,complaint,Neon Drift Racers,5949
+can't right,0,354,7.071,0.0,25.69,complaint,Neon Drift Racers,5949
+right,0,354,7.071,0.0,25.69,complaint,Neon Drift Racers,5949
+sale skip,0,341,7.033,0.0,24.75,complaint,Neon Drift Racers,5949
+skip,0,341,7.033,0.0,24.75,complaint,Neon Drift Racers,5949
+wait,0,341,7.033,0.0,24.75,complaint,Neon Drift Racers,5949
+wait sale,0,341,7.033,0.0,24.75,complaint,Neon Drift Racers,5949
+disappointed,0,320,6.97,0.0,23.22,complaint,Neon Drift Racers,5949
+forever,0,253,6.736,0.0,18.36,complaint,Neon Drift Racers,5949
+ending sense,0,194,6.472,0.0,14.08,complaint,Neon Drift Racers,5949
+sense,0,194,6.472,0.0,14.08,complaint,Neon Drift Racers,5949
+shallow,0,194,6.472,0.0,14.08,complaint,Neon Drift Racers,5949
+shallow ending,0,194,6.472,0.0,14.08,complaint,Neon Drift Racers,5949
+story shallow,0,194,6.472,0.0,14.08,complaint,Neon Drift Racers,5949
+graphics,0,193,6.466,0.0,14.01,complaint,Neon Drift Racers,5949
+graphics look,0,193,6.466,0.0,14.01,complaint,Neon Drift Racers,5949
+look outdated,0,193,6.466,0.0,14.01,complaint,Neon Drift Racers,5949
+outdated,0,193,6.466,0.0,14.01,complaint,Neon Drift Racers,5949
+outdated ugly,0,193,6.466,0.0,14.01,complaint,Neon Drift Racers,5949
+ugly,0,193,6.466,0.0,14.01,complaint,Neon Drift Racers,5949
+animations stiff,0,188,6.44,0.0,13.64,complaint,Neon Drift Racers,5949
+characters,0,188,6.44,0.0,13.64,complaint,Neon Drift Racers,5949
+characters forgettable,0,188,6.44,0.0,13.64,complaint,Neon Drift Racers,5949
+forgettable,0,188,6.44,0.0,13.64,complaint,Neon Drift Racers,5949
+fun,1606,0,-6.184,35.13,0.0,praise,Neon Drift Racers,5949
+community,1205,0,-5.896,26.36,0.0,praise,Neon Drift Racers,5949
+favorites,1151,0,-5.851,25.18,0.0,praise,Neon Drift Racers,5949
+favorites year,1151,0,-5.851,25.18,0.0,praise,Neon Drift Racers,5949
+year,1151,0,-5.851,25.18,0.0,praise,Neon Drift Racers,5949
+highly,1133,0,-5.835,24.79,0.0,praise,Neon Drift Racers,5949
+highly recommended,1133,0,-5.835,24.79,0.0,praise,Neon Drift Racers,5949
+recommended,1133,0,-5.835,24.79,0.0,praise,Neon Drift Racers,5949
+easily,1101,0,-5.806,24.09,0.0,praise,Neon Drift Racers,5949
+easily hundreds,1101,0,-5.806,24.09,0.0,praise,Neon Drift Racers,5949
+hundreds,1101,0,-5.806,24.09,0.0,praise,Neon Drift Racers,5949
+hundreds fun,1101,0,-5.806,24.09,0.0,praise,Neon Drift Racers,5949
+amazing,1000,0,-5.71,21.88,0.0,praise,Neon Drift Racers,5949
+acting,678,0,-5.322,14.83,0.0,praise,Neon Drift Racers,5949
+amazing music,678,0,-5.322,14.83,0.0,praise,Neon Drift Racers,5949
+music voice,678,0,-5.322,14.83,0.0,praise,Neon Drift Racers,5949
+voice,678,0,-5.322,14.83,0.0,praise,Neon Drift Racers,5949
+voice acting,678,0,-5.322,14.83,0.0,praise,Neon Drift Racers,5949
+adding,664,0,-5.301,14.53,0.0,praise,Neon Drift Racers,5949
+adding free,664,0,-5.301,14.53,0.0,praise,Neon Drift Racers,5949
+devs adding,664,0,-5.301,14.53,0.0,praise,Neon Drift Racers,5949
+free,664,0,-5.301,14.53,0.0,praise,Neon Drift Racers,5949
+free updates,664,0,-5.301,14.53,0.0,praise,Neon Drift Racers,5949
+updates,664,0,-5.301,14.53,0.0,praise,Neon Drift Racers,5949
+community friendly,654,0,-5.286,14.31,0.0,praise,Neon Drift Racers,5949
+can't,0,41,7.186,0.0,28.87,complaint,Pixel Farm Valley,4639
+can't right,0,41,7.186,0.0,28.87,complaint,Pixel Farm Valley,4639
+right,0,41,7.186,0.0,28.87,complaint,Pixel Farm Valley,4639
+uninstalled,0,35,7.032,0.0,24.65,complaint,Pixel Farm Valley,4639
+disappointed,0,34,7.004,0.0,23.94,complaint,Pixel Farm Valley,4639
+forever,0,33,6.975,0.0,23.24,complaint,Pixel Farm Valley,4639
+sale skip,0,32,6.945,0.0,22.54,complaint,Pixel Farm Valley,4639
+skip,0,32,6.945,0.0,22.54,complaint,Pixel Farm Valley,4639
+wait,0,32,6.945,0.0,22.54,complaint,Pixel Farm Valley,4639
+wait sale,0,32,6.945,0.0,22.54,complaint,Pixel Farm Valley,4639
+graphics,0,29,6.85,0.0,20.42,complaint,Pixel Farm Valley,4639
+graphics look,0,29,6.85,0.0,20.42,complaint,Pixel Farm Valley,4639
+look outdated,0,29,6.85,0.0,20.42,complaint,Pixel Farm Valley,4639
+outdated,0,29,6.85,0.0,20.42,complaint,Pixel Farm Valley,4639
+outdated ugly,0,29,6.85,0.0,20.42,complaint,Pixel Farm Valley,4639
+ugly,0,29,6.85,0.0,20.42,complaint,Pixel Farm Valley,4639
+ending sense,0,28,6.816,0.0,19.72,complaint,Pixel Farm Valley,4639
+sense,0,28,6.816,0.0,19.72,complaint,Pixel Farm Valley,4639
+shallow,0,28,6.816,0.0,19.72,complaint,Pixel Farm Valley,4639
+shallow ending,0,28,6.816,0.0,19.72,complaint,Pixel Farm Valley,4639
+story shallow,0,28,6.816,0.0,19.72,complaint,Pixel Farm Valley,4639
+sale,404,32,0.941,8.98,22.54,complaint,Pixel Farm Valley,4639
+story,413,28,0.79,9.18,19.72,complaint,Pixel Farm Valley,4639
+ending,422,28,0.768,9.38,19.72,complaint,Pixel Farm Valley,4639
+look,443,29,0.754,9.85,20.42,complaint,Pixel Farm Valley,4639
+fun,1599,0,-3.929,35.56,0.0,praise,Pixel Farm Valley,4639
+highly,1207,0,-3.648,26.84,0.0,praise,Pixel Farm Valley,4639
+highly recommended,1207,0,-3.648,26.84,0.0,praise,Pixel Farm Valley,4639
+recommended,1207,0,-3.648,26.84,0.0,praise,Pixel Farm Valley,4639
+community,1179,0,-3.625,26.22,0.0,praise,Pixel Farm Valley,4639
+favorites,1152,0,-3.602,25.62,0.0,praise,Pixel Farm Valley,4639
+favorites year,1152,0,-3.602,25.62,0.0,praise,Pixel Farm Valley,4639
+year,1152,0,-3.602,25.62,0.0,praise,Pixel Farm Valley,4639
+easily,1083,0,-3.54,24.08,0.0,praise,Pixel Farm Valley,4639
+easily hundreds,1083,0,-3.54,24.08,0.0,praise,Pixel Farm Valley,4639
+hundreds,1083,0,-3.54,24.08,0.0,praise,Pixel Farm Valley,4639
+hundreds fun,1083,0,-3.54,24.08,0.0,praise,Pixel Farm Valley,4639
+amazing,933,0,-3.391,20.75,0.0,praise,Pixel Farm Valley,4639
+adding,668,0,-3.057,14.85,0.0,praise,Pixel Farm Valley,4639
+adding free,668,0,-3.057,14.85,0.0,praise,Pixel Farm Valley,4639
+devs adding,668,0,-3.057,14.85,0.0,praise,Pixel Farm Valley,4639
+free,668,0,-3.057,14.85,0.0,praise,Pixel Farm Valley,4639
+free updates,668,0,-3.057,14.85,0.0,praise,Pixel Farm Valley,4639
+updates,668,0,-3.057,14.85,0.0,praise,Pixel Farm Valley,4639
+community friendly,632,0,-3.002,14.05,0.0,praise,Pixel Farm Valley,4639
+fast,632,0,-3.002,14.05,0.0,praise,Pixel Farm Valley,4639
+fast online,632,0,-3.002,14.05,0.0,praise,Pixel Farm Valley,4639
+friendly,632,0,-3.002,14.05,0.0,praise,Pixel Farm Valley,4639
+matchmaking fast,632,0,-3.002,14.05,0.0,praise,Pixel Farm Valley,4639
+online,632,0,-3.002,14.05,0.0,praise,Pixel Farm Valley,4639
+can't,0,167,7.225,0.0,26.85,complaint,Starforge Odyssey,5716
+can't right,0,167,7.225,0.0,26.85,complaint,Starforge Odyssey,5716
+right,0,167,7.225,0.0,26.85,complaint,Starforge Odyssey,5716
+sale skip,0,155,7.151,0.0,24.92,complaint,Starforge Odyssey,5716
+skip,0,155,7.151,0.0,24.92,complaint,Starforge Odyssey,5716
+wait,0,155,7.151,0.0,24.92,complaint,Starforge Odyssey,5716
+wait sale,0,155,7.151,0.0,24.92,complaint,Starforge Odyssey,5716
+uninstalled,0,152,7.132,0.0,24.44,complaint,Starforge Odyssey,5716
+disappointed,0,148,7.105,0.0,23.79,complaint,Starforge Odyssey,5716
+forever,0,111,6.82,0.0,17.85,complaint,Starforge Odyssey,5716
+animations stiff,0,87,6.579,0.0,13.99,complaint,Starforge Odyssey,5716
+missions,0,87,6.579,0.0,13.99,complaint,Starforge Odyssey,5716
+stiff,0,87,6.579,0.0,13.99,complaint,Starforge Odyssey,5716
+graphics,0,84,6.544,0.0,13.5,complaint,Starforge Odyssey,5716
+graphics look,0,84,6.544,0.0,13.5,complaint,Starforge Odyssey,5716
+look outdated,0,84,6.544,0.0,13.5,complaint,Starforge Odyssey,5716
+outdated,0,84,6.544,0.0,13.5,complaint,Starforge Odyssey,5716
+outdated ugly,0,84,6.544,0.0,13.5,complaint,Starforge Odyssey,5716
+ugly,0,84,6.544,0.0,13.5,complaint,Starforge Odyssey,5716
+characters,0,81,6.508,0.0,13.02,complaint,Starforge Odyssey,5716
+characters forgettable,0,81,6.508,0.0,13.02,complaint,Starforge Odyssey,5716
+forgettable,0,81,6.508,0.0,13.02,complaint,Starforge Odyssey,5716
+ending sense,0,78,6.471,0.0,12.54,complaint,Starforge Odyssey,5716
+sense,0,78,6.471,0.0,12.54,complaint,Starforge Odyssey,5716
+shallow,0,78,6.471,0.0,12.54,complaint,Starforge Odyssey,5716
+fun,1810,0,-5.4,35.53,0.0,praise,Starforge Odyssey,5716
+community,1414,0,-5.153,27.76,0.0,praise,Starforge Odyssey,5716
+favorites,1319,0,-5.084,25.89,0.0,praise,Starforge Odyssey,5716
+favorites year,1319,0,-5.084,25.89,0.0,praise,Starforge Odyssey,5716
+year,1319,0,-5.084,25.89,0.0,praise,Starforge Odyssey,5716
+highly,1263,0,-5.041,24.79,0.0,praise,Starforge Odyssey,5716
+highly recommended,1263,0,-5.041,24.79,0.0,praise,Starforge Odyssey,5716
+recommended,1263,0,-5.041,24.79,0.0,praise,Starforge Odyssey,5716
+easily,1231,0,-5.015,24.17,0.0,praise,Starforge Odyssey,5716
+easily hundreds,1231,0,-5.015,24.17,0.0,praise,Starforge Odyssey,5716
+hundreds,1231,0,-5.015,24.17,0.0,praise,Starforge Odyssey,5716
+hundreds fun,1231,0,-5.015,24.17,0.0,praise,Starforge Odyssey,5716
+amazing,1092,0,-4.895,21.44,0.0,praise,Starforge Odyssey,5716
+community friendly,775,0,-4.553,15.21,0.0,praise,Starforge Odyssey,5716
+fast,775,0,-4.553,15.21,0.0,praise,Starforge Odyssey,5716
+fast online,775,0,-4.553,15.21,0.0,praise,Starforge Odyssey,5716
+friendly,775,0,-4.553,15.21,0.0,praise,Starforge Odyssey,5716
+matchmaking fast,775,0,-4.553,15.21,0.0,praise,Starforge Odyssey,5716
+online,775,0,-4.553,15.21,0.0,praise,Starforge Odyssey,5716
+online community,775,0,-4.553,15.21,0.0,praise,Starforge Odyssey,5716
+acting,765,0,-4.54,15.02,0.0,praise,Starforge Odyssey,5716
+amazing music,765,0,-4.54,15.02,0.0,praise,Starforge Odyssey,5716
+music voice,765,0,-4.54,15.02,0.0,praise,Starforge Odyssey,5716
+voice,765,0,-4.54,15.02,0.0,praise,Starforge Odyssey,5716
+voice acting,765,0,-4.54,15.02,0.0,praise,Starforge Odyssey,5716
+can't,0,269,7.277,0.0,27.37,complaint,Tiny Kingdom Builder,6255
+can't right,0,269,7.277,0.0,27.37,complaint,Tiny Kingdom Builder,6255
+right,0,269,7.277,0.0,27.37,complaint,Tiny Kingdom Builder,6255
+disappointed,0,259,7.239,0.0,26.35,complaint,Tiny Kingdom Builder,6255
+sale skip,0,232,7.13,0.0,23.6,complaint,Tiny Kingdom Builder,6255
+skip,0,232,7.13,0.0,23.6,complaint,Tiny Kingdom Builder,6255
+wait,0,232,7.13,0.0,23.6,complaint,Tiny Kingdom Builder,6255
+wait sale,0,232,7.13,0.0,23.6,complaint,Tiny Kingdom Builder,6255
+uninstalled,0,223,7.09,0.0,22.69,complaint,Tiny Kingdom Builder,6255
+forever,0,174,6.844,0.0,17.7,complaint,Tiny Kingdom Builder,6255
+graphics,0,153,6.716,0.0,15.56,complaint,Tiny Kingdom Builder,6255
+graphics look,0,153,6.716,0.0,15.56,complaint,Tiny Kingdom Builder,6255
+look outdated,0,153,6.716,0.0,15.56,complaint,Tiny Kingdom Builder,6255
+outdated,0,153,6.716,0.0,15.56,complaint,Tiny Kingdom Builder,6255
+outdated ugly,0,153,6.716,0.0,15.56,complaint,Tiny Kingdom Builder,6255
+ugly,0,153,6.716,0.0,15.56,complaint,Tiny Kingdom Builder,6255
+characters,0,147,6.676,0.0,14.95,complaint,Tiny Kingdom Builder,6255
+characters forgettable,0,147,6.676,0.0,14.95,complaint,Tiny Kingdom Builder,6255
+forgettable,0,147,6.676,0.0,14.95,complaint,Tiny Kingdom Builder,6255
+animations stiff,0,144,6.655,0.0,14.65,complaint,Tiny Kingdom Builder,6255
+stiff,0,144,6.655,0.0,14.65,complaint,Tiny Kingdom Builder,6255
+ending sense,0,134,6.584,0.0,13.63,complaint,Tiny Kingdom Builder,6255
+sense,0,134,6.584,0.0,13.63,complaint,Tiny Kingdom Builder,6255
+shallow,0,134,6.584,0.0,13.63,complaint,Tiny Kingdom Builder,6255
+shallow ending,0,134,6.584,0.0,13.63,complaint,Tiny Kingdom Builder,6255
+fun,1923,0,-5.883,36.48,0.0,praise,Tiny Kingdom Builder,6255
+community,1390,0,-5.559,26.37,0.0,praise,Tiny Kingdom Builder,6255
+easily,1327,0,-5.513,25.17,0.0,praise,Tiny Kingdom Builder,6255
+easily hundreds,1327,0,-5.513,25.17,0.0,praise,Tiny Kingdom Builder,6255
+hundreds,1327,0,-5.513,25.17,0.0,praise,Tiny Kingdom Builder,6255
+hundreds fun,1327,0,-5.513,25.17,0.0,praise,Tiny Kingdom Builder,6255
+highly,1313,0,-5.502,24.91,0.0,praise,Tiny Kingdom Builder,6255
+highly recommended,1313,0,-5.502,24.91,0.0,praise,Tiny Kingdom Builder,6255
+recommended,1313,0,-5.502,24.91,0.0,praise,Tiny Kingdom Builder,6255
+favorites,1299,0,-5.491,24.64,0.0,praise,Tiny Kingdom Builder,6255
+favorites year,1299,0,-5.491,24.64,0.0,praise,Tiny Kingdom Builder,6255
+year,1299,0,-5.491,24.64,0.0,praise,Tiny Kingdom Builder,6255
+amazing,1065,0,-5.293,20.2,0.0,praise,Tiny Kingdom Builder,6255
+community patch,776,0,-4.977,14.72,0.0,praise,Tiny Kingdom Builder,6255
+developers,776,0,-4.977,14.72,0.0,praise,Tiny Kingdom Builder,6255
+developers listen,776,0,-4.977,14.72,0.0,praise,Tiny Kingdom Builder,6255
+listen,776,0,-4.977,14.72,0.0,praise,Tiny Kingdom Builder,6255
+listen community,776,0,-4.977,14.72,0.0,praise,Tiny Kingdom Builder,6255
+patch quickly,776,0,-4.977,14.72,0.0,praise,Tiny Kingdom Builder,6255
+quickly,776,0,-4.977,14.72,0.0,praise,Tiny Kingdom Builder,6255
+adding,769,0,-4.968,14.59,0.0,praise,Tiny Kingdom Builder,6255
+adding free,769,0,-4.968,14.59,0.0,praise,Tiny Kingdom Builder,6255
+devs adding,769,0,-4.968,14.59,0.0,praise,Tiny Kingdom Builder,6255
+free,769,0,-4.968,14.59,0.0,praise,Tiny Kingdom Builder,6255
+free updates,769,0,-4.968,14.59,0.0,praise,Tiny Kingdom Builder,6255
