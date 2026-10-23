@@ -1,26 +1,316 @@
 game,checked,agreement_pct,steam_pct_positive,vader_pct_positive,avg_compound
-ARK: Survival Evolved,2000,73.8,68.8,68.8,0.346
-Among Us,2000,76.8,93.95,75.85,0.46
-Arma 3,2000,75.8,88.95,74.05,0.428
-Dead by Daylight,2000,69.4,77.45,63.85,0.266
-Fallout 4,2000,73.25,72.15,69.8,0.362
-Garry's Mod,2000,78.55,96.35,77.5,0.468
-Grand Theft Auto V,2000,71.7,63.55,61.75,0.256
-Hollow Knight,2000,86.75,96.65,86.1,0.632
-Monster Hunter: World,2000,76.55,87.0,74.05,0.435
-No Man's Sky,2000,77.0,67.85,74.25,0.436
-PAYDAY 2,2000,69.5,78.95,67.35,0.353
-PLAYERUNKNOWN'S BATTLEGROUNDS,2000,72.3,53.15,53.05,0.12
-Phasmophobia,2000,70.7,97.15,70.45,0.382
-Portal 2,2000,84.85,98.55,84.9,0.615
-Rocket League,2000,79.55,85.0,76.05,0.465
-Rust,2000,69.95,80.6,64.55,0.285
-Sid Meier's Civilization V,2000,76.65,96.2,76.15,0.463
-Stardew Valley,2000,87.95,99.0,88.45,0.658
-Subnautica,2000,85.4,95.45,85.25,0.605
-Terraria,2000,84.1,98.0,83.2,0.549
-The Elder Scrolls V: Skyrim,2000,75.3,92.15,74.35,0.452
-The Forest,2000,76.0,93.5,74.5,0.446
-The Witcher 3: Wild Hunt,2000,84.7,96.95,83.65,0.586
-Tom Clancy's Rainbow Six Siege,2000,75.6,87.2,72.2,0.386
-Undertale,2000,78.65,95.1,78.75,0.522
+20XX,500,87.4,95.6,88.2,0.674
+A Hat in Time,500,87.0,97.6,87.0,0.679
+A Short Hike,500,94.2,99.0,94.8,0.79
+A Way Out,500,86.6,88.6,84.4,0.612
+ARK: Survival Evolved,500,70.8,64.4,67.6,0.351
+ATLAS,500,69.6,44.6,57.4,0.171
+Age of Empires II (2013),500,81.6,93.4,81.0,0.546
+Age of Empires: Definitive Edition,500,80.2,76.2,73.6,0.427
+American Truck Simulator,500,85.4,93.2,85.8,0.611
+Among Us,500,74.8,92.6,73.4,0.401
+Ancestors Legacy,500,75.6,72.8,73.2,0.438
+Arma 3,500,79.0,87.2,74.6,0.432
+Artifact,500,72.2,56.8,68.6,0.387
+Assassin's Creed Odyssey,500,84.4,88.8,81.6,0.528
+Assassin's Creed Origins,500,82.2,81.8,79.6,0.533
+Avorion,500,83.2,90.2,81.8,0.551
+Axiom Verge,500,92.0,94.8,89.6,0.682
+BATTALION 1944,500,69.2,54.0,64.8,0.283
+BATTLETECH,500,81.0,84.2,80.4,0.51
+BERSERK and the Band of the Hawk,500,67.0,76.2,67.6,0.351
+Baba Is You,500,79.6,98.6,80.2,0.527
+Banished,500,81.6,89.8,80.2,0.512
+Batman: Arkham Asylum GOTY Edition,500,81.4,95.4,81.2,0.556
+Battle Royale Trainer,198,76.26,74.75,72.22,0.376
+BattleBlock Theater,500,81.2,97.4,81.8,0.588
+BeamNG.drive,500,82.8,95.8,83.4,0.556
+Beat Saber,500,82.8,96.4,82.4,0.545
+BioShock Infinite,500,83.6,93.0,82.6,0.57
+Black Desert Online,500,73.4,69.4,74.8,0.45
+Black Mesa,500,86.0,93.4,86.2,0.634
+Blackwake,500,76.4,82.2,71.8,0.406
+Bless Online,500,70.0,36.4,55.2,0.173
+Bloons TD 6,500,81.8,93.2,80.6,0.517
+Bomber Crew,500,77.4,87.4,73.2,0.371
+Borderlands 3,500,73.8,80.4,73.8,0.419
+Broforce,500,76.2,97.0,75.2,0.478
+Budget Cuts,500,76.4,76.8,71.2,0.386
+CHRONO TRIGGER,500,80.6,84.0,77.8,0.525
+Call of Duty: Infinite Warfare,500,70.0,46.8,58.8,0.208
+Call of Duty: WWII,500,74.0,52.0,61.2,0.228
+Castle Crashers,500,84.6,95.4,83.2,0.586
+Cave Story+,500,84.4,94.4,85.2,0.614
+Celeste,500,86.4,96.4,85.2,0.617
+Cities: Skylines,500,82.4,91.0,82.2,0.539
+Clicker Heroes 2,500,66.0,59.4,77.8,0.514
+Cold Waters,500,81.8,85.2,77.8,0.474
+Conan Exiles,500,76.8,75.0,76.2,0.457
+Counter-Strike: Source,500,71.8,94.0,70.6,0.401
+Crash Bandicoot™ N. Sane Trilogy,500,76.0,87.4,73.8,0.44
+Crusader Kings III,500,76.8,93.8,75.0,0.458
+Cube World,500,65.6,36.4,60.0,0.237
+Cuphead,500,75.6,97.2,74.4,0.452
+Cyberdimension Neptunia: 4 Goddesses Online,500,74.8,79.2,68.8,0.396
+DARK SOULS™ III,500,70.8,90.8,68.0,0.348
+DARK SOULS™: REMASTERED,500,71.4,81.2,66.6,0.341
+DEATH STRANDING,500,77.0,91.4,76.4,0.489
+DOOM,500,68.2,93.6,64.6,0.278
+DOOM Eternal,500,69.4,85.2,64.2,0.253
+DRAGON BALL FighterZ,500,77.0,86.6,76.8,0.453
+DRAGON QUEST HEROES™ II,319,74.92,67.08,72.1,0.406
+DUSK,500,77.0,98.2,76.8,0.477
+DYNASTY WARRIORS 9,500,73.2,51.0,58.6,0.191
+Danganronpa 2: Goodbye Despair,500,75.0,97.2,75.0,0.471
+Danganronpa: Trigger Happy Havoc,500,77.8,96.0,77.0,0.489
+Darkest Dungeon®,500,68.6,88.8,65.4,0.271
+Darksiders III,500,71.4,72.8,64.2,0.268
+Day of Infamy,500,74.2,83.6,69.8,0.354
+Dead Cells,500,79.2,96.0,78.0,0.48
+Dead Rising 4,500,70.2,51.2,52.6,0.083
+Dead by Daylight,500,70.6,77.8,64.8,0.272
+Deep Rock Galactic,500,81.4,96.6,81.2,0.593
+Desolate,500,77.6,72.0,68.0,0.348
+Detention,500,75.4,96.4,73.8,0.418
+Deus Ex: The Fall,500,67.4,31.2,51.4,0.073
+Devil May Cry HD Collection,500,63.8,88.4,61.0,0.248
+DiRT 4,500,79.2,74.2,75.4,0.416
+Dishonored,500,81.0,97.6,80.6,0.517
+Divinity: Original Sin 2,500,82.2,93.6,81.8,0.57
+Doki Doki Literature Club,500,69.6,97.4,69.8,0.389
+Don't Escape: 4 Days to Survive,500,92.2,98.2,93.6,0.75
+Don't Starve,500,76.0,96.6,75.8,0.463
+Don't Starve Together,500,83.8,96.8,83.0,0.585
+Down To One,500,67.4,37.0,52.8,0.141
+Dragon Cliff 龙崖,500,81.6,85.0,86.6,0.599
+Duck Game,500,77.6,96.0,77.6,0.494
+Due Process,500,78.8,88.6,80.2,0.524
+Dungreed,500,81.2,87.8,81.0,0.507
+Dying Light,500,79.4,90.6,76.4,0.475
+Eco,500,79.4,76.2,83.6,0.564
+Enter the Gungeon,500,72.2,94.8,71.4,0.393
+Euro Truck Simulator 2,500,85.2,96.8,84.4,0.582
+Europa Universalis IV,500,76.2,85.4,76.4,0.428
+FAR: Lone Sails,500,89.4,92.4,93.4,0.727
+FINAL FANTASY XII THE ZODIAC AGE,500,85.8,88.8,85.0,0.615
+FINAL FANTASY XIV Online,500,80.8,88.2,79.8,0.556
+FINAL FANTASY XV WINDOWS EDITION,500,78.6,81.0,76.0,0.48
+FTL: Faster Than Light,500,73.8,95.6,74.2,0.402
+Factorio,500,79.4,99.0,78.8,0.527
+Fairy Fencer F Advent Dark Force,500,78.6,80.0,80.2,0.525
+Fallout 4,500,73.0,75.6,71.8,0.394
+Far Cry 5,500,74.8,72.4,65.2,0.295
+Farm Manager 2018,500,73.2,65.8,75.0,0.497
+Farm Together,500,87.2,90.2,89.4,0.702
+Farming Simulator 19,500,85.0,88.2,82.8,0.551
+Finding Paradise,500,84.4,97.0,85.4,0.623
+Fishing: Barents Sea,500,78.4,72.8,80.8,0.533
+Football Manager 2019,500,77.4,79.4,74.0,0.412
+For Honor,500,71.4,61.0,61.6,0.239
+For The King,500,86.8,87.2,82.8,0.558
+Foundation,500,85.6,85.2,85.6,0.631
+Freeman: Guerrilla Warfare,500,75.6,74.2,74.6,0.463
+Frostpunk,500,79.2,90.0,81.2,0.525
+GOD EATER 3,500,79.6,88.4,78.0,0.482
+GRIS,500,88.6,94.0,89.8,0.699
+Garry's Mod,500,77.2,97.2,76.0,0.48
+Getting Over It with Bennett Foddy,500,58.8,81.2,54.8,0.127
+Ghost of a Tale,500,90.0,90.8,90.4,0.744
+Golf It!,500,80.0,87.0,76.6,0.479
+Grand Theft Auto V,500,73.6,62.8,60.0,0.229
+Grimm's Hollow,500,91.2,97.4,90.6,0.707
+Guacamelee! Super Turbo Championship Edition,500,86.2,91.8,86.4,0.64
+Gunpoint,500,90.0,98.4,90.0,0.662
+HITMAN™ 2,500,75.4,85.4,73.6,0.432
+Hades,500,84.2,98.6,83.6,0.585
+Half-Life,500,75.4,97.6,74.6,0.453
+Half-Life 2: Episode Two,500,67.4,94.8,64.2,0.339
+Half-Life: Alyx,500,82.8,98.2,82.6,0.595
+Hearts of Iron IV,500,77.8,85.2,72.2,0.393
+Helltaker,500,81.8,98.4,81.4,0.551
+Heroes of Hammerwatch,500,86.2,89.4,84.0,0.603
+Hollow Knight,500,85.4,96.8,84.6,0.613
+Hotline Miami,500,63.8,96.4,63.0,0.287
+House Flipper,500,85.8,89.8,87.6,0.618
+Human: Fall Flat,500,86.2,92.8,84.2,0.609
+HuniePop,500,75.2,96.0,76.0,0.48
+Hunt Down The Freeman,500,67.6,37.2,48.4,0.022
+Hunt: Showdown,500,75.8,77.6,72.6,0.395
+Iconoclasts,500,84.4,83.4,84.2,0.615
+Identity,500,65.2,22.8,46.8,0.033
+Insurgency: Sandstorm,500,79.4,80.0,73.0,0.407
+Into the Breach,500,80.8,92.2,81.8,0.528
+Jurassic World Evolution,500,82.4,84.4,83.2,0.586
+Just Cause 3,500,74.4,76.0,71.2,0.381
+Just Cause 4,500,70.2,49.4,58.8,0.185
+Just Shapes & Beats,500,86.2,97.2,86.6,0.626
+Keep Talking and Nobody Explodes,500,85.0,98.6,85.6,0.626
+Kenshi,500,70.8,96.8,70.4,0.373
+Kingdom Come: Deliverance,500,79.4,78.0,71.0,0.4
+Kingdom Two Crowns,500,82.8,82.4,79.6,0.535
+Little Nightmares,500,80.0,89.6,78.8,0.506
+METAL GEAR SURVIVE,500,73.4,67.4,67.2,0.305
+MORDHAU,500,68.0,81.8,59.4,0.23
+Mark of the Ninja,500,82.6,96.6,82.8,0.558
+Middle-earth™: Shadow of War™,500,75.8,80.6,68.4,0.331
+Mirror,500,76.8,90.2,74.2,0.43
+Momodora: Reverie Under the Moonlight,500,85.2,93.0,82.6,0.577
+Monster Hunter: World,500,72.4,87.6,71.6,0.368
+Monster Prom,500,84.8,95.8,85.4,0.645
+Mount & Blade: Warband,500,75.4,98.0,75.8,0.446
+Mutant Year Zero: Road to Eden,500,85.2,88.2,82.2,0.525
+My Time At Portia,500,88.6,93.6,89.8,0.686
+NBA 2K18,500,63.6,28.8,53.6,0.116
+NBA 2K19,500,67.4,41.4,56.0,0.144
+NBA 2K21,500,69.4,36.0,49.4,0.082
+Neon Hardcorps,43,62.79,27.91,46.51,-0.015
+Nether,500,68.8,36.8,49.2,0.056
+Ni no Kuni™ II: Revenant Kingdom,500,81.2,82.2,79.8,0.537
+NieR:Automata™,500,79.8,89.0,79.6,0.511
+Night in the Woods,500,86.4,92.6,87.8,0.668
+Nioh: Complete Edition,500,73.8,81.2,72.6,0.388
+No Man's Sky,500,74.6,64.0,71.8,0.381
+Northgard,500,82.6,85.0,82.8,0.576
+Nova Drift,500,82.6,97.6,83.0,0.564
+One Finger Death Punch,500,75.2,98.8,74.0,0.418
+OneShot,500,88.2,98.2,88.0,0.675
+Ori and the Will of the Wisps,500,90.8,96.0,90.0,0.702
+Out of the Park Baseball 19,500,85.8,85.8,86.8,0.656
+Outlast,500,61.8,94.6,59.6,0.186
+Overcooked! 2,500,86.0,94.0,86.8,0.635
+Oxygen Not Included,500,83.2,96.0,81.2,0.509
+PAYDAY 2,500,69.8,80.6,70.0,0.383
+PC Building Simulator,500,85.8,92.4,84.6,0.573
+PLAYERUNKNOWN'S BATTLEGROUNDS,500,73.4,55.8,57.2,0.187
+"Papers, Please",500,75.6,95.6,75.6,0.447
+Pathfinder: Kingmaker,500,81.2,77.8,78.2,0.484
+People Playground,500,70.8,98.2,69.4,0.339
+Persona 4 Golden,500,81.2,98.0,81.6,0.566
+Phasmophobia,500,67.8,98.8,67.8,0.35
+Phoenix Wright: Ace Attorney Trilogy,500,80.4,97.2,79.2,0.539
+Pillars of Eternity II: Deadfire,500,85.4,85.8,83.2,0.587
+Pit People,500,81.0,95.0,82.8,0.563
+PixARK,500,73.8,59.2,67.8,0.343
+Planet Coaster,500,86.2,90.2,86.4,0.624
+Pogostuck: Rage With Your Friends,500,64.6,82.8,55.8,0.158
+Portal 2,500,83.6,98.8,83.2,0.581
+Puyo Puyo™Tetris® ,500,73.4,86.0,74.6,0.463
+Raft,500,81.8,88.2,78.0,0.513
+Railway Empire,500,80.0,77.2,81.2,0.519
+Rapture Rejects,500,65.2,31.2,54.0,0.153
+Ravenfield,500,83.4,95.2,82.6,0.556
+Resident Evil 2,500,76.0,95.2,73.6,0.44
+Resident Evil 7 Biohazard,500,62.4,91.8,60.2,0.21
+RimWorld,500,73.6,99.0,73.4,0.405
+Rise of Industry,500,80.8,76.8,85.2,0.62
+Rise of the Tomb Raider,500,85.4,87.4,85.6,0.621
+Rocket League,500,82.2,83.8,77.2,0.493
+RollerCoaster Tycoon World,500,58.6,24.0,59.4,0.24
+Rules Of Survival,500,68.0,52.0,43.2,-0.01
+Rust,500,70.8,80.8,64.0,0.294
+SCUM,500,74.6,67.0,66.0,0.312
+SENRAN KAGURA ESTIVAL VERSUS,500,73.4,94.4,71.0,0.426
+SENRAN KAGURA Peach Beach Splash,500,71.2,81.4,67.8,0.371
+SOS,500,60.0,24.2,54.6,0.138
+SOULCALIBUR VI,500,77.0,79.4,77.6,0.486
+STAR WARS™ Empire at War: Gold Pack,500,75.6,96.6,73.4,0.385
+STEINS;GATE,500,81.6,95.2,82.4,0.599
+STEINS;GATE 0,500,78.2,93.8,80.8,0.582
+Saints Row: The Third,500,76.8,95.8,76.6,0.504
+Salt and Sanctuary,500,74.8,89.2,72.8,0.411
+Satisfactory,500,82.6,95.8,83.2,0.56
+Secret of Mana,500,77.8,70.2,78.4,0.517
+Sekiro™: Shadows Die Twice,500,73.4,91.0,69.2,0.333
+Senren＊Banka,211,84.36,96.68,86.73,0.67
+Shadow Complex Remastered,342,82.75,82.75,79.53,0.511
+Shovel Knight: Treasure Trove,500,86.8,96.8,85.6,0.635
+Sid Meier's Civilization V,500,77.0,95.8,76.4,0.486
+Sid Meier's Civilization VI,500,75.2,76.0,71.6,0.392
+SimAirport,500,84.0,80.2,83.4,0.571
+Slay the Spire,500,87.0,97.0,85.6,0.559
+Slime Rancher,500,89.0,96.4,90.2,0.692
+Slipstream,500,83.2,84.8,84.0,0.623
+Sniper Elite 4,500,74.4,86.8,71.6,0.384
+South Park™: The Stick of Truth™,500,82.0,96.8,82.0,0.573
+Stardew Valley,500,87.2,98.4,87.2,0.63
+Staxel,500,83.8,77.6,83.8,0.62
+Stay Out,500,74.8,37.8,48.6,0.076
+Steel Division: Normandy 44,500,78.6,71.2,72.2,0.401
+Stellaris,500,80.8,83.4,76.6,0.443
+Streets of Rogue,500,87.2,98.0,88.0,0.618
+Styx: Shards of Darkness,500,81.8,79.4,72.8,0.433
+Subnautica,500,85.6,96.2,85.0,0.594
+Super Hexagon,500,68.8,96.4,66.8,0.362
+Super Meat Boy,500,70.6,96.0,70.6,0.365
+Surviving Mars,500,80.2,78.2,80.0,0.507
+Sword Art Online: Fatal Bullet,500,75.8,80.0,73.8,0.42
+Tabletop Simulator,500,84.0,96.0,84.8,0.573
+Takedown: Red Sabre,500,66.0,38.2,51.4,0.091
+Tales of Berseria,500,84.6,92.0,82.2,0.592
+Terraria,500,82.2,96.6,80.8,0.522
+The Binding of Isaac,500,72.4,94.4,70.8,0.382
+The Binding of Isaac: Rebirth,500,75.6,98.4,76.0,0.427
+The Crew 2,500,79.6,72.4,72.8,0.409
+The Elder Scrolls Online,500,79.8,73.6,77.0,0.462
+The Elder Scrolls V: Skyrim,500,70.4,93.0,69.0,0.394
+The Elder Scrolls V: Skyrim Special Edition,500,73.8,85.6,76.6,0.469
+The End Is Nigh,500,72.4,91.2,74.4,0.428
+The Forest,500,74.8,93.0,75.4,0.456
+The Henry Stickmin Collection,500,85.0,98.8,85.8,0.59
+The Legend of Heroes: Trails of Cold Steel II,500,82.8,95.6,82.0,0.591
+The Room,500,90.6,97.2,90.6,0.689
+The Room Two,500,94.2,97.6,94.6,0.753
+The Sims(TM) 3,500,70.0,82.6,71.4,0.382
+The Walking Dead,500,76.2,97.6,76.6,0.484
+The Wild Eight,500,77.6,70.4,69.6,0.369
+The Witcher 3: Wild Hunt,500,85.6,97.2,83.6,0.581
+The Wolf Among Us,500,85.4,98.0,85.0,0.614
+There Is No Game: Wrong Dimension,500,84.8,97.2,86.0,0.614
+They Are Billions,500,77.8,82.0,74.6,0.418
+Thief Simulator,500,74.8,82.0,75.6,0.428
+Thimbleweed Park,500,89.6,92.2,92.2,0.754
+Titan Souls,500,69.4,62.4,51.8,0.057
+To the Moon,500,82.0,94.6,84.2,0.605
+Tom Clancy's Ghost Recon® Wildlands,500,74.0,71.8,69.0,0.357
+Tom Clancy's Rainbow Six Siege,500,76.4,88.0,72.4,0.394
+Tomb Raider,500,84.2,93.4,83.6,0.591
+Torment: Tides of Numenera,500,75.0,66.6,76.8,0.477
+Total War Saga: Thrones of Britannia,500,73.0,65.4,60.4,0.211
+Total War: ROME II - Emperor Edition,500,70.4,73.0,60.2,0.22
+Total War: THREE KINGDOMS,500,75.4,82.6,67.2,0.329
+Total War: WARHAMMER,500,73.6,79.8,69.8,0.346
+Total War: WARHAMMER II,500,74.8,93.4,74.6,0.428
+Totally Accurate Battle Simulator,500,83.0,97.4,82.4,0.521
+Totally Accurate Battlegrounds,500,74.8,81.0,69.8,0.349
+Toukiden 2,489,75.46,78.94,76.89,0.493
+Townscaper,500,94.6,99.0,95.2,0.754
+Trailmakers,500,84.8,88.0,85.2,0.575
+Train Sim World® 2020,500,77.4,68.8,78.6,0.506
+Two Point Hospital,500,86.2,91.2,89.0,0.653
+ULTRAKILL,500,59.6,100.0,59.6,0.203
+Ultimate Marvel vs. Capcom 3,500,76.4,87.6,74.4,0.443
+Umbrella Corps,500,64.4,28.4,45.6,0.001
+Undertale,500,82.2,94.6,80.0,0.538
+Urban Empire,500,61.0,30.4,59.4,0.241
+VA-11 Hall-A: Cyberpunk Bartender Action,500,83.0,96.4,83.8,0.646
+Vampyr,500,77.4,75.6,71.0,0.351
+Void Bastards,500,76.8,87.8,76.2,0.465
+Volgarr the Viking,500,67.8,77.4,57.2,0.19
+WWE 2K17,500,68.8,53.8,64.6,0.289
+WWE 2K19,500,77.8,64.4,64.6,0.29
+WWE 2K20,500,65.6,30.4,53.6,0.129
+Wallpaper Engine,500,80.0,98.6,79.8,0.504
+"Warhammer 40,000: Dawn of War III",500,64.6,42.0,63.8,0.252
+"Warhammer 40,000: Mechanicus",500,83.2,91.6,81.6,0.556
+Warhammer: Vermintide 2,500,70.6,86.8,69.0,0.372
+Watch_Dogs 2,500,77.4,75.4,72.4,0.428
+We Were Here Too,500,78.0,78.0,80.4,0.545
+Wolfenstein: Youngblood,500,71.2,45.8,57.4,0.164
+X Rebirth,500,71.2,35.6,54.4,0.153
+X-Blades,500,72.8,49.6,50.0,0.045
+X-Plane 11,500,85.6,86.8,84.8,0.589
+XCOM 2,500,73.6,81.4,71.0,0.349
+Yakuza 0,500,77.6,93.8,76.6,0.498
+Youtubers Life,500,74.0,72.0,75.2,0.45
+theHunter: Call of the Wild™,500,77.0,85.0,77.6,0.477
+三国群英传8 Heroes of the Three Kingdoms 8,19,68.42,57.89,47.37,0.196

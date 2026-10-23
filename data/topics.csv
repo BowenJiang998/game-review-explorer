@@ -1,4 +1,36 @@
 game,topic,mentions_negative,mentions_positive,pct_of_positive_reviews,pct_of_negative_reviews,pct_mentions_negative
+20XX,Bugs & Performance,12.0,127.0,5.61,7.55,8.63
+20XX,Gameplay,85.0,874.0,38.64,53.46,8.86
+20XX,Graphics & Visuals,27.0,278.0,12.29,16.98,8.85
+20XX,Multiplayer & Servers,13.0,470.0,20.78,8.18,2.69
+20XX,Price & Value,33.0,424.0,18.74,20.75,7.22
+20XX,Sound & Music,8.0,355.0,15.69,5.03,2.2
+20XX,Story & Characters,43.0,409.0,18.08,27.04,9.51
+20XX,Updates & Developers,29.0,464.0,20.51,18.24,5.88
+A Hat in Time,Bugs & Performance,110.0,1192.0,6.43,28.5,8.45
+A Hat in Time,Gameplay,143.0,4835.0,26.08,37.05,2.87
+A Hat in Time,Graphics & Visuals,73.0,2404.0,12.97,18.91,2.95
+A Hat in Time,Multiplayer & Servers,31.0,830.0,4.48,8.03,3.6
+A Hat in Time,Price & Value,104.0,3623.0,19.54,26.94,2.79
+A Hat in Time,Sound & Music,45.0,2952.0,15.92,11.66,1.5
+A Hat in Time,Story & Characters,99.0,4549.0,24.53,25.65,2.13
+A Hat in Time,Updates & Developers,75.0,1023.0,5.52,19.43,6.83
+A Short Hike,Bugs & Performance,4.0,40.0,1.14,10.26,9.09
+A Short Hike,Gameplay,16.0,789.0,22.47,41.03,1.99
+A Short Hike,Graphics & Visuals,13.0,901.0,25.65,33.33,1.42
+A Short Hike,Multiplayer & Servers,2.0,22.0,0.63,5.13,8.33
+A Short Hike,Price & Value,16.0,526.0,14.98,41.03,2.95
+A Short Hike,Sound & Music,3.0,586.0,16.69,7.69,0.51
+A Short Hike,Story & Characters,11.0,900.0,25.63,28.21,1.21
+A Short Hike,Updates & Developers,3.0,145.0,4.13,7.69,2.03
+A Way Out,Bugs & Performance,36.0,86.0,2.95,8.55,29.51
+A Way Out,Gameplay,120.0,515.0,17.66,28.5,18.9
+A Way Out,Graphics & Visuals,41.0,230.0,7.88,9.74,15.13
+A Way Out,Multiplayer & Servers,83.0,763.0,26.16,19.71,9.81
+A Way Out,Price & Value,110.0,481.0,16.49,26.13,18.61
+A Way Out,Sound & Music,26.0,82.0,2.81,6.18,24.07
+A Way Out,Story & Characters,215.0,1437.0,49.26,51.07,13.01
+A Way Out,Updates & Developers,14.0,45.0,1.54,3.33,23.73
 ARK: Survival Evolved,Bugs & Performance,18484.0,20825.0,22.31,46.04,47.02
 ARK: Survival Evolved,Gameplay,5499.0,10806.0,11.57,13.7,33.73
 ARK: Survival Evolved,Graphics & Visuals,4196.0,10110.0,10.83,10.45,29.33
@@ -7,6 +39,38 @@ ARK: Survival Evolved,Price & Value,16591.0,13553.0,14.52,41.33,55.04
 ARK: Survival Evolved,Sound & Music,238.0,593.0,0.64,0.59,28.64
 ARK: Survival Evolved,Story & Characters,2928.0,4997.0,5.35,7.29,36.95
 ARK: Survival Evolved,Updates & Developers,14099.0,13493.0,14.45,35.12,51.1
+ATLAS,Bugs & Performance,3222.0,2460.0,30.95,36.22,56.71
+ATLAS,Gameplay,1335.0,1347.0,16.95,15.01,49.78
+ATLAS,Graphics & Visuals,543.0,563.0,7.08,6.1,49.1
+ATLAS,Multiplayer & Servers,2862.0,2135.0,26.86,32.18,57.27
+ATLAS,Price & Value,2881.0,1321.0,16.62,32.39,68.56
+ATLAS,Sound & Music,79.0,88.0,1.11,0.89,47.31
+ATLAS,Story & Characters,676.0,432.0,5.44,7.6,61.01
+ATLAS,Updates & Developers,2648.0,2519.0,31.69,29.77,51.25
+Age of Empires II (2013),Bugs & Performance,555.0,1226.0,4.81,31.25,31.16
+Age of Empires II (2013),Gameplay,166.0,2112.0,8.29,9.35,7.29
+Age of Empires II (2013),Graphics & Visuals,185.0,2170.0,8.52,10.42,7.86
+Age of Empires II (2013),Multiplayer & Servers,379.0,2893.0,11.36,21.34,11.58
+Age of Empires II (2013),Price & Value,454.0,2754.0,10.81,25.56,14.15
+Age of Empires II (2013),Sound & Music,20.0,419.0,1.64,1.13,4.56
+Age of Empires II (2013),Story & Characters,49.0,558.0,2.19,2.76,8.07
+Age of Empires II (2013),Updates & Developers,259.0,1035.0,4.06,14.58,20.02
+Age of Empires: Definitive Edition,Bugs & Performance,180.0,170.0,11.38,37.66,51.43
+Age of Empires: Definitive Edition,Gameplay,119.0,199.0,13.32,24.9,37.42
+Age of Empires: Definitive Edition,Graphics & Visuals,127.0,408.0,27.31,26.57,23.74
+Age of Empires: Definitive Edition,Multiplayer & Servers,72.0,120.0,8.03,15.06,37.5
+Age of Empires: Definitive Edition,Price & Value,117.0,154.0,10.31,24.48,43.17
+Age of Empires: Definitive Edition,Sound & Music,32.0,116.0,7.76,6.69,21.62
+Age of Empires: Definitive Edition,Story & Characters,24.0,41.0,2.74,5.02,36.92
+Age of Empires: Definitive Edition,Updates & Developers,77.0,110.0,7.36,16.11,41.18
+American Truck Simulator,Bugs & Performance,231.0,1115.0,4.7,19.36,17.16
+American Truck Simulator,Gameplay,131.0,1564.0,6.59,10.98,7.73
+American Truck Simulator,Graphics & Visuals,152.0,2715.0,11.44,12.74,5.3
+American Truck Simulator,Multiplayer & Servers,64.0,908.0,3.83,5.36,6.58
+American Truck Simulator,Price & Value,480.0,4077.0,17.18,40.23,10.53
+American Truck Simulator,Sound & Music,20.0,726.0,3.06,1.68,2.68
+American Truck Simulator,Story & Characters,39.0,455.0,1.92,3.27,7.89
+American Truck Simulator,Updates & Developers,220.0,1731.0,7.29,18.44,11.28
 Among Us,Bugs & Performance,534.0,2691.0,1.99,6.41,16.56
 Among Us,Gameplay,407.0,3752.0,2.77,4.88,9.79
 Among Us,Graphics & Visuals,137.0,2235.0,1.65,1.64,5.78
@@ -15,6 +79,14 @@ Among Us,Price & Value,943.0,8052.0,5.95,11.31,10.48
 Among Us,Sound & Music,25.0,388.0,0.29,0.3,6.05
 Among Us,Story & Characters,175.0,1817.0,1.34,2.1,8.79
 Among Us,Updates & Developers,559.0,3204.0,2.37,6.71,14.86
+Ancestors Legacy,Bugs & Performance,64.0,95.0,7.25,12.52,40.25
+Ancestors Legacy,Gameplay,225.0,473.0,36.11,44.03,32.23
+Ancestors Legacy,Graphics & Visuals,110.0,326.0,24.89,21.53,25.23
+Ancestors Legacy,Multiplayer & Servers,73.0,184.0,14.05,14.29,28.4
+Ancestors Legacy,Price & Value,131.0,283.0,21.6,25.64,31.64
+Ancestors Legacy,Sound & Music,57.0,231.0,17.63,11.15,19.79
+Ancestors Legacy,Story & Characters,76.0,205.0,15.65,14.87,27.05
+Ancestors Legacy,Updates & Developers,73.0,126.0,9.62,14.29,36.68
 Arma 3,Bugs & Performance,2204.0,8006.0,14.61,32.43,21.59
 Arma 3,Gameplay,1366.0,8811.0,16.08,20.1,13.42
 Arma 3,Graphics & Visuals,638.0,3978.0,7.26,9.39,13.82
@@ -23,6 +95,462 @@ Arma 3,Price & Value,2472.0,7556.0,13.79,36.37,24.65
 Arma 3,Sound & Music,54.0,393.0,0.72,0.79,12.08
 Arma 3,Story & Characters,360.0,2117.0,3.86,5.3,14.53
 Arma 3,Updates & Developers,698.0,1892.0,3.45,10.27,26.95
+Artifact,Bugs & Performance,130.0,85.0,1.86,4.09,60.47
+Artifact,Gameplay,745.0,1364.0,29.77,23.44,35.32
+Artifact,Graphics & Visuals,132.0,271.0,5.91,4.15,32.75
+Artifact,Multiplayer & Servers,192.0,290.0,6.33,6.04,39.83
+Artifact,Price & Value,1471.0,1625.0,35.46,46.29,47.51
+Artifact,Sound & Music,47.0,135.0,2.95,1.48,25.82
+Artifact,Story & Characters,281.0,418.0,9.12,8.84,40.2
+Artifact,Updates & Developers,327.0,410.0,8.95,10.29,44.37
+Assassin's Creed Odyssey,Bugs & Performance,792.0,1664.0,8.3,27.61,32.25
+Assassin's Creed Odyssey,Gameplay,1256.0,7222.0,36.03,43.78,14.81
+Assassin's Creed Odyssey,Graphics & Visuals,546.0,4539.0,22.65,19.03,10.74
+Assassin's Creed Odyssey,Multiplayer & Servers,74.0,165.0,0.82,2.58,30.96
+Assassin's Creed Odyssey,Price & Value,922.0,3862.0,19.27,32.14,19.27
+Assassin's Creed Odyssey,Sound & Music,170.0,911.0,4.55,5.93,15.73
+Assassin's Creed Odyssey,Story & Characters,973.0,7196.0,35.9,33.91,11.91
+Assassin's Creed Odyssey,Updates & Developers,239.0,629.0,3.14,8.33,27.53
+Assassin's Creed Origins,Bugs & Performance,1073.0,1960.0,17.53,40.02,35.38
+Assassin's Creed Origins,Gameplay,1005.0,4672.0,41.77,37.49,17.7
+Assassin's Creed Origins,Graphics & Visuals,528.0,3194.0,28.56,19.69,14.19
+Assassin's Creed Origins,Multiplayer & Servers,61.0,134.0,1.2,2.28,31.28
+Assassin's Creed Origins,Price & Value,836.0,2282.0,20.4,31.18,26.81
+Assassin's Creed Origins,Sound & Music,108.0,564.0,5.04,4.03,16.07
+Assassin's Creed Origins,Story & Characters,733.0,4289.0,38.35,27.34,14.6
+Assassin's Creed Origins,Updates & Developers,257.0,549.0,4.91,9.59,31.89
+Avorion,Bugs & Performance,122.0,523.0,13.26,29.26,18.91
+Avorion,Gameplay,144.0,1073.0,27.2,34.53,11.83
+Avorion,Graphics & Visuals,38.0,282.0,7.15,9.11,11.88
+Avorion,Multiplayer & Servers,70.0,637.0,16.15,16.79,9.9
+Avorion,Price & Value,152.0,697.0,17.67,36.45,17.9
+Avorion,Sound & Music,5.0,110.0,2.79,1.2,4.35
+Avorion,Story & Characters,36.0,357.0,9.05,8.63,9.16
+Avorion,Updates & Developers,117.0,894.0,22.66,28.06,11.57
+Axiom Verge,Bugs & Performance,35.0,201.0,7.74,16.67,14.83
+Axiom Verge,Gameplay,109.0,1031.0,39.7,51.9,9.56
+Axiom Verge,Graphics & Visuals,54.0,547.0,21.06,25.71,8.99
+Axiom Verge,Multiplayer & Servers,5.0,22.0,0.85,2.38,18.52
+Axiom Verge,Price & Value,44.0,382.0,14.71,20.95,10.33
+Axiom Verge,Sound & Music,61.0,889.0,34.23,29.05,6.42
+Axiom Verge,Story & Characters,76.0,941.0,36.23,36.19,7.47
+Axiom Verge,Updates & Developers,29.0,147.0,5.66,13.81,16.48
+BATTALION 1944,Bugs & Performance,938.0,1078.0,23.02,27.45,46.53
+BATTALION 1944,Gameplay,448.0,724.0,15.46,13.11,38.23
+BATTALION 1944,Graphics & Visuals,231.0,249.0,5.32,6.76,48.12
+BATTALION 1944,Multiplayer & Servers,989.0,953.0,20.35,28.94,50.93
+BATTALION 1944,Price & Value,929.0,539.0,11.51,27.19,63.28
+BATTALION 1944,Sound & Music,30.0,17.0,0.36,0.88,63.83
+BATTALION 1944,Story & Characters,97.0,122.0,2.61,2.84,44.29
+BATTALION 1944,Updates & Developers,852.0,1161.0,24.8,24.93,42.32
+BATTLETECH,Bugs & Performance,1102.0,1909.0,14.9,38.71,36.6
+BATTLETECH,Gameplay,1624.0,5010.0,39.11,57.04,24.48
+BATTLETECH,Graphics & Visuals,642.0,1652.0,12.9,22.55,27.99
+BATTLETECH,Multiplayer & Servers,191.0,630.0,4.92,6.71,23.26
+BATTLETECH,Price & Value,983.0,2641.0,20.62,34.53,27.12
+BATTLETECH,Sound & Music,173.0,722.0,5.64,6.08,19.33
+BATTLETECH,Story & Characters,842.0,3591.0,28.03,29.57,18.99
+BATTLETECH,Updates & Developers,662.0,1501.0,11.72,23.25,30.61
+BERSERK and the Band of the Hawk,Bugs & Performance,54.0,57.0,9.0,28.12,48.65
+BERSERK and the Band of the Hawk,Gameplay,75.0,166.0,26.22,39.06,31.12
+BERSERK and the Band of the Hawk,Graphics & Visuals,34.0,80.0,12.64,17.71,29.82
+BERSERK and the Band of the Hawk,Multiplayer & Servers,7.0,15.0,2.37,3.65,31.82
+BERSERK and the Band of the Hawk,Price & Value,69.0,111.0,17.54,35.94,38.33
+BERSERK and the Band of the Hawk,Sound & Music,5.0,40.0,6.32,2.6,11.11
+BERSERK and the Band of the Hawk,Story & Characters,56.0,224.0,35.39,29.17,20.0
+BERSERK and the Band of the Hawk,Updates & Developers,20.0,24.0,3.79,10.42,45.45
+Baba Is You,Bugs & Performance,8.0,43.0,0.84,6.61,15.69
+Baba Is You,Gameplay,51.0,1025.0,19.97,42.15,4.74
+Baba Is You,Graphics & Visuals,12.0,306.0,5.96,9.92,3.77
+Baba Is You,Multiplayer & Servers,4.0,42.0,0.82,3.31,8.7
+Baba Is You,Price & Value,21.0,332.0,6.47,17.36,5.95
+Baba Is You,Sound & Music,12.0,264.0,5.14,9.92,4.35
+Baba Is You,Story & Characters,10.0,247.0,4.81,8.26,3.89
+Baba Is You,Updates & Developers,11.0,98.0,1.91,9.09,10.09
+Banished,Bugs & Performance,419.0,1415.0,7.69,18.76,22.85
+Banished,Gameplay,548.0,3642.0,19.8,24.54,13.08
+Banished,Graphics & Visuals,197.0,1584.0,8.61,8.82,11.06
+Banished,Multiplayer & Servers,36.0,273.0,1.48,1.61,11.65
+Banished,Price & Value,557.0,2662.0,14.47,24.94,17.3
+Banished,Sound & Music,56.0,715.0,3.89,2.51,7.26
+Banished,Story & Characters,145.0,694.0,3.77,6.49,17.28
+Banished,Updates & Developers,373.0,1269.0,6.9,16.7,22.72
+Batman: Arkham Asylum GOTY Edition,Bugs & Performance,81.0,472.0,4.25,15.06,14.65
+Batman: Arkham Asylum GOTY Edition,Gameplay,198.0,4063.0,36.6,36.8,4.65
+Batman: Arkham Asylum GOTY Edition,Graphics & Visuals,62.0,1807.0,16.28,11.52,3.32
+Batman: Arkham Asylum GOTY Edition,Multiplayer & Servers,12.0,61.0,0.55,2.23,16.44
+Batman: Arkham Asylum GOTY Edition,Price & Value,77.0,1346.0,12.12,14.31,5.41
+Batman: Arkham Asylum GOTY Edition,Sound & Music,35.0,991.0,8.93,6.51,3.41
+Batman: Arkham Asylum GOTY Edition,Story & Characters,153.0,3894.0,35.07,28.44,3.78
+Batman: Arkham Asylum GOTY Edition,Updates & Developers,24.0,187.0,1.68,4.46,11.37
+Battle Royale Trainer,Bugs & Performance,6.0,18.0,12.16,12.0,25.0
+Battle Royale Trainer,Gameplay,1.0,32.0,21.62,2.0,3.03
+Battle Royale Trainer,Graphics & Visuals,3.0,10.0,6.76,6.0,23.08
+Battle Royale Trainer,Multiplayer & Servers,1.0,10.0,6.76,2.0,9.09
+Battle Royale Trainer,Price & Value,12.0,30.0,20.27,24.0,28.57
+Battle Royale Trainer,Sound & Music,1.0,1.0,0.68,2.0,50.0
+Battle Royale Trainer,Story & Characters,2.0,7.0,4.73,4.0,22.22
+Battle Royale Trainer,Updates & Developers,7.0,25.0,16.89,14.0,21.88
+BattleBlock Theater,Bugs & Performance,74.0,1022.0,5.63,13.96,6.75
+BattleBlock Theater,Gameplay,106.0,2323.0,12.81,20.0,4.36
+BattleBlock Theater,Graphics & Visuals,27.0,1062.0,5.86,5.09,2.48
+BattleBlock Theater,Multiplayer & Servers,96.0,3425.0,18.88,18.11,2.73
+BattleBlock Theater,Price & Value,87.0,1684.0,9.28,16.42,4.91
+BattleBlock Theater,Sound & Music,26.0,1173.0,6.47,4.91,2.17
+BattleBlock Theater,Story & Characters,76.0,2678.0,14.76,14.34,2.76
+BattleBlock Theater,Updates & Developers,36.0,237.0,1.31,6.79,13.19
+BeamNG.drive,Bugs & Performance,444.0,5702.0,26.22,37.98,7.22
+BeamNG.drive,Gameplay,182.0,1202.0,5.53,15.57,13.15
+BeamNG.drive,Graphics & Visuals,86.0,1654.0,7.6,7.36,4.94
+BeamNG.drive,Multiplayer & Servers,36.0,903.0,4.15,3.08,3.83
+BeamNG.drive,Price & Value,299.0,1787.0,8.22,25.58,14.33
+BeamNG.drive,Sound & Music,6.0,139.0,0.64,0.51,4.14
+BeamNG.drive,Story & Characters,21.0,428.0,1.97,1.8,4.68
+BeamNG.drive,Updates & Developers,168.0,2342.0,10.77,14.37,6.69
+Beat Saber,Bugs & Performance,165.0,496.0,2.06,14.69,24.96
+Beat Saber,Gameplay,133.0,2414.0,10.02,11.84,5.22
+Beat Saber,Graphics & Visuals,38.0,564.0,2.34,3.38,6.31
+Beat Saber,Multiplayer & Servers,92.0,477.0,1.98,8.19,16.17
+Beat Saber,Price & Value,390.0,2669.0,11.08,34.73,12.75
+Beat Saber,Sound & Music,148.0,2710.0,11.25,13.18,5.18
+Beat Saber,Story & Characters,27.0,386.0,1.6,2.4,6.54
+Beat Saber,Updates & Developers,558.0,1775.0,7.37,49.69,23.92
+BioShock Infinite,Bugs & Performance,435.0,3636.0,9.61,15.91,10.69
+BioShock Infinite,Gameplay,1261.0,11616.0,30.71,46.12,9.79
+BioShock Infinite,Graphics & Visuals,641.0,9002.0,23.8,23.45,6.65
+BioShock Infinite,Multiplayer & Servers,44.0,304.0,0.8,1.61,12.64
+BioShock Infinite,Price & Value,721.0,7234.0,19.13,26.37,9.06
+BioShock Infinite,Sound & Music,159.0,2290.0,6.05,5.82,6.49
+BioShock Infinite,Story & Characters,1565.0,21612.0,57.14,57.24,6.75
+BioShock Infinite,Updates & Developers,171.0,614.0,1.62,6.25,21.78
+Black Desert Online,Bugs & Performance,795.0,550.0,4.5,13.58,59.11
+Black Desert Online,Gameplay,2387.0,4686.0,38.3,40.77,33.75
+Black Desert Online,Graphics & Visuals,1143.0,2547.0,20.82,19.52,30.98
+Black Desert Online,Multiplayer & Servers,914.0,1083.0,8.85,15.61,45.77
+Black Desert Online,Price & Value,2045.0,2612.0,21.35,34.93,43.91
+Black Desert Online,Sound & Music,105.0,168.0,1.37,1.79,38.46
+Black Desert Online,Story & Characters,1517.0,2474.0,20.22,25.91,38.01
+Black Desert Online,Updates & Developers,659.0,533.0,4.36,11.26,55.29
+Black Mesa,Bugs & Performance,481.0,2891.0,11.37,36.69,14.26
+Black Mesa,Gameplay,376.0,3975.0,15.63,28.68,8.64
+Black Mesa,Graphics & Visuals,356.0,6316.0,24.83,27.15,5.34
+Black Mesa,Multiplayer & Servers,75.0,728.0,2.86,5.72,9.34
+Black Mesa,Price & Value,234.0,3958.0,15.56,17.85,5.58
+Black Mesa,Sound & Music,109.0,2386.0,9.38,8.31,4.37
+Black Mesa,Story & Characters,177.0,2869.0,11.28,13.5,5.81
+Black Mesa,Updates & Developers,289.0,3109.0,12.22,22.04,8.51
+Blackwake,Bugs & Performance,392.0,958.0,13.75,28.84,29.04
+Blackwake,Gameplay,233.0,1039.0,14.91,17.14,18.32
+Blackwake,Graphics & Visuals,134.0,478.0,6.86,9.86,21.9
+Blackwake,Multiplayer & Servers,371.0,1044.0,14.98,27.3,26.22
+Blackwake,Price & Value,377.0,1136.0,16.31,27.74,24.92
+Blackwake,Sound & Music,31.0,162.0,2.33,2.28,16.06
+Blackwake,Story & Characters,55.0,237.0,3.4,4.05,18.84
+Blackwake,Updates & Developers,254.0,1177.0,16.89,18.69,17.75
+Bless Online,Bugs & Performance,1451.0,768.0,38.17,41.1,65.39
+Bless Online,Gameplay,1153.0,778.0,38.67,32.66,59.71
+Bless Online,Graphics & Visuals,473.0,347.0,17.25,13.4,57.68
+Bless Online,Multiplayer & Servers,824.0,541.0,26.89,23.34,60.37
+Bless Online,Price & Value,1372.0,455.0,22.61,38.87,75.1
+Bless Online,Sound & Music,107.0,84.0,4.17,3.03,56.02
+Bless Online,Story & Characters,660.0,417.0,20.73,18.7,61.28
+Bless Online,Updates & Developers,884.0,778.0,38.67,25.04,53.19
+Bloons TD 6,Bugs & Performance,228.0,766.0,3.93,19.13,22.94
+Bloons TD 6,Gameplay,195.0,1499.0,7.69,16.36,11.51
+Bloons TD 6,Graphics & Visuals,51.0,888.0,4.56,4.28,5.43
+Bloons TD 6,Multiplayer & Servers,167.0,1275.0,6.54,14.01,11.58
+Bloons TD 6,Price & Value,432.0,2733.0,14.02,36.24,13.65
+Bloons TD 6,Sound & Music,14.0,234.0,1.2,1.17,5.65
+Bloons TD 6,Story & Characters,44.0,432.0,2.22,3.69,9.24
+Bloons TD 6,Updates & Developers,164.0,680.0,3.49,13.76,19.43
+Bomber Crew,Bugs & Performance,97.0,327.0,9.48,17.64,22.88
+Bomber Crew,Gameplay,327.0,1420.0,41.16,59.45,18.72
+Bomber Crew,Graphics & Visuals,44.0,405.0,11.74,8.0,9.8
+Bomber Crew,Multiplayer & Servers,11.0,82.0,2.38,2.0,11.83
+Bomber Crew,Price & Value,162.0,759.0,22.0,29.45,17.59
+Bomber Crew,Sound & Music,6.0,84.0,2.43,1.09,6.67
+Bomber Crew,Story & Characters,46.0,260.0,7.54,8.36,15.03
+Bomber Crew,Updates & Developers,71.0,292.0,8.46,12.91,19.56
+Borderlands 3,Bugs & Performance,1440.0,1676.0,9.89,31.66,46.21
+Borderlands 3,Gameplay,1640.0,4949.0,29.21,36.05,24.89
+Borderlands 3,Graphics & Visuals,438.0,1472.0,8.69,9.63,22.93
+Borderlands 3,Multiplayer & Servers,631.0,932.0,5.5,13.87,40.37
+Borderlands 3,Price & Value,1543.0,3375.0,19.92,33.92,31.37
+Borderlands 3,Sound & Music,243.0,640.0,3.78,5.34,27.52
+Borderlands 3,Story & Characters,2216.0,6863.0,40.51,48.71,24.41
+Borderlands 3,Updates & Developers,501.0,653.0,3.85,11.01,43.41
+Broforce,Bugs & Performance,164.0,544.0,3.79,27.42,23.16
+Broforce,Gameplay,157.0,1846.0,12.88,26.25,7.84
+Broforce,Graphics & Visuals,25.0,673.0,4.69,4.18,3.58
+Broforce,Multiplayer & Servers,139.0,1852.0,12.92,23.24,6.98
+Broforce,Price & Value,108.0,1241.0,8.66,18.06,8.01
+Broforce,Sound & Music,12.0,308.0,2.15,2.01,3.75
+Broforce,Story & Characters,103.0,1983.0,13.83,17.22,4.94
+Broforce,Updates & Developers,68.0,821.0,5.73,11.37,7.65
+Budget Cuts,Bugs & Performance,82.0,112.0,15.43,34.89,42.27
+Budget Cuts,Gameplay,104.0,223.0,30.72,44.26,31.8
+Budget Cuts,Graphics & Visuals,19.0,64.0,8.82,8.09,22.89
+Budget Cuts,Multiplayer & Servers,7.0,9.0,1.24,2.98,43.75
+Budget Cuts,Price & Value,70.0,135.0,18.6,29.79,34.15
+Budget Cuts,Sound & Music,4.0,24.0,3.31,1.7,14.29
+Budget Cuts,Story & Characters,45.0,157.0,21.63,19.15,22.28
+Budget Cuts,Updates & Developers,31.0,68.0,9.37,13.19,31.31
+CHRONO TRIGGER,Bugs & Performance,126.0,216.0,13.04,35.69,36.84
+CHRONO TRIGGER,Gameplay,85.0,379.0,22.87,24.08,18.32
+CHRONO TRIGGER,Graphics & Visuals,94.0,309.0,18.65,26.63,23.33
+CHRONO TRIGGER,Multiplayer & Servers,5.0,13.0,0.78,1.42,27.78
+CHRONO TRIGGER,Price & Value,117.0,270.0,16.29,33.14,30.23
+CHRONO TRIGGER,Sound & Music,22.0,253.0,15.27,6.23,8.0
+CHRONO TRIGGER,Story & Characters,65.0,502.0,30.3,18.41,11.46
+CHRONO TRIGGER,Updates & Developers,62.0,255.0,15.39,17.56,19.56
+Call of Duty: Infinite Warfare,Bugs & Performance,1540.0,750.0,18.63,30.02,67.25
+Call of Duty: Infinite Warfare,Gameplay,613.0,924.0,22.95,11.95,39.88
+Call of Duty: Infinite Warfare,Graphics & Visuals,441.0,571.0,14.18,8.6,43.58
+Call of Duty: Infinite Warfare,Multiplayer & Servers,1622.0,1553.0,38.57,31.62,51.09
+Call of Duty: Infinite Warfare,Price & Value,1439.0,879.0,21.83,28.05,62.08
+Call of Duty: Infinite Warfare,Sound & Music,95.0,149.0,3.7,1.85,38.93
+Call of Duty: Infinite Warfare,Story & Characters,483.0,1077.0,26.75,9.42,30.96
+Call of Duty: Infinite Warfare,Updates & Developers,385.0,254.0,6.31,7.5,60.25
+Call of Duty: WWII,Bugs & Performance,1364.0,947.0,16.35,26.5,59.02
+Call of Duty: WWII,Gameplay,1238.0,1205.0,20.8,24.05,50.68
+Call of Duty: WWII,Graphics & Visuals,614.0,998.0,17.23,11.93,38.09
+Call of Duty: WWII,Multiplayer & Servers,2128.0,1960.0,33.84,41.34,52.05
+Call of Duty: WWII,Price & Value,1743.0,1017.0,17.56,33.86,63.15
+Call of Duty: WWII,Sound & Music,143.0,185.0,3.19,2.78,43.6
+Call of Duty: WWII,Story & Characters,865.0,1479.0,25.54,16.81,36.9
+Call of Duty: WWII,Updates & Developers,625.0,332.0,5.73,12.14,65.31
+Castle Crashers,Bugs & Performance,205.0,2295.0,10.76,22.0,8.2
+Castle Crashers,Gameplay,236.0,3162.0,14.83,25.32,6.95
+Castle Crashers,Graphics & Visuals,64.0,1475.0,6.92,6.87,4.16
+Castle Crashers,Multiplayer & Servers,181.0,3215.0,15.08,19.42,5.33
+Castle Crashers,Price & Value,142.0,2219.0,10.41,15.24,6.01
+Castle Crashers,Sound & Music,22.0,726.0,3.4,2.36,2.94
+Castle Crashers,Story & Characters,109.0,2978.0,13.97,11.7,3.53
+Castle Crashers,Updates & Developers,55.0,246.0,1.15,5.9,18.27
+Cave Story+,Bugs & Performance,32.0,61.0,1.59,11.55,34.41
+Cave Story+,Gameplay,78.0,1251.0,32.61,28.16,5.87
+Cave Story+,Graphics & Visuals,35.0,767.0,19.99,12.64,4.36
+Cave Story+,Multiplayer & Servers,8.0,44.0,1.15,2.89,15.38
+Cave Story+,Price & Value,82.0,500.0,13.03,29.6,14.09
+Cave Story+,Sound & Music,44.0,1096.0,28.57,15.88,3.86
+Cave Story+,Story & Characters,113.0,2004.0,52.24,40.79,5.34
+Cave Story+,Updates & Developers,60.0,131.0,3.42,21.66,31.41
+Celeste,Bugs & Performance,24.0,123.0,1.12,7.77,16.33
+Celeste,Gameplay,153.0,4723.0,42.96,49.51,3.14
+Celeste,Graphics & Visuals,64.0,2224.0,20.23,20.71,2.8
+Celeste,Multiplayer & Servers,12.0,64.0,0.58,3.88,15.79
+Celeste,Price & Value,62.0,1420.0,12.92,20.06,4.18
+Celeste,Sound & Music,65.0,3292.0,29.94,21.04,1.94
+Celeste,Story & Characters,118.0,4596.0,41.8,38.19,2.5
+Celeste,Updates & Developers,30.0,403.0,3.67,9.71,6.93
+Cities: Skylines,Bugs & Performance,1113.0,2896.0,6.1,23.22,27.76
+Cities: Skylines,Gameplay,550.0,4196.0,8.83,11.48,11.59
+Cities: Skylines,Graphics & Visuals,405.0,3630.0,7.64,8.45,10.04
+Cities: Skylines,Multiplayer & Servers,107.0,900.0,1.89,2.23,10.63
+Cities: Skylines,Price & Value,2000.0,9686.0,20.39,41.73,17.11
+Cities: Skylines,Sound & Music,91.0,680.0,1.43,1.9,11.8
+Cities: Skylines,Story & Characters,168.0,1029.0,2.17,3.51,14.04
+Cities: Skylines,Updates & Developers,820.0,3017.0,6.35,17.11,21.37
+Clicker Heroes 2,Bugs & Performance,43.0,47.0,7.9,12.25,47.78
+Clicker Heroes 2,Gameplay,62.0,83.0,13.95,17.66,42.76
+Clicker Heroes 2,Graphics & Visuals,28.0,47.0,7.9,7.98,37.33
+Clicker Heroes 2,Multiplayer & Servers,5.0,6.0,1.01,1.42,45.45
+Clicker Heroes 2,Price & Value,177.0,208.0,34.96,50.43,45.97
+Clicker Heroes 2,Sound & Music,7.0,36.0,6.05,1.99,16.28
+Clicker Heroes 2,Story & Characters,44.0,69.0,11.6,12.54,38.94
+Clicker Heroes 2,Updates & Developers,141.0,186.0,31.26,40.17,43.12
+Cold Waters,Bugs & Performance,42.0,116.0,7.55,15.33,26.58
+Cold Waters,Gameplay,138.0,558.0,36.3,50.36,19.83
+Cold Waters,Graphics & Visuals,54.0,199.0,12.95,19.71,21.34
+Cold Waters,Multiplayer & Servers,17.0,63.0,4.1,6.2,21.25
+Cold Waters,Price & Value,114.0,258.0,16.79,41.61,30.65
+Cold Waters,Sound & Music,2.0,51.0,3.32,0.73,3.77
+Cold Waters,Story & Characters,13.0,55.0,3.58,4.74,19.12
+Cold Waters,Updates & Developers,55.0,262.0,17.05,20.07,17.35
+Conan Exiles,Bugs & Performance,2914.0,5205.0,25.44,46.42,35.89
+Conan Exiles,Gameplay,1748.0,5047.0,24.67,27.84,25.72
+Conan Exiles,Graphics & Visuals,766.0,2489.0,12.17,12.2,23.53
+Conan Exiles,Multiplayer & Servers,2277.0,5145.0,25.15,36.27,30.68
+Conan Exiles,Price & Value,2191.0,2994.0,14.63,34.9,42.26
+Conan Exiles,Sound & Music,101.0,371.0,1.81,1.61,21.4
+Conan Exiles,Story & Characters,887.0,2767.0,13.52,14.13,24.27
+Conan Exiles,Updates & Developers,2106.0,4791.0,23.42,33.55,30.54
+Counter-Strike: Source,Bugs & Performance,84.0,1895.0,8.32,6.62,4.24
+Counter-Strike: Source,Gameplay,78.0,1139.0,5.0,6.15,6.41
+Counter-Strike: Source,Graphics & Visuals,119.0,1787.0,7.84,9.38,6.24
+Counter-Strike: Source,Multiplayer & Servers,224.0,2884.0,12.66,17.65,7.21
+Counter-Strike: Source,Price & Value,161.0,1314.0,5.77,12.69,10.92
+Counter-Strike: Source,Sound & Music,12.0,68.0,0.3,0.95,15.0
+Counter-Strike: Source,Story & Characters,23.0,269.0,1.18,1.81,7.88
+Counter-Strike: Source,Updates & Developers,25.0,220.0,0.97,1.97,10.2
+Crash Bandicoot™ N. Sane Trilogy,Bugs & Performance,200.0,1449.0,38.83,47.17,12.13
+Crash Bandicoot™ N. Sane Trilogy,Gameplay,145.0,725.0,19.43,34.2,16.67
+Crash Bandicoot™ N. Sane Trilogy,Graphics & Visuals,90.0,806.0,21.6,21.23,10.04
+Crash Bandicoot™ N. Sane Trilogy,Multiplayer & Servers,3.0,45.0,1.21,0.71,6.25
+Crash Bandicoot™ N. Sane Trilogy,Price & Value,77.0,486.0,13.02,18.16,13.68
+Crash Bandicoot™ N. Sane Trilogy,Sound & Music,32.0,240.0,6.43,7.55,11.76
+Crash Bandicoot™ N. Sane Trilogy,Story & Characters,37.0,201.0,5.39,8.73,15.55
+Crash Bandicoot™ N. Sane Trilogy,Updates & Developers,47.0,132.0,3.54,11.08,26.26
+Crusader Kings III,Bugs & Performance,262.0,692.0,4.67,21.48,27.46
+Crusader Kings III,Gameplay,337.0,1942.0,13.12,27.62,14.79
+Crusader Kings III,Graphics & Visuals,138.0,925.0,6.25,11.31,12.98
+Crusader Kings III,Multiplayer & Servers,79.0,255.0,1.72,6.48,23.65
+Crusader Kings III,Price & Value,451.0,2610.0,17.63,36.97,14.73
+Crusader Kings III,Sound & Music,19.0,149.0,1.01,1.56,11.31
+Crusader Kings III,Story & Characters,244.0,1547.0,10.45,20.0,13.62
+Crusader Kings III,Updates & Developers,212.0,954.0,6.44,17.38,18.18
+Cube World,Bugs & Performance,467.0,170.0,5.73,8.0,73.31
+Cube World,Gameplay,1739.0,924.0,31.15,29.81,65.3
+Cube World,Graphics & Visuals,288.0,209.0,7.05,4.94,57.95
+Cube World,Multiplayer & Servers,264.0,215.0,7.25,4.53,55.11
+Cube World,Price & Value,1425.0,526.0,17.73,24.43,73.04
+Cube World,Sound & Music,123.0,106.0,3.57,2.11,53.71
+Cube World,Story & Characters,860.0,385.0,12.98,14.74,69.08
+Cube World,Updates & Developers,1824.0,582.0,19.62,31.26,75.81
+Cuphead,Bugs & Performance,110.0,788.0,3.43,10.18,12.25
+Cuphead,Gameplay,379.0,6374.0,27.75,35.06,5.61
+Cuphead,Graphics & Visuals,273.0,6431.0,28.0,25.25,4.07
+Cuphead,Multiplayer & Servers,94.0,1083.0,4.72,8.7,7.99
+Cuphead,Price & Value,207.0,2966.0,12.91,19.15,6.52
+Cuphead,Sound & Music,145.0,4508.0,19.63,13.41,3.12
+Cuphead,Story & Characters,97.0,1474.0,6.42,8.97,6.17
+Cuphead,Updates & Developers,88.0,764.0,3.33,8.14,10.33
+Cyberdimension Neptunia: 4 Goddesses Online,Bugs & Performance,85.0,174.0,20.47,41.46,32.82
+Cyberdimension Neptunia: 4 Goddesses Online,Gameplay,104.0,308.0,36.24,50.73,25.24
+Cyberdimension Neptunia: 4 Goddesses Online,Graphics & Visuals,43.0,172.0,20.24,20.98,20.0
+Cyberdimension Neptunia: 4 Goddesses Online,Multiplayer & Servers,91.0,248.0,29.18,44.39,26.84
+Cyberdimension Neptunia: 4 Goddesses Online,Price & Value,54.0,129.0,15.18,26.34,29.51
+Cyberdimension Neptunia: 4 Goddesses Online,Sound & Music,26.0,78.0,9.18,12.68,25.0
+Cyberdimension Neptunia: 4 Goddesses Online,Story & Characters,81.0,305.0,35.88,39.51,20.98
+Cyberdimension Neptunia: 4 Goddesses Online,Updates & Developers,40.0,40.0,4.71,19.51,50.0
+DARK SOULS™ III,Bugs & Performance,1335.0,3315.0,6.1,23.78,28.71
+DARK SOULS™ III,Gameplay,1779.0,11089.0,20.41,31.69,13.82
+DARK SOULS™ III,Graphics & Visuals,646.0,4976.0,9.16,11.51,11.49
+DARK SOULS™ III,Multiplayer & Servers,1081.0,3737.0,6.88,19.26,22.44
+DARK SOULS™ III,Price & Value,1232.0,6175.0,11.37,21.95,16.63
+DARK SOULS™ III,Sound & Music,116.0,2037.0,3.75,2.07,5.39
+DARK SOULS™ III,Story & Characters,969.0,7288.0,13.41,17.26,11.74
+DARK SOULS™ III,Updates & Developers,657.0,1137.0,2.09,11.7,36.62
+DARK SOULS™: REMASTERED,Bugs & Performance,758.0,1404.0,13.5,33.54,35.06
+DARK SOULS™: REMASTERED,Gameplay,387.0,1873.0,18.01,17.12,17.12
+DARK SOULS™: REMASTERED,Graphics & Visuals,507.0,1425.0,13.71,22.43,26.24
+DARK SOULS™: REMASTERED,Multiplayer & Servers,665.0,1401.0,13.48,29.42,32.19
+DARK SOULS™: REMASTERED,Price & Value,838.0,1895.0,18.23,37.08,30.66
+DARK SOULS™: REMASTERED,Sound & Music,27.0,212.0,2.04,1.19,11.3
+DARK SOULS™: REMASTERED,Story & Characters,254.0,1091.0,10.49,11.24,18.88
+DARK SOULS™: REMASTERED,Updates & Developers,453.0,580.0,5.58,20.04,43.85
+DEATH STRANDING,Bugs & Performance,214.0,1036.0,8.34,17.5,17.12
+DEATH STRANDING,Gameplay,488.0,3414.0,27.47,39.9,12.51
+DEATH STRANDING,Graphics & Visuals,333.0,2737.0,22.02,27.23,10.85
+DEATH STRANDING,Multiplayer & Servers,51.0,663.0,5.33,4.17,7.14
+DEATH STRANDING,Price & Value,344.0,1309.0,10.53,28.13,20.81
+DEATH STRANDING,Sound & Music,145.0,1546.0,12.44,11.86,8.57
+DEATH STRANDING,Story & Characters,539.0,4867.0,39.16,44.07,9.97
+DEATH STRANDING,Updates & Developers,126.0,372.0,2.99,10.3,25.3
+DOOM,Bugs & Performance,1139.0,10124.0,18.0,31.67,10.11
+DOOM,Gameplay,907.0,12149.0,21.6,25.22,6.95
+DOOM,Graphics & Visuals,600.0,7998.0,14.22,16.69,6.98
+DOOM,Multiplayer & Servers,696.0,7645.0,13.59,19.35,8.34
+DOOM,Price & Value,854.0,6384.0,11.35,23.75,11.8
+DOOM,Sound & Music,326.0,7577.0,13.47,9.07,4.13
+DOOM,Story & Characters,583.0,7884.0,14.02,16.21,6.89
+DOOM,Updates & Developers,476.0,1689.0,3.0,13.24,21.99
+DOOM Eternal,Bugs & Performance,1404.0,6512.0,14.99,19.09,17.74
+DOOM Eternal,Gameplay,2352.0,10755.0,24.75,31.98,17.94
+DOOM Eternal,Graphics & Visuals,925.0,4115.0,9.47,12.58,18.35
+DOOM Eternal,Multiplayer & Servers,955.0,2629.0,6.05,12.99,26.65
+DOOM Eternal,Price & Value,2071.0,4517.0,10.4,28.16,31.44
+DOOM Eternal,Sound & Music,647.0,5149.0,11.85,8.8,11.16
+DOOM Eternal,Story & Characters,1321.0,5646.0,12.99,17.96,18.96
+DOOM Eternal,Updates & Developers,1599.0,2298.0,5.29,21.74,41.03
+DRAGON BALL FighterZ,Bugs & Performance,222.0,422.0,4.23,15.73,34.47
+DRAGON BALL FighterZ,Gameplay,300.0,1653.0,16.55,21.26,15.36
+DRAGON BALL FighterZ,Graphics & Visuals,174.0,1549.0,15.51,12.33,10.1
+DRAGON BALL FighterZ,Multiplayer & Servers,441.0,1258.0,12.6,31.25,25.96
+DRAGON BALL FighterZ,Price & Value,448.0,1309.0,13.11,31.75,25.5
+DRAGON BALL FighterZ,Sound & Music,41.0,322.0,3.22,2.91,11.29
+DRAGON BALL FighterZ,Story & Characters,431.0,2152.0,21.55,30.55,16.69
+DRAGON BALL FighterZ,Updates & Developers,105.0,309.0,3.09,7.44,25.36
+DRAGON QUEST HEROES™ II,Bugs & Performance,37.0,31.0,14.49,35.24,54.41
+DRAGON QUEST HEROES™ II,Gameplay,47.0,132.0,61.68,44.76,26.26
+DRAGON QUEST HEROES™ II,Graphics & Visuals,18.0,42.0,19.63,17.14,30.0
+DRAGON QUEST HEROES™ II,Multiplayer & Servers,15.0,48.0,22.43,14.29,23.81
+DRAGON QUEST HEROES™ II,Price & Value,37.0,42.0,19.63,35.24,46.84
+DRAGON QUEST HEROES™ II,Sound & Music,8.0,27.0,12.62,7.62,22.86
+DRAGON QUEST HEROES™ II,Story & Characters,31.0,105.0,49.07,29.52,22.79
+DRAGON QUEST HEROES™ II,Updates & Developers,4.0,12.0,5.61,3.81,25.0
+DUSK,Bugs & Performance,37.0,1812.0,25.09,27.01,2.0
+DUSK,Gameplay,64.0,2097.0,29.04,46.72,2.96
+DUSK,Graphics & Visuals,28.0,927.0,12.84,20.44,2.93
+DUSK,Multiplayer & Servers,16.0,530.0,7.34,11.68,2.93
+DUSK,Price & Value,47.0,852.0,11.8,34.31,5.23
+DUSK,Sound & Music,33.0,1498.0,20.74,24.09,2.16
+DUSK,Story & Characters,13.0,611.0,8.46,9.49,2.08
+DUSK,Updates & Developers,21.0,537.0,7.44,15.33,3.76
+DYNASTY WARRIORS 9,Bugs & Performance,190.0,198.0,36.67,34.8,48.97
+DYNASTY WARRIORS 9,Gameplay,198.0,248.0,45.93,36.26,44.39
+DYNASTY WARRIORS 9,Graphics & Visuals,121.0,156.0,28.89,22.16,43.68
+DYNASTY WARRIORS 9,Multiplayer & Servers,25.0,33.0,6.11,4.58,43.1
+DYNASTY WARRIORS 9,Price & Value,179.0,138.0,25.56,32.78,56.47
+DYNASTY WARRIORS 9,Sound & Music,76.0,117.0,21.67,13.92,39.38
+DYNASTY WARRIORS 9,Story & Characters,153.0,211.0,39.07,28.02,42.03
+DYNASTY WARRIORS 9,Updates & Developers,112.0,118.0,21.85,20.51,48.7
+Danganronpa 2: Goodbye Despair,Bugs & Performance,11.0,89.0,1.78,7.19,11.0
+Danganronpa 2: Goodbye Despair,Gameplay,39.0,654.0,13.1,25.49,5.63
+Danganronpa 2: Goodbye Despair,Graphics & Visuals,23.0,473.0,9.47,15.03,4.64
+Danganronpa 2: Goodbye Despair,Multiplayer & Servers,3.0,20.0,0.4,1.96,13.04
+Danganronpa 2: Goodbye Despair,Price & Value,26.0,409.0,8.19,16.99,5.98
+Danganronpa 2: Goodbye Despair,Sound & Music,17.0,354.0,7.09,11.11,4.58
+Danganronpa 2: Goodbye Despair,Story & Characters,90.0,2016.0,40.37,58.82,4.27
+Danganronpa 2: Goodbye Despair,Updates & Developers,11.0,55.0,1.1,7.19,16.67
+Danganronpa: Trigger Happy Havoc,Bugs & Performance,9.0,147.0,2.05,3.66,5.77
+Danganronpa: Trigger Happy Havoc,Gameplay,76.0,1251.0,17.43,30.89,5.73
+Danganronpa: Trigger Happy Havoc,Graphics & Visuals,61.0,1521.0,21.19,24.8,3.86
+Danganronpa: Trigger Happy Havoc,Multiplayer & Servers,5.0,43.0,0.6,2.03,10.42
+Danganronpa: Trigger Happy Havoc,Price & Value,50.0,778.0,10.84,20.33,6.04
+Danganronpa: Trigger Happy Havoc,Sound & Music,29.0,741.0,10.32,11.79,3.77
+Danganronpa: Trigger Happy Havoc,Story & Characters,127.0,3289.0,45.81,51.63,3.72
+Danganronpa: Trigger Happy Havoc,Updates & Developers,17.0,94.0,1.31,6.91,15.32
+Darkest Dungeon®,Bugs & Performance,357.0,917.0,3.09,9.73,28.02
+Darkest Dungeon®,Gameplay,2061.0,9921.0,33.48,56.17,17.2
+Darkest Dungeon®,Graphics & Visuals,513.0,3584.0,12.09,13.98,12.52
+Darkest Dungeon®,Multiplayer & Servers,92.0,260.0,0.88,2.51,26.14
+Darkest Dungeon®,Price & Value,970.0,4357.0,14.7,26.44,18.21
+Darkest Dungeon®,Sound & Music,247.0,2209.0,7.45,6.73,10.06
+Darkest Dungeon®,Story & Characters,1192.0,5736.0,19.35,32.49,17.21
+Darkest Dungeon®,Updates & Developers,677.0,2763.0,9.32,18.45,19.68
+Darksiders III,Bugs & Performance,205.0,452.0,16.95,23.43,31.2
+Darksiders III,Gameplay,542.0,1544.0,57.89,61.94,25.98
+Darksiders III,Graphics & Visuals,194.0,640.0,24.0,22.17,23.26
+Darksiders III,Multiplayer & Servers,5.0,25.0,0.94,0.57,16.67
+Darksiders III,Price & Value,265.0,630.0,23.62,30.29,29.61
+Darksiders III,Sound & Music,53.0,245.0,9.19,6.06,17.79
+Darksiders III,Story & Characters,346.0,1242.0,46.57,39.54,21.79
+Darksiders III,Updates & Developers,148.0,400.0,15.0,16.91,27.01
+Day of Infamy,Bugs & Performance,422.0,1400.0,18.44,28.3,23.16
+Day of Infamy,Gameplay,306.0,1413.0,18.61,20.52,17.8
+Day of Infamy,Graphics & Visuals,185.0,869.0,11.45,12.41,17.55
+Day of Infamy,Multiplayer & Servers,369.0,1194.0,15.73,24.75,23.61
+Day of Infamy,Price & Value,334.0,1041.0,13.71,22.4,24.29
+Day of Infamy,Sound & Music,38.0,270.0,3.56,2.55,12.34
+Day of Infamy,Story & Characters,81.0,296.0,3.9,5.43,21.49
+Day of Infamy,Updates & Developers,261.0,870.0,11.46,17.51,23.08
+Dead Cells,Bugs & Performance,112.0,698.0,4.46,15.32,13.83
+Dead Cells,Gameplay,375.0,5944.0,37.98,51.3,5.93
+Dead Cells,Graphics & Visuals,114.0,2379.0,15.2,15.6,4.57
+Dead Cells,Multiplayer & Servers,19.0,173.0,1.11,2.6,9.9
+Dead Cells,Price & Value,167.0,2103.0,13.44,22.85,7.36
+Dead Cells,Sound & Music,35.0,1207.0,7.71,4.79,2.82
+Dead Cells,Story & Characters,137.0,1352.0,8.64,18.74,9.2
+Dead Cells,Updates & Developers,227.0,3009.0,19.23,31.05,7.01
+Dead Rising 4,Bugs & Performance,341.0,159.0,22.68,47.69,68.2
+Dead Rising 4,Gameplay,196.0,201.0,28.67,27.41,49.37
+Dead Rising 4,Graphics & Visuals,64.0,81.0,11.55,8.95,44.14
+Dead Rising 4,Multiplayer & Servers,95.0,72.0,10.27,13.29,56.89
+Dead Rising 4,Price & Value,225.0,172.0,24.54,31.47,56.68
+Dead Rising 4,Sound & Music,44.0,56.0,7.99,6.15,44.0
+Dead Rising 4,Story & Characters,235.0,268.0,38.23,32.87,46.72
+Dead Rising 4,Updates & Developers,83.0,32.0,4.56,11.61,72.17
 Dead by Daylight,Bugs & Performance,6853.0,10243.0,13.75,31.1,40.09
 Dead by Daylight,Gameplay,3414.0,7142.0,9.59,15.49,32.34
 Dead by Daylight,Graphics & Visuals,990.0,2286.0,3.07,4.49,30.22
@@ -31,6 +559,238 @@ Dead by Daylight,Price & Value,5498.0,8005.0,10.74,24.95,40.72
 Dead by Daylight,Sound & Music,227.0,759.0,1.02,1.03,23.02
 Dead by Daylight,Story & Characters,2047.0,4591.0,6.16,9.29,30.84
 Dead by Daylight,Updates & Developers,6745.0,7780.0,10.44,30.61,46.44
+Deep Rock Galactic,Bugs & Performance,198.0,4859.0,14.63,18.79,3.92
+Deep Rock Galactic,Gameplay,451.0,8540.0,25.71,42.79,5.02
+Deep Rock Galactic,Graphics & Visuals,69.0,2232.0,6.72,6.55,3.0
+Deep Rock Galactic,Multiplayer & Servers,141.0,8224.0,24.75,13.38,1.69
+Deep Rock Galactic,Price & Value,258.0,3569.0,10.74,24.48,6.74
+Deep Rock Galactic,Sound & Music,21.0,1471.0,4.43,1.99,1.41
+Deep Rock Galactic,Story & Characters,130.0,2375.0,7.15,12.33,5.19
+Deep Rock Galactic,Updates & Developers,204.0,6747.0,20.31,19.35,2.93
+Desolate,Bugs & Performance,145.0,273.0,23.1,27.15,34.69
+Desolate,Gameplay,234.0,410.0,34.69,43.82,36.34
+Desolate,Graphics & Visuals,69.0,201.0,17.01,12.92,25.56
+Desolate,Multiplayer & Servers,61.0,224.0,18.95,11.42,21.4
+Desolate,Price & Value,134.0,226.0,19.12,25.09,37.22
+Desolate,Sound & Music,44.0,92.0,7.78,8.24,32.35
+Desolate,Story & Characters,120.0,329.0,27.83,22.47,26.73
+Desolate,Updates & Developers,99.0,345.0,29.19,18.54,22.3
+Detention,Bugs & Performance,6.0,31.0,1.83,8.96,16.22
+Detention,Gameplay,24.0,321.0,18.94,35.82,6.96
+Detention,Graphics & Visuals,11.0,438.0,25.84,16.42,2.45
+Detention,Multiplayer & Servers,0.0,11.0,0.65,0.0,0.0
+Detention,Price & Value,13.0,305.0,17.99,19.4,4.09
+Detention,Sound & Music,2.0,288.0,16.99,2.99,0.69
+Detention,Story & Characters,33.0,1037.0,61.18,49.25,3.08
+Detention,Updates & Developers,3.0,120.0,7.08,4.48,2.44
+Deus Ex: The Fall,Bugs & Performance,290.0,151.0,23.63,20.22,65.76
+Deus Ex: The Fall,Gameplay,554.0,266.0,41.63,38.63,67.56
+Deus Ex: The Fall,Graphics & Visuals,414.0,228.0,35.68,28.87,64.49
+Deus Ex: The Fall,Multiplayer & Servers,10.0,10.0,1.56,0.7,50.0
+Deus Ex: The Fall,Price & Value,477.0,273.0,42.72,33.26,63.6
+Deus Ex: The Fall,Sound & Music,184.0,94.0,14.71,12.83,66.19
+Deus Ex: The Fall,Story & Characters,509.0,329.0,51.49,35.5,60.74
+Deus Ex: The Fall,Updates & Developers,109.0,57.0,8.92,7.6,65.66
+Devil May Cry HD Collection,Bugs & Performance,32.0,102.0,9.69,26.89,23.88
+Devil May Cry HD Collection,Gameplay,39.0,276.0,26.21,32.77,12.38
+Devil May Cry HD Collection,Graphics & Visuals,20.0,132.0,12.54,16.81,13.16
+Devil May Cry HD Collection,Multiplayer & Servers,1.0,4.0,0.38,0.84,20.0
+Devil May Cry HD Collection,Price & Value,38.0,228.0,21.65,31.93,14.29
+Devil May Cry HD Collection,Sound & Music,13.0,91.0,8.64,10.92,12.5
+Devil May Cry HD Collection,Story & Characters,16.0,188.0,17.85,13.45,7.84
+Devil May Cry HD Collection,Updates & Developers,13.0,32.0,3.04,10.92,28.89
+DiRT 4,Bugs & Performance,165.0,280.0,11.82,20.1,37.08
+DiRT 4,Gameplay,186.0,499.0,21.06,22.66,27.15
+DiRT 4,Graphics & Visuals,185.0,541.0,22.84,22.53,25.48
+DiRT 4,Multiplayer & Servers,61.0,195.0,8.23,7.43,23.83
+DiRT 4,Price & Value,235.0,390.0,16.46,28.62,37.6
+DiRT 4,Sound & Music,62.0,183.0,7.72,7.55,25.31
+DiRT 4,Story & Characters,39.0,83.0,3.5,4.75,31.97
+DiRT 4,Updates & Developers,111.0,158.0,6.67,13.52,41.26
+Dishonored,Bugs & Performance,104.0,1345.0,5.17,12.64,7.18
+Dishonored,Gameplay,339.0,9646.0,37.11,41.19,3.4
+Dishonored,Graphics & Visuals,164.0,3809.0,14.65,19.93,4.13
+Dishonored,Multiplayer & Servers,5.0,157.0,0.6,0.61,3.09
+Dishonored,Price & Value,155.0,5015.0,19.29,18.83,3.0
+Dishonored,Sound & Music,41.0,950.0,3.65,4.98,4.14
+Dishonored,Story & Characters,332.0,10116.0,38.92,40.34,3.18
+Dishonored,Updates & Developers,43.0,370.0,1.42,5.22,10.41
+Divinity: Original Sin 2,Bugs & Performance,545.0,2075.0,4.9,25.06,20.8
+Divinity: Original Sin 2,Gameplay,1121.0,13020.0,30.74,51.54,7.93
+Divinity: Original Sin 2,Graphics & Visuals,271.0,3471.0,8.2,12.46,7.24
+Divinity: Original Sin 2,Multiplayer & Servers,253.0,3699.0,8.73,11.63,6.4
+Divinity: Original Sin 2,Price & Value,462.0,4309.0,10.17,21.24,9.68
+Divinity: Original Sin 2,Sound & Music,135.0,3087.0,7.29,6.21,4.19
+Divinity: Original Sin 2,Story & Characters,1009.0,13454.0,31.77,46.39,6.98
+Divinity: Original Sin 2,Updates & Developers,310.0,2305.0,5.44,14.25,11.85
+Doki Doki Literature Club,Bugs & Performance,112.0,1021.0,1.6,5.61,9.89
+Doki Doki Literature Club,Gameplay,131.0,2093.0,3.28,6.57,5.89
+Doki Doki Literature Club,Graphics & Visuals,258.0,7316.0,11.47,12.93,3.41
+Doki Doki Literature Club,Multiplayer & Servers,17.0,230.0,0.36,0.85,6.88
+Doki Doki Literature Club,Price & Value,143.0,4104.0,6.43,7.17,3.37
+Doki Doki Literature Club,Sound & Music,76.0,1753.0,2.75,3.81,4.16
+Doki Doki Literature Club,Story & Characters,521.0,12280.0,19.25,26.12,4.07
+Doki Doki Literature Club,Updates & Developers,71.0,1513.0,2.37,3.56,4.48
+Don't Escape: 4 Days to Survive,Bugs & Performance,0.0,15.0,2.32,0.0,0.0
+Don't Escape: 4 Days to Survive,Gameplay,3.0,210.0,32.51,30.0,1.41
+Don't Escape: 4 Days to Survive,Graphics & Visuals,2.0,96.0,14.86,20.0,2.04
+Don't Escape: 4 Days to Survive,Multiplayer & Servers,0.0,13.0,2.01,0.0,0.0
+Don't Escape: 4 Days to Survive,Price & Value,4.0,109.0,16.87,40.0,3.54
+Don't Escape: 4 Days to Survive,Sound & Music,1.0,74.0,11.46,10.0,1.33
+Don't Escape: 4 Days to Survive,Story & Characters,4.0,367.0,56.81,40.0,1.08
+Don't Escape: 4 Days to Survive,Updates & Developers,2.0,42.0,6.5,20.0,4.55
+Don't Starve,Bugs & Performance,63.0,594.0,2.39,6.85,9.59
+Don't Starve,Gameplay,187.0,3579.0,14.38,20.33,4.97
+Don't Starve,Graphics & Visuals,113.0,3008.0,12.09,12.28,3.62
+Don't Starve,Multiplayer & Servers,83.0,1298.0,5.22,9.02,6.01
+Don't Starve,Price & Value,184.0,3323.0,13.36,20.0,5.25
+Don't Starve,Sound & Music,19.0,858.0,3.45,2.07,2.17
+Don't Starve,Story & Characters,102.0,2770.0,11.13,11.09,3.55
+Don't Starve,Updates & Developers,90.0,1085.0,4.36,9.78,7.66
+Don't Starve Together,Bugs & Performance,195.0,1456.0,3.29,10.02,11.81
+Don't Starve Together,Gameplay,329.0,4114.0,9.29,16.9,7.4
+Don't Starve Together,Graphics & Visuals,133.0,2819.0,6.37,6.83,4.51
+Don't Starve Together,Multiplayer & Servers,338.0,5626.0,12.7,17.36,5.67
+Don't Starve Together,Price & Value,274.0,2933.0,6.62,14.07,8.54
+Don't Starve Together,Sound & Music,35.0,723.0,1.63,1.8,4.62
+Don't Starve Together,Story & Characters,179.0,3323.0,7.5,9.19,5.11
+Don't Starve Together,Updates & Developers,174.0,2402.0,5.42,8.94,6.75
+Down To One,Bugs & Performance,187.0,104.0,28.34,33.39,64.26
+Down To One,Gameplay,42.0,29.0,7.9,7.5,59.15
+Down To One,Graphics & Visuals,68.0,65.0,17.71,12.14,51.13
+Down To One,Multiplayer & Servers,158.0,42.0,11.44,28.21,79.0
+Down To One,Price & Value,147.0,85.0,23.16,26.25,63.36
+Down To One,Sound & Music,6.0,1.0,0.27,1.07,85.71
+Down To One,Story & Characters,21.0,14.0,3.81,3.75,60.0
+Down To One,Updates & Developers,91.0,71.0,19.35,16.25,56.17
+Dragon Cliff 龙崖,Bugs & Performance,7.0,20.0,4.02,7.69,25.93
+Dragon Cliff 龙崖,Gameplay,39.0,170.0,34.14,42.86,18.66
+Dragon Cliff 龙崖,Graphics & Visuals,2.0,27.0,5.42,2.2,6.9
+Dragon Cliff 龙崖,Multiplayer & Servers,0.0,6.0,1.2,0.0,0.0
+Dragon Cliff 龙崖,Price & Value,25.0,137.0,27.51,27.47,15.43
+Dragon Cliff 龙崖,Sound & Music,3.0,13.0,2.61,3.3,18.75
+Dragon Cliff 龙崖,Story & Characters,23.0,86.0,17.27,25.27,21.1
+Dragon Cliff 龙崖,Updates & Developers,12.0,39.0,7.83,13.19,23.53
+Duck Game,Bugs & Performance,36.0,249.0,3.01,9.94,12.63
+Duck Game,Gameplay,87.0,859.0,10.39,24.03,9.2
+Duck Game,Graphics & Visuals,14.0,192.0,2.32,3.87,6.8
+Duck Game,Multiplayer & Servers,60.0,1344.0,16.26,16.57,4.27
+Duck Game,Price & Value,72.0,569.0,6.88,19.89,11.23
+Duck Game,Sound & Music,7.0,190.0,2.3,1.93,3.55
+Duck Game,Story & Characters,14.0,167.0,2.02,3.87,7.73
+Duck Game,Updates & Developers,19.0,201.0,2.43,5.25,8.64
+Due Process,Bugs & Performance,124.0,359.0,19.78,37.69,25.67
+Due Process,Gameplay,74.0,296.0,16.31,22.49,20.0
+Due Process,Graphics & Visuals,57.0,206.0,11.35,17.33,21.67
+Due Process,Multiplayer & Servers,66.0,185.0,10.19,20.06,26.29
+Due Process,Price & Value,82.0,226.0,12.45,24.92,26.62
+Due Process,Sound & Music,8.0,32.0,1.76,2.43,20.0
+Due Process,Story & Characters,21.0,79.0,4.35,6.38,21.0
+Due Process,Updates & Developers,79.0,369.0,20.33,24.01,17.63
+Dungreed,Bugs & Performance,13.0,26.0,3.71,13.27,33.33
+Dungreed,Gameplay,49.0,200.0,28.53,50.0,19.68
+Dungreed,Graphics & Visuals,8.0,52.0,7.42,8.16,13.33
+Dungreed,Multiplayer & Servers,1.0,8.0,1.14,1.02,11.11
+Dungreed,Price & Value,28.0,94.0,13.41,28.57,22.95
+Dungreed,Sound & Music,5.0,53.0,7.56,5.1,8.62
+Dungreed,Story & Characters,13.0,53.0,7.56,13.27,19.7
+Dungreed,Updates & Developers,13.0,43.0,6.13,13.27,23.21
+Dying Light,Bugs & Performance,852.0,3887.0,9.33,24.34,17.98
+Dying Light,Gameplay,1405.0,11484.0,27.56,40.14,10.9
+Dying Light,Graphics & Visuals,423.0,5256.0,12.61,12.09,7.45
+Dying Light,Multiplayer & Servers,468.0,5423.0,13.01,13.37,7.94
+Dying Light,Price & Value,954.0,7264.0,17.43,27.26,11.61
+Dying Light,Sound & Music,127.0,1353.0,3.25,3.63,8.58
+Dying Light,Story & Characters,1146.0,11773.0,28.25,32.74,8.87
+Dying Light,Updates & Developers,430.0,2714.0,6.51,12.29,13.68
+Eco,Bugs & Performance,201.0,368.0,17.64,31.46,35.33
+Eco,Gameplay,194.0,422.0,20.23,30.36,31.49
+Eco,Graphics & Visuals,66.0,223.0,10.69,10.33,22.84
+Eco,Multiplayer & Servers,236.0,590.0,28.28,36.93,28.57
+Eco,Price & Value,203.0,247.0,11.84,31.77,45.11
+Eco,Sound & Music,7.0,35.0,1.68,1.1,16.67
+Eco,Story & Characters,67.0,148.0,7.09,10.49,31.16
+Eco,Updates & Developers,178.0,445.0,21.33,27.86,28.57
+Enter the Gungeon,Bugs & Performance,68.0,366.0,1.99,6.83,15.67
+Enter the Gungeon,Gameplay,393.0,4206.0,22.84,39.46,8.55
+Enter the Gungeon,Graphics & Visuals,106.0,1223.0,6.64,10.64,7.98
+Enter the Gungeon,Multiplayer & Servers,96.0,1035.0,5.62,9.64,8.49
+Enter the Gungeon,Price & Value,228.0,1877.0,10.19,22.89,10.83
+Enter the Gungeon,Sound & Music,75.0,862.0,4.68,7.53,8.0
+Enter the Gungeon,Story & Characters,159.0,1606.0,8.72,15.96,9.01
+Enter the Gungeon,Updates & Developers,144.0,1064.0,5.78,14.46,11.92
+Euro Truck Simulator 2,Bugs & Performance,231.0,2514.0,5.15,15.19,8.42
+Euro Truck Simulator 2,Gameplay,162.0,3268.0,6.69,10.65,4.72
+Euro Truck Simulator 2,Graphics & Visuals,134.0,5049.0,10.34,8.81,2.59
+Euro Truck Simulator 2,Multiplayer & Servers,124.0,4019.0,8.23,8.15,2.99
+Euro Truck Simulator 2,Price & Value,346.0,7777.0,15.92,22.75,4.26
+Euro Truck Simulator 2,Sound & Music,22.0,1933.0,3.96,1.45,1.13
+Euro Truck Simulator 2,Story & Characters,29.0,944.0,1.93,1.91,2.98
+Euro Truck Simulator 2,Updates & Developers,167.0,3002.0,6.15,10.98,5.27
+Europa Universalis IV,Bugs & Performance,513.0,637.0,2.22,9.9,44.61
+Europa Universalis IV,Gameplay,1024.0,4736.0,16.51,19.75,17.78
+Europa Universalis IV,Graphics & Visuals,135.0,572.0,1.99,2.6,19.09
+Europa Universalis IV,Multiplayer & Servers,245.0,1038.0,3.62,4.73,19.1
+Europa Universalis IV,Price & Value,3489.0,8989.0,31.34,67.3,27.96
+Europa Universalis IV,Sound & Music,77.0,343.0,1.2,1.49,18.33
+Europa Universalis IV,Story & Characters,262.0,897.0,3.13,5.05,22.61
+Europa Universalis IV,Updates & Developers,1105.0,1822.0,6.35,21.32,37.75
+FAR: Lone Sails,Bugs & Performance,13.0,81.0,2.59,4.83,13.83
+FAR: Lone Sails,Gameplay,101.0,879.0,28.07,37.55,10.31
+FAR: Lone Sails,Graphics & Visuals,87.0,1288.0,41.14,32.34,6.33
+FAR: Lone Sails,Multiplayer & Servers,0.0,22.0,0.7,0.0,0.0
+FAR: Lone Sails,Price & Value,125.0,830.0,26.51,46.47,13.09
+FAR: Lone Sails,Sound & Music,61.0,993.0,31.72,22.68,5.79
+FAR: Lone Sails,Story & Characters,84.0,790.0,25.23,31.23,9.61
+FAR: Lone Sails,Updates & Developers,18.0,183.0,5.84,6.69,8.96
+FINAL FANTASY XII THE ZODIAC AGE,Bugs & Performance,75.0,232.0,11.89,28.09,24.43
+FINAL FANTASY XII THE ZODIAC AGE,Gameplay,114.0,723.0,37.04,42.7,13.62
+FINAL FANTASY XII THE ZODIAC AGE,Graphics & Visuals,48.0,440.0,22.54,17.98,9.84
+FINAL FANTASY XII THE ZODIAC AGE,Multiplayer & Servers,14.0,38.0,1.95,5.24,26.92
+FINAL FANTASY XII THE ZODIAC AGE,Price & Value,81.0,311.0,15.93,30.34,20.66
+FINAL FANTASY XII THE ZODIAC AGE,Sound & Music,38.0,286.0,14.65,14.23,11.73
+FINAL FANTASY XII THE ZODIAC AGE,Story & Characters,115.0,751.0,38.47,43.07,13.28
+FINAL FANTASY XII THE ZODIAC AGE,Updates & Developers,37.0,113.0,5.79,13.86,24.67
+FINAL FANTASY XIV Online,Bugs & Performance,158.0,276.0,1.87,6.59,36.41
+FINAL FANTASY XIV Online,Gameplay,569.0,3322.0,22.54,23.72,14.62
+FINAL FANTASY XIV Online,Graphics & Visuals,181.0,1800.0,12.21,7.54,9.14
+FINAL FANTASY XIV Online,Multiplayer & Servers,307.0,1111.0,7.54,12.8,21.65
+FINAL FANTASY XIV Online,Price & Value,859.0,2047.0,13.89,35.81,29.56
+FINAL FANTASY XIV Online,Sound & Music,90.0,1043.0,7.08,3.75,7.94
+FINAL FANTASY XIV Online,Story & Characters,519.0,4879.0,33.1,21.63,9.61
+FINAL FANTASY XIV Online,Updates & Developers,265.0,976.0,6.62,11.05,21.35
+FINAL FANTASY XV WINDOWS EDITION,Bugs & Performance,1041.0,1316.0,16.54,45.03,44.17
+FINAL FANTASY XV WINDOWS EDITION,Gameplay,1060.0,2964.0,37.25,45.85,26.34
+FINAL FANTASY XV WINDOWS EDITION,Graphics & Visuals,582.0,2257.0,28.36,25.17,20.5
+FINAL FANTASY XV WINDOWS EDITION,Multiplayer & Servers,113.0,317.0,3.98,4.89,26.28
+FINAL FANTASY XV WINDOWS EDITION,Price & Value,699.0,1929.0,24.24,30.23,26.6
+FINAL FANTASY XV WINDOWS EDITION,Sound & Music,226.0,852.0,10.71,9.78,20.96
+FINAL FANTASY XV WINDOWS EDITION,Story & Characters,1035.0,3556.0,44.68,44.77,22.54
+FINAL FANTASY XV WINDOWS EDITION,Updates & Developers,343.0,476.0,5.98,14.84,41.88
+FTL: Faster Than Light,Bugs & Performance,74.0,469.0,1.36,5.12,13.63
+FTL: Faster Than Light,Gameplay,473.0,9497.0,27.47,32.76,4.74
+FTL: Faster Than Light,Graphics & Visuals,73.0,2051.0,5.93,5.06,3.44
+FTL: Faster Than Light,Multiplayer & Servers,46.0,368.0,1.06,3.19,11.11
+FTL: Faster Than Light,Price & Value,241.0,4300.0,12.44,16.69,5.31
+FTL: Faster Than Light,Sound & Music,67.0,2955.0,8.55,4.64,2.22
+FTL: Faster Than Light,Story & Characters,125.0,1803.0,5.22,8.66,6.48
+FTL: Faster Than Light,Updates & Developers,98.0,1064.0,3.08,6.79,8.43
+Factorio,Bugs & Performance,72.0,4379.0,8.58,12.12,1.62
+Factorio,Gameplay,146.0,5250.0,10.28,24.58,2.71
+Factorio,Graphics & Visuals,48.0,1946.0,3.81,8.08,2.41
+Factorio,Multiplayer & Servers,64.0,2396.0,4.69,10.77,2.6
+Factorio,Price & Value,145.0,4668.0,9.14,24.41,3.01
+Factorio,Sound & Music,8.0,451.0,0.88,1.35,1.74
+Factorio,Story & Characters,48.0,1775.0,3.48,8.08,2.63
+Factorio,Updates & Developers,98.0,6339.0,12.41,16.5,1.52
+Fairy Fencer F Advent Dark Force,Bugs & Performance,44.0,64.0,15.53,43.56,40.74
+Fairy Fencer F Advent Dark Force,Gameplay,42.0,165.0,40.05,41.58,20.29
+Fairy Fencer F Advent Dark Force,Graphics & Visuals,17.0,95.0,23.06,16.83,15.18
+Fairy Fencer F Advent Dark Force,Multiplayer & Servers,0.0,1.0,0.24,0.0,0.0
+Fairy Fencer F Advent Dark Force,Price & Value,32.0,105.0,25.49,31.68,23.36
+Fairy Fencer F Advent Dark Force,Sound & Music,12.0,59.0,14.32,11.88,16.9
+Fairy Fencer F Advent Dark Force,Story & Characters,32.0,241.0,58.5,31.68,11.72
+Fairy Fencer F Advent Dark Force,Updates & Developers,11.0,15.0,3.64,10.89,42.31
 Fallout 4,Bugs & Performance,7692.0,12771.0,16.33,26.91,37.59
 Fallout 4,Gameplay,7336.0,18655.0,23.85,25.67,28.23
 Fallout 4,Graphics & Visuals,3418.0,9491.0,12.13,11.96,26.48
@@ -39,6 +799,118 @@ Fallout 4,Price & Value,8700.0,13924.0,17.8,30.44,38.45
 Fallout 4,Sound & Music,946.0,2599.0,3.32,3.31,26.69
 Fallout 4,Story & Characters,8011.0,20946.0,26.78,28.03,27.67
 Fallout 4,Updates & Developers,3588.0,3122.0,3.99,12.55,53.47
+Far Cry 5,Bugs & Performance,1588.0,2559.0,13.62,22.06,38.29
+Far Cry 5,Gameplay,3016.0,5325.0,28.34,41.89,36.16
+Far Cry 5,Graphics & Visuals,1146.0,3706.0,19.72,15.92,23.62
+Far Cry 5,Multiplayer & Servers,891.0,1952.0,10.39,12.38,31.34
+Far Cry 5,Price & Value,2411.0,3471.0,18.47,33.49,40.99
+Far Cry 5,Sound & Music,310.0,1053.0,5.6,4.31,22.74
+Far Cry 5,Story & Characters,3779.0,7329.0,39.0,52.49,34.02
+Far Cry 5,Updates & Developers,541.0,549.0,2.92,7.51,49.63
+Farm Manager 2018,Bugs & Performance,153.0,187.0,48.2,73.91,45.0
+Farm Manager 2018,Gameplay,34.0,81.0,20.88,16.43,29.57
+Farm Manager 2018,Graphics & Visuals,17.0,49.0,12.63,8.21,25.76
+Farm Manager 2018,Multiplayer & Servers,4.0,7.0,1.8,1.93,36.36
+Farm Manager 2018,Price & Value,77.0,111.0,28.61,37.2,40.96
+Farm Manager 2018,Sound & Music,5.0,18.0,4.64,2.42,21.74
+Farm Manager 2018,Story & Characters,15.0,26.0,6.7,7.25,36.59
+Farm Manager 2018,Updates & Developers,79.0,116.0,29.9,38.16,40.51
+Farm Together,Bugs & Performance,13.0,119.0,4.97,5.83,9.85
+Farm Together,Gameplay,55.0,375.0,15.65,24.66,12.79
+Farm Together,Graphics & Visuals,23.0,349.0,14.57,10.31,6.18
+Farm Together,Multiplayer & Servers,30.0,242.0,10.1,13.45,11.03
+Farm Together,Price & Value,87.0,432.0,18.03,39.01,16.76
+Farm Together,Sound & Music,6.0,146.0,6.09,2.69,3.95
+Farm Together,Story & Characters,24.0,199.0,8.31,10.76,10.76
+Farm Together,Updates & Developers,42.0,354.0,14.77,18.83,10.61
+Farming Simulator 19,Bugs & Performance,346.0,601.0,7.78,31.26,36.54
+Farming Simulator 19,Gameplay,185.0,550.0,7.12,16.71,25.17
+Farming Simulator 19,Graphics & Visuals,252.0,879.0,11.38,22.76,22.28
+Farming Simulator 19,Multiplayer & Servers,113.0,343.0,4.44,10.21,24.78
+Farming Simulator 19,Price & Value,401.0,746.0,9.66,36.22,34.96
+Farming Simulator 19,Sound & Music,7.0,61.0,0.79,0.63,10.29
+Farming Simulator 19,Story & Characters,49.0,137.0,1.77,4.43,26.34
+Farming Simulator 19,Updates & Developers,186.0,325.0,4.21,16.8,36.4
+Finding Paradise,Bugs & Performance,4.0,58.0,1.77,5.26,6.45
+Finding Paradise,Gameplay,25.0,413.0,12.59,32.89,5.71
+Finding Paradise,Graphics & Visuals,19.0,757.0,23.08,25.0,2.45
+Finding Paradise,Multiplayer & Servers,0.0,14.0,0.43,0.0,0.0
+Finding Paradise,Price & Value,12.0,497.0,15.15,15.79,2.36
+Finding Paradise,Sound & Music,17.0,826.0,25.18,22.37,2.02
+Finding Paradise,Story & Characters,54.0,1887.0,57.53,71.05,2.78
+Finding Paradise,Updates & Developers,9.0,125.0,3.81,11.84,6.72
+Fishing: Barents Sea,Bugs & Performance,106.0,132.0,24.09,50.96,44.54
+Fishing: Barents Sea,Gameplay,55.0,100.0,18.25,26.44,35.48
+Fishing: Barents Sea,Graphics & Visuals,34.0,86.0,15.69,16.35,28.33
+Fishing: Barents Sea,Multiplayer & Servers,5.0,16.0,2.92,2.4,23.81
+Fishing: Barents Sea,Price & Value,97.0,145.0,26.46,46.63,40.08
+Fishing: Barents Sea,Sound & Music,6.0,24.0,4.38,2.88,20.0
+Fishing: Barents Sea,Story & Characters,14.0,15.0,2.74,6.73,48.28
+Fishing: Barents Sea,Updates & Developers,54.0,120.0,21.9,25.96,31.03
+Football Manager 2019,Bugs & Performance,120.0,94.0,4.53,26.61,56.07
+Football Manager 2019,Gameplay,46.0,112.0,5.4,10.2,29.11
+Football Manager 2019,Graphics & Visuals,38.0,79.0,3.81,8.43,32.48
+Football Manager 2019,Multiplayer & Servers,17.0,13.0,0.63,3.77,56.67
+Football Manager 2019,Price & Value,100.0,152.0,7.33,22.17,39.68
+Football Manager 2019,Sound & Music,2.0,9.0,0.43,0.44,18.18
+Football Manager 2019,Story & Characters,22.0,41.0,1.98,4.88,34.92
+Football Manager 2019,Updates & Developers,93.0,72.0,3.47,20.62,56.36
+For Honor,Bugs & Performance,2504.0,1867.0,10.57,20.57,57.29
+For Honor,Gameplay,3195.0,4659.0,26.37,26.24,40.68
+For Honor,Graphics & Visuals,1025.0,1713.0,9.69,8.42,37.44
+For Honor,Multiplayer & Servers,4282.0,4079.0,23.08,35.17,51.21
+For Honor,Price & Value,3636.0,2754.0,15.58,29.87,56.9
+For Honor,Sound & Music,140.0,215.0,1.22,1.15,39.44
+For Honor,Story & Characters,2568.0,3297.0,18.66,21.09,43.79
+For Honor,Updates & Developers,1739.0,1549.0,8.77,14.28,52.89
+For The King,Bugs & Performance,80.0,263.0,5.46,12.33,23.32
+For The King,Gameplay,319.0,1490.0,30.93,49.15,17.63
+For The King,Graphics & Visuals,97.0,522.0,10.84,14.95,15.67
+For The King,Multiplayer & Servers,78.0,939.0,19.49,12.02,7.67
+For The King,Price & Value,144.0,684.0,14.2,22.19,17.39
+For The King,Sound & Music,21.0,132.0,2.74,3.24,13.73
+For The King,Story & Characters,197.0,837.0,17.38,30.35,19.05
+For The King,Updates & Developers,94.0,488.0,10.13,14.48,16.15
+Foundation,Bugs & Performance,147.0,415.0,15.5,31.61,26.16
+Foundation,Gameplay,126.0,495.0,18.48,27.1,20.29
+Foundation,Graphics & Visuals,74.0,423.0,15.8,15.91,14.89
+Foundation,Multiplayer & Servers,6.0,27.0,1.01,1.29,18.18
+Foundation,Price & Value,174.0,379.0,14.15,37.42,31.46
+Foundation,Sound & Music,16.0,91.0,3.4,3.44,14.95
+Foundation,Story & Characters,29.0,113.0,4.22,6.24,20.42
+Foundation,Updates & Developers,134.0,890.0,33.23,28.82,13.09
+Freeman: Guerrilla Warfare,Bugs & Performance,354.0,777.0,26.13,36.53,31.3
+Freeman: Guerrilla Warfare,Gameplay,277.0,784.0,26.36,28.59,26.11
+Freeman: Guerrilla Warfare,Graphics & Visuals,105.0,260.0,8.74,10.84,28.77
+Freeman: Guerrilla Warfare,Multiplayer & Servers,17.0,81.0,2.72,1.75,17.35
+Freeman: Guerrilla Warfare,Price & Value,296.0,573.0,19.27,30.55,34.06
+Freeman: Guerrilla Warfare,Sound & Music,22.0,55.0,1.85,2.27,28.57
+Freeman: Guerrilla Warfare,Story & Characters,110.0,259.0,8.71,11.35,29.81
+Freeman: Guerrilla Warfare,Updates & Developers,456.0,1309.0,44.01,47.06,25.84
+Frostpunk,Bugs & Performance,495.0,1403.0,8.34,28.09,26.08
+Frostpunk,Gameplay,550.0,4749.0,28.21,31.21,10.38
+Frostpunk,Graphics & Visuals,210.0,2501.0,14.86,11.92,7.75
+Frostpunk,Multiplayer & Servers,39.0,156.0,0.93,2.21,20.0
+Frostpunk,Price & Value,622.0,3025.0,17.97,35.3,17.06
+Frostpunk,Sound & Music,83.0,1567.0,9.31,4.71,5.03
+Frostpunk,Story & Characters,275.0,2957.0,17.57,15.61,8.51
+Frostpunk,Updates & Developers,373.0,1523.0,9.05,21.17,19.67
+GOD EATER 3,Bugs & Performance,43.0,140.0,10.74,21.5,23.5
+GOD EATER 3,Gameplay,109.0,583.0,44.71,54.5,15.75
+GOD EATER 3,Graphics & Visuals,48.0,243.0,18.63,24.0,16.49
+GOD EATER 3,Multiplayer & Servers,26.0,133.0,10.2,13.0,16.35
+GOD EATER 3,Price & Value,65.0,201.0,15.41,32.5,24.44
+GOD EATER 3,Sound & Music,18.0,89.0,6.83,9.0,16.82
+GOD EATER 3,Story & Characters,89.0,560.0,42.94,44.5,13.71
+GOD EATER 3,Updates & Developers,39.0,145.0,11.12,19.5,21.2
+GRIS,Bugs & Performance,24.0,175.0,1.65,4.24,12.06
+GRIS,Gameplay,259.0,2633.0,24.79,45.76,8.96
+GRIS,Graphics & Visuals,296.0,6805.0,64.07,52.3,4.17
+GRIS,Multiplayer & Servers,5.0,31.0,0.29,0.88,13.89
+GRIS,Price & Value,113.0,1462.0,13.77,19.96,7.17
+GRIS,Sound & Music,200.0,4617.0,43.47,35.34,4.15
+GRIS,Story & Characters,197.0,2761.0,26.0,34.81,6.66
+GRIS,Updates & Developers,34.0,285.0,2.68,6.01,10.66
 Garry's Mod,Bugs & Performance,1022.0,7148.0,3.83,13.55,12.51
 Garry's Mod,Gameplay,279.0,4314.0,2.31,3.7,6.07
 Garry's Mod,Graphics & Visuals,450.0,5941.0,3.18,5.97,7.04
@@ -47,6 +919,30 @@ Garry's Mod,Price & Value,909.0,12758.0,6.84,12.06,6.65
 Garry's Mod,Sound & Music,23.0,466.0,0.25,0.31,4.7
 Garry's Mod,Story & Characters,199.0,3779.0,2.02,2.64,5.0
 Garry's Mod,Updates & Developers,292.0,1856.0,0.99,3.87,13.59
+Getting Over It with Bennett Foddy,Bugs & Performance,166.0,209.0,2.15,8.04,44.27
+Getting Over It with Bennett Foddy,Gameplay,627.0,1184.0,12.2,30.38,34.62
+Getting Over It with Bennett Foddy,Graphics & Visuals,41.0,198.0,2.04,1.99,17.15
+Getting Over It with Bennett Foddy,Multiplayer & Servers,15.0,52.0,0.54,0.73,22.39
+Getting Over It with Bennett Foddy,Price & Value,383.0,868.0,8.94,18.56,30.62
+Getting Over It with Bennett Foddy,Sound & Music,46.0,213.0,2.19,2.23,17.76
+Getting Over It with Bennett Foddy,Story & Characters,170.0,370.0,3.81,8.24,31.48
+Getting Over It with Bennett Foddy,Updates & Developers,106.0,131.0,1.35,5.14,44.73
+Ghost of a Tale,Bugs & Performance,52.0,303.0,21.5,37.68,14.65
+Ghost of a Tale,Gameplay,70.0,626.0,44.43,50.72,10.06
+Ghost of a Tale,Graphics & Visuals,56.0,666.0,47.27,40.58,7.76
+Ghost of a Tale,Multiplayer & Servers,3.0,18.0,1.28,2.17,14.29
+Ghost of a Tale,Price & Value,33.0,220.0,15.61,23.91,13.04
+Ghost of a Tale,Sound & Music,17.0,179.0,12.7,12.32,8.67
+Ghost of a Tale,Story & Characters,52.0,842.0,59.76,37.68,5.82
+Ghost of a Tale,Updates & Developers,30.0,281.0,19.94,21.74,9.65
+Golf It!,Bugs & Performance,140.0,198.0,5.83,21.44,41.42
+Golf It!,Gameplay,122.0,232.0,6.83,18.68,34.46
+Golf It!,Graphics & Visuals,53.0,94.0,2.77,8.12,36.05
+Golf It!,Multiplayer & Servers,47.0,155.0,4.56,7.2,23.27
+Golf It!,Price & Value,105.0,206.0,6.07,16.08,33.76
+Golf It!,Sound & Music,13.0,43.0,1.27,1.99,23.21
+Golf It!,Story & Characters,6.0,42.0,1.24,0.92,12.5
+Golf It!,Updates & Developers,83.0,147.0,4.33,12.71,36.09
 Grand Theft Auto V,Bugs & Performance,7880.0,7843.0,6.61,11.99,50.12
 Grand Theft Auto V,Gameplay,10620.0,14293.0,12.05,16.16,42.63
 Grand Theft Auto V,Graphics & Visuals,2013.0,8337.0,7.03,3.06,19.45
@@ -55,6 +951,94 @@ Grand Theft Auto V,Price & Value,21013.0,17437.0,14.7,31.98,54.65
 Grand Theft Auto V,Sound & Music,288.0,1303.0,1.1,0.44,18.1
 Grand Theft Auto V,Story & Characters,7914.0,17819.0,15.02,12.04,30.75
 Grand Theft Auto V,Updates & Developers,6238.0,4719.0,3.98,9.49,56.93
+Grimm's Hollow,Bugs & Performance,8.0,144.0,5.54,18.18,5.26
+Grimm's Hollow,Gameplay,20.0,786.0,30.27,45.45,2.48
+Grimm's Hollow,Graphics & Visuals,7.0,483.0,18.6,15.91,1.43
+Grimm's Hollow,Multiplayer & Servers,0.0,2.0,0.08,0.0,0.0
+Grimm's Hollow,Price & Value,5.0,323.0,12.44,11.36,1.52
+Grimm's Hollow,Sound & Music,8.0,411.0,15.83,18.18,1.91
+Grimm's Hollow,Story & Characters,18.0,1523.0,58.64,40.91,1.17
+Grimm's Hollow,Updates & Developers,4.0,136.0,5.24,9.09,2.86
+Guacamelee! Super Turbo Championship Edition,Bugs & Performance,15.0,47.0,2.91,8.88,24.19
+Guacamelee! Super Turbo Championship Edition,Gameplay,77.0,684.0,42.41,45.56,10.12
+Guacamelee! Super Turbo Championship Edition,Graphics & Visuals,35.0,358.0,22.19,20.71,8.91
+Guacamelee! Super Turbo Championship Edition,Multiplayer & Servers,13.0,142.0,8.8,7.69,8.39
+Guacamelee! Super Turbo Championship Edition,Price & Value,36.0,228.0,14.14,21.3,13.64
+Guacamelee! Super Turbo Championship Edition,Sound & Music,29.0,289.0,17.92,17.16,9.12
+Guacamelee! Super Turbo Championship Edition,Story & Characters,54.0,377.0,23.37,31.95,12.53
+Guacamelee! Super Turbo Championship Edition,Updates & Developers,16.0,46.0,2.85,9.47,25.81
+Gunpoint,Bugs & Performance,44.0,239.0,2.96,21.26,15.55
+Gunpoint,Gameplay,71.0,3034.0,37.59,34.3,2.29
+Gunpoint,Graphics & Visuals,17.0,627.0,7.77,8.21,2.64
+Gunpoint,Multiplayer & Servers,2.0,63.0,0.78,0.97,3.08
+Gunpoint,Price & Value,72.0,1849.0,22.91,34.78,3.75
+Gunpoint,Sound & Music,5.0,1072.0,13.28,2.42,0.46
+Gunpoint,Story & Characters,42.0,2762.0,34.22,20.29,1.5
+Gunpoint,Updates & Developers,17.0,245.0,3.04,8.21,6.49
+HITMAN™ 2,Bugs & Performance,481.0,822.0,6.48,25.1,36.91
+HITMAN™ 2,Gameplay,605.0,3792.0,29.91,31.58,13.76
+HITMAN™ 2,Graphics & Visuals,142.0,1289.0,10.17,7.41,9.92
+HITMAN™ 2,Multiplayer & Servers,296.0,572.0,4.51,15.45,34.1
+HITMAN™ 2,Price & Value,692.0,2304.0,18.17,36.12,23.1
+HITMAN™ 2,Sound & Music,42.0,280.0,2.21,2.19,13.04
+HITMAN™ 2,Story & Characters,261.0,1569.0,12.38,13.62,14.26
+HITMAN™ 2,Updates & Developers,267.0,570.0,4.5,13.94,31.9
+Hades,Bugs & Performance,41.0,734.0,1.58,7.9,5.29
+Hades,Gameplay,258.0,16947.0,36.42,49.71,1.5
+Hades,Graphics & Visuals,98.0,7706.0,16.56,18.88,1.26
+Hades,Multiplayer & Servers,5.0,172.0,0.37,0.96,2.82
+Hades,Price & Value,120.0,4379.0,9.41,23.12,2.67
+Hades,Sound & Music,64.0,10277.0,22.09,12.33,0.62
+Hades,Story & Characters,199.0,17586.0,37.8,38.34,1.12
+Hades,Updates & Developers,64.0,3893.0,8.37,12.33,1.62
+Half-Life,Bugs & Performance,162.0,2422.0,13.23,19.31,6.27
+Half-Life,Gameplay,242.0,2805.0,15.32,28.84,7.94
+Half-Life,Graphics & Visuals,133.0,2297.0,12.55,15.85,5.47
+Half-Life,Multiplayer & Servers,26.0,711.0,3.88,3.1,3.53
+Half-Life,Price & Value,97.0,1386.0,7.57,11.56,6.54
+Half-Life,Sound & Music,48.0,512.0,2.8,5.72,8.57
+Half-Life,Story & Characters,195.0,3397.0,18.56,23.24,5.43
+Half-Life,Updates & Developers,21.0,236.0,1.29,2.5,8.17
+Half-Life 2: Episode Two,Bugs & Performance,28.0,301.0,3.81,7.53,8.51
+Half-Life 2: Episode Two,Gameplay,40.0,791.0,10.01,10.75,4.81
+Half-Life 2: Episode Two,Graphics & Visuals,18.0,444.0,5.62,4.84,3.9
+Half-Life 2: Episode Two,Multiplayer & Servers,6.0,38.0,0.48,1.61,13.64
+Half-Life 2: Episode Two,Price & Value,44.0,386.0,4.89,11.83,10.23
+Half-Life 2: Episode Two,Sound & Music,3.0,146.0,1.85,0.81,2.01
+Half-Life 2: Episode Two,Story & Characters,105.0,1850.0,23.41,28.23,5.37
+Half-Life 2: Episode Two,Updates & Developers,18.0,137.0,1.73,4.84,11.61
+Half-Life: Alyx,Bugs & Performance,137.0,2072.0,7.02,28.42,6.2
+Half-Life: Alyx,Gameplay,186.0,6259.0,21.2,38.59,2.89
+Half-Life: Alyx,Graphics & Visuals,116.0,4791.0,16.23,24.07,2.36
+Half-Life: Alyx,Multiplayer & Servers,17.0,160.0,0.54,3.53,9.6
+Half-Life: Alyx,Price & Value,113.0,4007.0,13.57,23.44,2.74
+Half-Life: Alyx,Sound & Music,28.0,1196.0,4.05,5.81,2.29
+Half-Life: Alyx,Story & Characters,152.0,6619.0,22.42,31.54,2.24
+Half-Life: Alyx,Updates & Developers,63.0,1103.0,3.74,13.07,5.4
+Hearts of Iron IV,Bugs & Performance,1062.0,1748.0,4.93,22.83,37.79
+Hearts of Iron IV,Gameplay,1009.0,4254.0,12.0,21.69,19.17
+Hearts of Iron IV,Graphics & Visuals,205.0,762.0,2.15,4.41,21.2
+Hearts of Iron IV,Multiplayer & Servers,330.0,1696.0,4.79,7.09,16.29
+Hearts of Iron IV,Price & Value,1930.0,6955.0,19.63,41.49,21.72
+Hearts of Iron IV,Sound & Music,50.0,328.0,0.93,1.07,13.23
+Hearts of Iron IV,Story & Characters,242.0,903.0,2.55,5.2,21.14
+Hearts of Iron IV,Updates & Developers,925.0,1546.0,4.36,19.88,37.43
+Helltaker,Bugs & Performance,8.0,106.0,0.42,1.38,7.02
+Helltaker,Gameplay,119.0,2496.0,9.94,20.52,4.55
+Helltaker,Graphics & Visuals,55.0,2096.0,8.35,9.48,2.56
+Helltaker,Multiplayer & Servers,7.0,69.0,0.27,1.21,9.21
+Helltaker,Price & Value,60.0,2067.0,8.23,10.34,2.82
+Helltaker,Sound & Music,78.0,4458.0,17.76,13.45,1.72
+Helltaker,Story & Characters,120.0,3829.0,15.25,20.69,3.04
+Helltaker,Updates & Developers,25.0,660.0,2.63,4.31,3.65
+Heroes of Hammerwatch,Bugs & Performance,67.0,107.0,4.72,20.68,38.51
+Heroes of Hammerwatch,Gameplay,136.0,778.0,34.29,41.98,14.88
+Heroes of Hammerwatch,Graphics & Visuals,14.0,131.0,5.77,4.32,9.66
+Heroes of Hammerwatch,Multiplayer & Servers,106.0,483.0,21.29,32.72,18.0
+Heroes of Hammerwatch,Price & Value,73.0,461.0,20.32,22.53,13.67
+Heroes of Hammerwatch,Sound & Music,10.0,93.0,4.1,3.09,9.71
+Heroes of Hammerwatch,Story & Characters,57.0,372.0,16.39,17.59,13.29
+Heroes of Hammerwatch,Updates & Developers,68.0,174.0,7.67,20.99,28.1
 Hollow Knight,Bugs & Performance,209.0,2792.0,7.08,14.18,6.96
 Hollow Knight,Gameplay,722.0,14253.0,36.13,48.98,4.82
 Hollow Knight,Graphics & Visuals,382.0,10600.0,26.87,25.92,3.48
@@ -63,6 +1047,206 @@ Hollow Knight,Price & Value,349.0,7965.0,20.19,23.68,4.2
 Hollow Knight,Sound & Music,232.0,9561.0,24.23,15.74,2.37
 Hollow Knight,Story & Characters,359.0,10808.0,27.39,24.36,3.21
 Hollow Knight,Updates & Developers,168.0,2123.0,5.38,11.4,7.33
+Hotline Miami,Bugs & Performance,137.0,607.0,2.56,16.87,18.41
+Hotline Miami,Gameplay,321.0,6178.0,26.06,39.53,4.94
+Hotline Miami,Graphics & Visuals,118.0,2576.0,10.87,14.53,4.38
+Hotline Miami,Multiplayer & Servers,16.0,116.0,0.49,1.97,12.12
+Hotline Miami,Price & Value,128.0,2588.0,10.92,15.76,4.71
+Hotline Miami,Sound & Music,158.0,7797.0,32.89,19.46,1.99
+Hotline Miami,Story & Characters,139.0,4960.0,20.92,17.12,2.73
+Hotline Miami,Updates & Developers,46.0,268.0,1.13,5.67,14.65
+House Flipper,Bugs & Performance,543.0,1432.0,11.41,34.79,27.49
+House Flipper,Gameplay,298.0,1290.0,10.28,19.09,18.77
+House Flipper,Graphics & Visuals,178.0,705.0,5.62,11.4,20.16
+House Flipper,Multiplayer & Servers,27.0,210.0,1.67,1.73,11.39
+House Flipper,Price & Value,642.0,2358.0,18.79,41.13,21.4
+House Flipper,Sound & Music,21.0,302.0,2.41,1.35,6.5
+House Flipper,Story & Characters,77.0,400.0,3.19,4.93,16.14
+House Flipper,Updates & Developers,310.0,1308.0,10.43,19.86,19.16
+Human: Fall Flat,Bugs & Performance,124.0,525.0,3.62,12.02,19.11
+Human: Fall Flat,Gameplay,229.0,1521.0,10.49,22.19,13.09
+Human: Fall Flat,Graphics & Visuals,32.0,434.0,2.99,3.1,6.87
+Human: Fall Flat,Multiplayer & Servers,134.0,1788.0,12.33,12.98,6.97
+Human: Fall Flat,Price & Value,209.0,1272.0,8.77,20.25,14.11
+Human: Fall Flat,Sound & Music,26.0,296.0,2.04,2.52,8.07
+Human: Fall Flat,Story & Characters,82.0,798.0,5.5,7.95,9.32
+Human: Fall Flat,Updates & Developers,143.0,519.0,3.58,13.86,21.6
+HuniePop,Bugs & Performance,31.0,217.0,1.5,5.2,12.5
+HuniePop,Gameplay,81.0,1746.0,12.03,13.59,4.43
+HuniePop,Graphics & Visuals,37.0,719.0,4.96,6.21,4.89
+HuniePop,Multiplayer & Servers,13.0,117.0,0.81,2.18,10.0
+HuniePop,Price & Value,116.0,1200.0,8.27,19.46,8.81
+HuniePop,Sound & Music,48.0,984.0,6.78,8.05,4.65
+HuniePop,Story & Characters,94.0,1922.0,13.25,15.77,4.66
+HuniePop,Updates & Developers,38.0,708.0,4.88,6.38,5.09
+Hunt Down The Freeman,Bugs & Performance,156.0,85.0,20.78,23.82,64.73
+Hunt Down The Freeman,Gameplay,133.0,63.0,15.4,20.31,67.86
+Hunt Down The Freeman,Graphics & Visuals,96.0,40.0,9.78,14.66,70.59
+Hunt Down The Freeman,Multiplayer & Servers,20.0,14.0,3.42,3.05,58.82
+Hunt Down The Freeman,Price & Value,193.0,81.0,19.8,29.47,70.44
+Hunt Down The Freeman,Sound & Music,75.0,46.0,11.25,11.45,61.98
+Hunt Down The Freeman,Story & Characters,118.0,90.0,22.0,18.02,56.73
+Hunt Down The Freeman,Updates & Developers,89.0,39.0,9.54,13.59,69.53
+Hunt: Showdown,Bugs & Performance,2229.0,5591.0,22.61,34.21,28.5
+Hunt: Showdown,Gameplay,1408.0,5032.0,20.35,21.61,21.86
+Hunt: Showdown,Graphics & Visuals,962.0,3653.0,14.78,14.77,20.85
+Hunt: Showdown,Multiplayer & Servers,2079.0,3803.0,15.38,31.91,35.35
+Hunt: Showdown,Price & Value,1849.0,3437.0,13.9,28.38,34.98
+Hunt: Showdown,Sound & Music,238.0,1683.0,6.81,3.65,12.39
+Hunt: Showdown,Story & Characters,642.0,1838.0,7.43,9.85,25.89
+Hunt: Showdown,Updates & Developers,1870.0,5243.0,21.21,28.7,26.29
+Iconoclasts,Bugs & Performance,16.0,42.0,3.64,7.58,27.59
+Iconoclasts,Gameplay,138.0,638.0,55.33,65.4,17.78
+Iconoclasts,Graphics & Visuals,66.0,390.0,33.82,31.28,14.47
+Iconoclasts,Multiplayer & Servers,1.0,9.0,0.78,0.47,10.0
+Iconoclasts,Price & Value,38.0,234.0,20.29,18.01,13.97
+Iconoclasts,Sound & Music,44.0,299.0,25.93,20.85,12.83
+Iconoclasts,Story & Characters,144.0,812.0,70.42,68.25,15.06
+Iconoclasts,Updates & Developers,25.0,78.0,6.76,11.85,24.27
+Identity,Bugs & Performance,222.0,61.0,27.98,26.03,78.45
+Identity,Gameplay,51.0,11.0,5.05,5.98,82.26
+Identity,Graphics & Visuals,57.0,9.0,4.13,6.68,86.36
+Identity,Multiplayer & Servers,101.0,30.0,13.76,11.84,77.1
+Identity,Price & Value,353.0,26.0,11.93,41.38,93.14
+Identity,Sound & Music,6.0,1.0,0.46,0.7,85.71
+Identity,Story & Characters,100.0,17.0,7.8,11.72,85.47
+Identity,Updates & Developers,305.0,94.0,43.12,35.76,76.44
+Insurgency: Sandstorm,Bugs & Performance,2610.0,6520.0,28.7,49.79,28.59
+Insurgency: Sandstorm,Gameplay,1041.0,4080.0,17.96,19.86,20.33
+Insurgency: Sandstorm,Graphics & Visuals,914.0,2704.0,11.9,17.44,25.26
+Insurgency: Sandstorm,Multiplayer & Servers,1225.0,3218.0,14.16,23.37,27.57
+Insurgency: Sandstorm,Price & Value,1053.0,2380.0,10.47,20.09,30.67
+Insurgency: Sandstorm,Sound & Music,177.0,1253.0,5.51,3.38,12.38
+Insurgency: Sandstorm,Story & Characters,417.0,1132.0,4.98,7.95,26.92
+Insurgency: Sandstorm,Updates & Developers,1354.0,3024.0,13.31,25.83,30.93
+Into the Breach,Bugs & Performance,29.0,361.0,5.85,6.24,7.44
+Into the Breach,Gameplay,232.0,2336.0,37.87,49.89,9.03
+Into the Breach,Graphics & Visuals,34.0,514.0,8.33,7.31,6.2
+Into the Breach,Multiplayer & Servers,5.0,54.0,0.88,1.08,8.47
+Into the Breach,Price & Value,110.0,800.0,12.97,23.66,12.09
+Into the Breach,Sound & Music,25.0,486.0,7.88,5.38,4.89
+Into the Breach,Story & Characters,81.0,573.0,9.29,17.42,12.39
+Into the Breach,Updates & Developers,57.0,397.0,6.44,12.26,12.56
+Jurassic World Evolution,Bugs & Performance,509.0,783.0,6.75,17.75,39.4
+Jurassic World Evolution,Gameplay,990.0,2142.0,18.46,34.52,31.61
+Jurassic World Evolution,Graphics & Visuals,805.0,2455.0,21.16,28.07,24.69
+Jurassic World Evolution,Multiplayer & Servers,29.0,88.0,0.76,1.01,24.79
+Jurassic World Evolution,Price & Value,1509.0,3219.0,27.74,52.62,31.92
+Jurassic World Evolution,Sound & Music,127.0,475.0,4.09,4.43,21.1
+Jurassic World Evolution,Story & Characters,300.0,767.0,6.61,10.46,28.12
+Jurassic World Evolution,Updates & Developers,535.0,1124.0,9.69,18.65,32.25
+Just Cause 3,Bugs & Performance,3585.0,4251.0,20.68,50.79,45.75
+Just Cause 3,Gameplay,1956.0,4268.0,20.76,27.71,31.43
+Just Cause 3,Graphics & Visuals,1043.0,3313.0,16.11,14.78,23.94
+Just Cause 3,Multiplayer & Servers,603.0,947.0,4.61,8.54,38.9
+Just Cause 3,Price & Value,1887.0,3737.0,18.18,26.74,33.55
+Just Cause 3,Sound & Music,178.0,470.0,2.29,2.52,27.47
+Just Cause 3,Story & Characters,1056.0,4276.0,20.8,14.96,19.8
+Just Cause 3,Updates & Developers,1150.0,1031.0,5.01,16.29,52.73
+Just Cause 4,Bugs & Performance,1310.0,765.0,22.39,37.02,63.13
+Just Cause 4,Gameplay,1447.0,960.0,28.1,40.89,60.12
+Just Cause 4,Graphics & Visuals,1214.0,905.0,26.49,34.3,57.29
+Just Cause 4,Multiplayer & Servers,108.0,63.0,1.84,3.05,63.16
+Just Cause 4,Price & Value,1193.0,742.0,21.72,33.71,61.65
+Just Cause 4,Sound & Music,117.0,87.0,2.55,3.31,57.35
+Just Cause 4,Story & Characters,777.0,783.0,22.92,21.96,49.81
+Just Cause 4,Updates & Developers,597.0,435.0,12.73,16.87,57.85
+Just Shapes & Beats,Bugs & Performance,6.0,77.0,2.24,6.98,7.23
+Just Shapes & Beats,Gameplay,37.0,628.0,18.26,43.02,5.56
+Just Shapes & Beats,Graphics & Visuals,8.0,314.0,9.13,9.3,2.48
+Just Shapes & Beats,Multiplayer & Servers,13.0,321.0,9.33,15.12,3.89
+Just Shapes & Beats,Price & Value,30.0,396.0,11.51,34.88,7.04
+Just Shapes & Beats,Sound & Music,23.0,1169.0,33.99,26.74,1.93
+Just Shapes & Beats,Story & Characters,30.0,859.0,24.98,34.88,3.37
+Just Shapes & Beats,Updates & Developers,4.0,123.0,3.58,4.65,3.15
+Keep Talking and Nobody Explodes,Bugs & Performance,5.0,48.0,0.98,6.76,9.43
+Keep Talking and Nobody Explodes,Gameplay,4.0,403.0,8.23,5.41,0.98
+Keep Talking and Nobody Explodes,Graphics & Visuals,2.0,76.0,1.55,2.7,2.56
+Keep Talking and Nobody Explodes,Multiplayer & Servers,8.0,585.0,11.94,10.81,1.35
+Keep Talking and Nobody Explodes,Price & Value,20.0,333.0,6.8,27.03,5.67
+Keep Talking and Nobody Explodes,Sound & Music,2.0,61.0,1.25,2.7,3.17
+Keep Talking and Nobody Explodes,Story & Characters,2.0,90.0,1.84,2.7,2.17
+Keep Talking and Nobody Explodes,Updates & Developers,4.0,93.0,1.9,5.41,4.12
+Kenshi,Bugs & Performance,586.0,2485.0,14.31,47.26,19.08
+Kenshi,Gameplay,460.0,3522.0,20.28,37.1,11.55
+Kenshi,Graphics & Visuals,221.0,1501.0,8.64,17.82,12.83
+Kenshi,Multiplayer & Servers,34.0,247.0,1.42,2.74,12.1
+Kenshi,Price & Value,383.0,2332.0,13.43,30.89,14.11
+Kenshi,Sound & Music,35.0,303.0,1.74,2.82,10.36
+Kenshi,Story & Characters,377.0,3416.0,19.67,30.4,9.94
+Kenshi,Updates & Developers,358.0,2025.0,11.66,28.87,15.02
+Kingdom Come: Deliverance,Bugs & Performance,3704.0,8609.0,35.96,56.66,30.08
+Kingdom Come: Deliverance,Gameplay,4109.0,10840.0,45.28,62.86,27.49
+Kingdom Come: Deliverance,Graphics & Visuals,1362.0,5138.0,21.46,20.84,20.95
+Kingdom Come: Deliverance,Multiplayer & Servers,131.0,248.0,1.04,2.0,34.56
+Kingdom Come: Deliverance,Price & Value,2137.0,4744.0,19.82,32.69,31.06
+Kingdom Come: Deliverance,Sound & Music,400.0,1511.0,6.31,6.12,20.93
+Kingdom Come: Deliverance,Story & Characters,2397.0,9005.0,37.61,36.67,21.02
+Kingdom Come: Deliverance,Updates & Developers,1453.0,3498.0,14.61,22.23,29.35
+Kingdom Two Crowns,Bugs & Performance,201.0,259.0,14.33,54.03,43.7
+Kingdom Two Crowns,Gameplay,137.0,391.0,21.63,36.83,25.95
+Kingdom Two Crowns,Graphics & Visuals,57.0,387.0,21.4,15.32,12.84
+Kingdom Two Crowns,Multiplayer & Servers,82.0,318.0,17.59,22.04,20.5
+Kingdom Two Crowns,Price & Value,129.0,275.0,15.21,34.68,31.93
+Kingdom Two Crowns,Sound & Music,33.0,258.0,14.27,8.87,11.34
+Kingdom Two Crowns,Story & Characters,35.0,97.0,5.37,9.41,26.52
+Kingdom Two Crowns,Updates & Developers,88.0,171.0,9.46,23.66,33.98
+Little Nightmares,Bugs & Performance,150.0,244.0,3.83,20.6,38.07
+Little Nightmares,Gameplay,336.0,1542.0,24.23,46.15,17.89
+Little Nightmares,Graphics & Visuals,190.0,1742.0,27.38,26.1,9.83
+Little Nightmares,Multiplayer & Servers,9.0,44.0,0.69,1.24,16.98
+Little Nightmares,Price & Value,291.0,1896.0,29.8,39.97,13.31
+Little Nightmares,Sound & Music,51.0,781.0,12.27,7.01,6.13
+Little Nightmares,Story & Characters,206.0,2013.0,31.64,28.3,9.28
+Little Nightmares,Updates & Developers,81.0,196.0,3.08,11.13,29.24
+METAL GEAR SURVIVE,Bugs & Performance,73.0,104.0,7.14,9.54,41.24
+METAL GEAR SURVIVE,Gameplay,318.0,696.0,47.77,41.57,31.36
+METAL GEAR SURVIVE,Graphics & Visuals,53.0,112.0,7.69,6.93,32.12
+METAL GEAR SURVIVE,Multiplayer & Servers,250.0,526.0,36.1,32.68,32.22
+METAL GEAR SURVIVE,Price & Value,296.0,549.0,37.68,38.69,35.03
+METAL GEAR SURVIVE,Sound & Music,35.0,80.0,5.49,4.58,30.43
+METAL GEAR SURVIVE,Story & Characters,235.0,623.0,42.76,30.72,27.39
+METAL GEAR SURVIVE,Updates & Developers,72.0,147.0,10.09,9.41,32.88
+MORDHAU,Bugs & Performance,1680.0,2024.0,6.78,22.88,45.36
+MORDHAU,Gameplay,2228.0,7139.0,23.9,30.34,23.79
+MORDHAU,Graphics & Visuals,704.0,1713.0,5.73,9.59,29.13
+MORDHAU,Multiplayer & Servers,2533.0,3903.0,13.07,34.49,39.36
+MORDHAU,Price & Value,1509.0,2722.0,9.11,20.55,35.67
+MORDHAU,Sound & Music,70.0,368.0,1.23,0.95,15.98
+MORDHAU,Story & Characters,534.0,1442.0,4.83,7.27,27.02
+MORDHAU,Updates & Developers,1729.0,2657.0,8.89,23.54,39.42
+Mark of the Ninja,Bugs & Performance,30.0,211.0,2.73,11.76,12.45
+Mark of the Ninja,Gameplay,119.0,3048.0,39.46,46.67,3.76
+Mark of the Ninja,Graphics & Visuals,36.0,1665.0,21.55,14.12,2.12
+Mark of the Ninja,Multiplayer & Servers,2.0,53.0,0.69,0.78,3.64
+Mark of the Ninja,Price & Value,46.0,1216.0,15.74,18.04,3.65
+Mark of the Ninja,Sound & Music,10.0,437.0,5.66,3.92,2.24
+Mark of the Ninja,Story & Characters,59.0,2024.0,26.2,23.14,2.83
+Mark of the Ninja,Updates & Developers,22.0,230.0,2.98,8.63,8.73
+Middle-earth™: Shadow of War™,Bugs & Performance,735.0,1125.0,7.85,21.86,39.52
+Middle-earth™: Shadow of War™,Gameplay,1879.0,5556.0,38.76,55.87,25.27
+Middle-earth™: Shadow of War™,Graphics & Visuals,489.0,1715.0,11.96,14.54,22.19
+Middle-earth™: Shadow of War™,Multiplayer & Servers,229.0,816.0,5.69,6.81,21.91
+Middle-earth™: Shadow of War™,Price & Value,1353.0,3867.0,26.98,40.23,25.92
+Middle-earth™: Shadow of War™,Sound & Music,94.0,409.0,2.85,2.8,18.69
+Middle-earth™: Shadow of War™,Story & Characters,1316.0,4986.0,34.78,39.13,20.88
+Middle-earth™: Shadow of War™,Updates & Developers,416.0,718.0,5.01,12.37,36.68
+Mirror,Bugs & Performance,12.0,58.0,1.46,3.16,17.14
+Mirror,Gameplay,91.0,568.0,14.34,23.95,13.81
+Mirror,Graphics & Visuals,38.0,347.0,8.76,10.0,9.87
+Mirror,Multiplayer & Servers,4.0,27.0,0.68,1.05,12.9
+Mirror,Price & Value,83.0,712.0,17.98,21.84,10.44
+Mirror,Sound & Music,32.0,240.0,6.06,8.42,11.76
+Mirror,Story & Characters,86.0,791.0,19.97,22.63,9.81
+Mirror,Updates & Developers,40.0,508.0,12.83,10.53,7.3
+Momodora: Reverie Under the Moonlight,Bugs & Performance,14.0,74.0,2.44,5.69,15.91
+Momodora: Reverie Under the Moonlight,Gameplay,161.0,1600.0,52.68,65.45,9.14
+Momodora: Reverie Under the Moonlight,Graphics & Visuals,84.0,1069.0,35.2,34.15,7.29
+Momodora: Reverie Under the Moonlight,Multiplayer & Servers,2.0,21.0,0.69,0.81,8.7
+Momodora: Reverie Under the Moonlight,Price & Value,51.0,631.0,20.78,20.73,7.48
+Momodora: Reverie Under the Moonlight,Sound & Music,54.0,834.0,27.46,21.95,6.08
+Momodora: Reverie Under the Moonlight,Story & Characters,86.0,976.0,32.14,34.96,8.1
+Momodora: Reverie Under the Moonlight,Updates & Developers,13.0,176.0,5.8,5.28,6.88
 Monster Hunter: World,Bugs & Performance,2184.0,5894.0,9.84,24.92,27.04
 Monster Hunter: World,Gameplay,3268.0,16852.0,28.14,37.28,16.24
 Monster Hunter: World,Graphics & Visuals,1364.0,7640.0,12.76,15.56,15.15
@@ -71,6 +1255,110 @@ Monster Hunter: World,Price & Value,1888.0,7201.0,12.02,21.54,20.77
 Monster Hunter: World,Sound & Music,228.0,1288.0,2.15,2.6,15.04
 Monster Hunter: World,Story & Characters,1366.0,6625.0,11.06,15.58,17.09
 Monster Hunter: World,Updates & Developers,1258.0,4561.0,7.62,14.35,21.62
+Monster Prom,Bugs & Performance,15.0,79.0,1.66,5.58,15.96
+Monster Prom,Gameplay,64.0,538.0,11.31,23.79,10.63
+Monster Prom,Graphics & Visuals,43.0,396.0,8.33,15.99,9.79
+Monster Prom,Multiplayer & Servers,35.0,514.0,10.81,13.01,6.38
+Monster Prom,Price & Value,66.0,490.0,10.3,24.54,11.87
+Monster Prom,Sound & Music,24.0,213.0,4.48,8.92,10.13
+Monster Prom,Story & Characters,136.0,1582.0,33.27,50.56,7.92
+Monster Prom,Updates & Developers,13.0,184.0,3.87,4.83,6.6
+Mount & Blade: Warband,Bugs & Performance,190.0,1354.0,3.34,17.15,12.31
+Mount & Blade: Warband,Gameplay,339.0,8638.0,21.28,30.6,3.78
+Mount & Blade: Warband,Graphics & Visuals,137.0,3923.0,9.67,12.36,3.37
+Mount & Blade: Warband,Multiplayer & Servers,142.0,3853.0,9.49,12.82,3.55
+Mount & Blade: Warband,Price & Value,225.0,5307.0,13.08,20.31,4.07
+Mount & Blade: Warband,Sound & Music,20.0,414.0,1.02,1.81,4.61
+Mount & Blade: Warband,Story & Characters,128.0,3269.0,8.05,11.55,3.77
+Mount & Blade: Warband,Updates & Developers,74.0,768.0,1.89,6.68,8.79
+Mutant Year Zero: Road to Eden,Bugs & Performance,194.0,408.0,6.39,22.88,32.23
+Mutant Year Zero: Road to Eden,Gameplay,506.0,2636.0,41.3,59.67,16.1
+Mutant Year Zero: Road to Eden,Graphics & Visuals,150.0,895.0,14.02,17.69,14.35
+Mutant Year Zero: Road to Eden,Multiplayer & Servers,32.0,65.0,1.02,3.77,32.99
+Mutant Year Zero: Road to Eden,Price & Value,260.0,1219.0,19.1,30.66,17.58
+Mutant Year Zero: Road to Eden,Sound & Music,74.0,527.0,8.26,8.73,12.31
+Mutant Year Zero: Road to Eden,Story & Characters,388.0,2776.0,43.5,45.75,12.26
+Mutant Year Zero: Road to Eden,Updates & Developers,124.0,338.0,5.3,14.62,26.84
+My Time At Portia,Bugs & Performance,246.0,1098.0,12.82,37.9,18.3
+My Time At Portia,Gameplay,289.0,2651.0,30.94,44.53,9.83
+My Time At Portia,Graphics & Visuals,150.0,1616.0,18.86,23.11,8.49
+My Time At Portia,Multiplayer & Servers,20.0,234.0,2.73,3.08,7.87
+My Time At Portia,Price & Value,189.0,1377.0,16.07,29.12,12.07
+My Time At Portia,Sound & Music,104.0,764.0,8.92,16.02,11.98
+My Time At Portia,Story & Characters,242.0,2535.0,29.59,37.29,8.71
+My Time At Portia,Updates & Developers,187.0,1756.0,20.5,28.81,9.62
+NBA 2K18,Bugs & Performance,566.0,135.0,15.45,26.45,80.74
+NBA 2K18,Gameplay,571.0,238.0,27.23,26.68,70.58
+NBA 2K18,Graphics & Visuals,224.0,124.0,14.19,10.47,64.37
+NBA 2K18,Multiplayer & Servers,423.0,137.0,15.68,19.77,75.54
+NBA 2K18,Price & Value,883.0,223.0,25.51,41.26,79.84
+NBA 2K18,Sound & Music,36.0,12.0,1.37,1.68,75.0
+NBA 2K18,Story & Characters,349.0,116.0,13.27,16.31,75.05
+NBA 2K18,Updates & Developers,191.0,51.0,5.84,8.93,78.93
+NBA 2K19,Bugs & Performance,469.0,131.0,9.84,24.19,78.17
+NBA 2K19,Gameplay,408.0,248.0,18.63,21.04,62.2
+NBA 2K19,Graphics & Visuals,129.0,109.0,8.19,6.65,54.2
+NBA 2K19,Multiplayer & Servers,516.0,292.0,21.94,26.61,63.86
+NBA 2K19,Price & Value,674.0,283.0,21.26,34.76,70.43
+NBA 2K19,Sound & Music,18.0,15.0,1.13,0.93,54.55
+NBA 2K19,Story & Characters,205.0,154.0,11.57,10.57,57.1
+NBA 2K19,Updates & Developers,168.0,37.0,2.78,8.66,81.95
+NBA 2K21,Bugs & Performance,485.0,97.0,9.97,27.97,83.33
+NBA 2K21,Gameplay,206.0,99.0,10.17,11.88,67.54
+NBA 2K21,Graphics & Visuals,106.0,63.0,6.47,6.11,62.72
+NBA 2K21,Multiplayer & Servers,294.0,86.0,8.84,16.96,77.37
+NBA 2K21,Price & Value,507.0,101.0,10.38,29.24,83.39
+NBA 2K21,Sound & Music,10.0,10.0,1.03,0.58,50.0
+NBA 2K21,Story & Characters,119.0,53.0,5.45,6.86,69.19
+NBA 2K21,Updates & Developers,206.0,47.0,4.83,11.88,81.42
+Neon Hardcorps,Bugs & Performance,11.0,2.0,16.67,35.48,84.62
+Neon Hardcorps,Gameplay,8.0,1.0,8.33,25.81,88.89
+Neon Hardcorps,Graphics & Visuals,3.0,1.0,8.33,9.68,75.0
+Neon Hardcorps,Multiplayer & Servers,0.0,1.0,8.33,0.0,0.0
+Neon Hardcorps,Price & Value,7.0,1.0,8.33,22.58,87.5
+Neon Hardcorps,Sound & Music,4.0,1.0,8.33,12.9,80.0
+Neon Hardcorps,Story & Characters,8.0,1.0,8.33,25.81,88.89
+Neon Hardcorps,Updates & Developers,2.0,0.0,0.0,6.45,100.0
+Nether,Bugs & Performance,1437.0,738.0,20.81,25.54,66.07
+Nether,Gameplay,676.0,491.0,13.84,12.02,57.93
+Nether,Graphics & Visuals,467.0,327.0,9.22,8.3,58.82
+Nether,Multiplayer & Servers,1314.0,633.0,17.85,23.36,67.49
+Nether,Price & Value,1973.0,638.0,17.99,35.07,75.56
+Nether,Sound & Music,16.0,16.0,0.45,0.28,50.0
+Nether,Story & Characters,398.0,227.0,6.4,7.07,63.68
+Nether,Updates & Developers,1395.0,642.0,18.1,24.8,68.48
+Ni no Kuni™ II: Revenant Kingdom,Bugs & Performance,97.0,216.0,8.29,16.64,30.99
+Ni no Kuni™ II: Revenant Kingdom,Gameplay,390.0,1275.0,48.96,66.9,23.42
+Ni no Kuni™ II: Revenant Kingdom,Graphics & Visuals,219.0,814.0,31.26,37.56,21.2
+Ni no Kuni™ II: Revenant Kingdom,Multiplayer & Servers,10.0,16.0,0.61,1.72,38.46
+Ni no Kuni™ II: Revenant Kingdom,Price & Value,181.0,507.0,19.47,31.05,26.31
+Ni no Kuni™ II: Revenant Kingdom,Sound & Music,147.0,449.0,17.24,25.21,24.66
+Ni no Kuni™ II: Revenant Kingdom,Story & Characters,404.0,1307.0,50.19,69.3,23.61
+Ni no Kuni™ II: Revenant Kingdom,Updates & Developers,71.0,122.0,4.69,12.18,36.79
+NieR:Automata™,Bugs & Performance,1375.0,3288.0,13.4,41.12,29.49
+NieR:Automata™,Gameplay,1228.0,9309.0,37.93,36.72,11.65
+NieR:Automata™,Graphics & Visuals,641.0,5102.0,20.79,19.17,11.16
+NieR:Automata™,Multiplayer & Servers,60.0,213.0,0.87,1.79,21.98
+NieR:Automata™,Price & Value,985.0,3775.0,15.38,29.46,20.69
+NieR:Automata™,Sound & Music,401.0,6510.0,26.53,11.99,5.8
+NieR:Automata™,Story & Characters,1022.0,12331.0,50.25,30.56,7.65
+NieR:Automata™,Updates & Developers,847.0,1606.0,6.54,25.33,34.53
+Night in the Woods,Bugs & Performance,26.0,118.0,1.76,5.46,18.06
+Night in the Woods,Gameplay,162.0,1163.0,17.3,34.03,12.23
+Night in the Woods,Graphics & Visuals,170.0,1912.0,28.44,35.71,8.17
+Night in the Woods,Multiplayer & Servers,4.0,26.0,0.39,0.84,13.33
+Night in the Woods,Price & Value,115.0,854.0,12.7,24.16,11.87
+Night in the Woods,Sound & Music,131.0,1626.0,24.19,27.52,7.46
+Night in the Woods,Story & Characters,343.0,4160.0,61.88,72.06,7.62
+Night in the Woods,Updates & Developers,50.0,243.0,3.61,10.5,17.06
+Nioh: Complete Edition,Bugs & Performance,334.0,676.0,14.05,28.5,33.07
+Nioh: Complete Edition,Gameplay,579.0,2157.0,44.84,49.4,21.16
+Nioh: Complete Edition,Graphics & Visuals,153.0,584.0,12.14,13.05,20.76
+Nioh: Complete Edition,Multiplayer & Servers,68.0,325.0,6.76,5.8,17.3
+Nioh: Complete Edition,Price & Value,271.0,699.0,14.53,23.12,27.94
+Nioh: Complete Edition,Sound & Music,32.0,162.0,3.37,2.73,16.49
+Nioh: Complete Edition,Story & Characters,240.0,1008.0,20.96,20.48,19.23
+Nioh: Complete Edition,Updates & Developers,112.0,265.0,5.51,9.56,29.71
 No Man's Sky,Bugs & Performance,9821.0,12035.0,18.25,29.05,44.94
 No Man's Sky,Gameplay,8167.0,12903.0,19.56,24.15,38.76
 No Man's Sky,Graphics & Visuals,3557.0,8102.0,12.28,10.52,30.51
@@ -79,6 +1367,78 @@ No Man's Sky,Price & Value,14867.0,15915.0,24.13,43.97,48.3
 No Man's Sky,Sound & Music,441.0,1337.0,2.03,1.3,24.8
 No Man's Sky,Story & Characters,3297.0,8121.0,12.31,9.75,28.88
 No Man's Sky,Updates & Developers,7755.0,22865.0,34.67,22.94,25.33
+Northgard,Bugs & Performance,245.0,621.0,6.12,12.87,28.29
+Northgard,Gameplay,644.0,2820.0,27.79,33.84,18.59
+Northgard,Graphics & Visuals,216.0,1356.0,13.36,11.35,13.74
+Northgard,Multiplayer & Servers,257.0,1451.0,14.3,13.5,15.05
+Northgard,Price & Value,684.0,1705.0,16.8,35.94,28.63
+Northgard,Sound & Music,64.0,502.0,4.95,3.36,11.31
+Northgard,Story & Characters,261.0,1514.0,14.92,13.72,14.7
+Northgard,Updates & Developers,410.0,1691.0,16.66,21.54,19.51
+Nova Drift,Bugs & Performance,2.0,79.0,4.05,5.13,2.47
+Nova Drift,Gameplay,24.0,604.0,30.93,61.54,3.82
+Nova Drift,Graphics & Visuals,4.0,231.0,11.83,10.26,1.7
+Nova Drift,Multiplayer & Servers,0.0,24.0,1.23,0.0,0.0
+Nova Drift,Price & Value,6.0,246.0,12.6,15.38,2.38
+Nova Drift,Sound & Music,2.0,136.0,6.96,5.13,1.45
+Nova Drift,Story & Characters,2.0,80.0,4.1,5.13,2.44
+Nova Drift,Updates & Developers,11.0,421.0,21.56,28.21,2.55
+One Finger Death Punch,Bugs & Performance,21.0,156.0,1.67,12.35,11.86
+One Finger Death Punch,Gameplay,50.0,2077.0,22.25,29.41,2.35
+One Finger Death Punch,Graphics & Visuals,26.0,959.0,10.27,15.29,2.64
+One Finger Death Punch,Multiplayer & Servers,1.0,67.0,0.72,0.59,1.47
+One Finger Death Punch,Price & Value,29.0,1660.0,17.78,17.06,1.72
+One Finger Death Punch,Sound & Music,9.0,579.0,6.2,5.29,1.53
+One Finger Death Punch,Story & Characters,13.0,425.0,4.55,7.65,2.97
+One Finger Death Punch,Updates & Developers,12.0,234.0,2.51,7.06,4.88
+OneShot,Bugs & Performance,23.0,172.0,1.82,11.56,11.79
+OneShot,Gameplay,78.0,1662.0,17.62,39.2,4.48
+OneShot,Graphics & Visuals,37.0,1336.0,14.16,18.59,2.69
+OneShot,Multiplayer & Servers,5.0,61.0,0.65,2.51,7.58
+OneShot,Price & Value,49.0,1497.0,15.87,24.62,3.17
+OneShot,Sound & Music,37.0,1350.0,14.31,18.59,2.67
+OneShot,Story & Characters,114.0,4631.0,49.1,57.29,2.4
+OneShot,Updates & Developers,24.0,457.0,4.85,12.06,4.99
+Ori and the Will of the Wisps,Bugs & Performance,176.0,1194.0,11.07,42.41,12.85
+Ori and the Will of the Wisps,Gameplay,211.0,4283.0,39.72,50.84,4.7
+Ori and the Will of the Wisps,Graphics & Visuals,136.0,4461.0,41.37,32.77,2.96
+Ori and the Will of the Wisps,Multiplayer & Servers,3.0,33.0,0.31,0.72,8.33
+Ori and the Will of the Wisps,Price & Value,79.0,1206.0,11.19,19.04,6.15
+Ori and the Will of the Wisps,Sound & Music,93.0,3251.0,30.15,22.41,2.78
+Ori and the Will of the Wisps,Story & Characters,135.0,3845.0,35.66,32.53,3.39
+Ori and the Will of the Wisps,Updates & Developers,85.0,593.0,5.5,20.48,12.54
+Out of the Park Baseball 19,Bugs & Performance,35.0,32.0,7.37,48.61,52.24
+Out of the Park Baseball 19,Gameplay,7.0,52.0,11.98,9.72,11.86
+Out of the Park Baseball 19,Graphics & Visuals,9.0,53.0,12.21,12.5,14.52
+Out of the Park Baseball 19,Multiplayer & Servers,7.0,28.0,6.45,9.72,20.0
+Out of the Park Baseball 19,Price & Value,25.0,68.0,15.67,34.72,26.88
+Out of the Park Baseball 19,Sound & Music,0.0,1.0,0.23,0.0,0.0
+Out of the Park Baseball 19,Story & Characters,5.0,14.0,3.23,6.94,26.32
+Out of the Park Baseball 19,Updates & Developers,13.0,43.0,9.91,18.06,23.21
+Outlast,Bugs & Performance,70.0,441.0,2.62,8.09,13.7
+Outlast,Gameplay,210.0,1962.0,11.64,24.28,9.67
+Outlast,Graphics & Visuals,102.0,1654.0,9.81,11.79,5.81
+Outlast,Multiplayer & Servers,2.0,76.0,0.45,0.23,2.56
+Outlast,Price & Value,156.0,2638.0,15.65,18.03,5.58
+Outlast,Sound & Music,50.0,869.0,5.16,5.78,5.44
+Outlast,Story & Characters,248.0,3466.0,20.56,28.67,6.68
+Outlast,Updates & Developers,50.0,382.0,2.27,5.78,11.57
+Overcooked! 2,Bugs & Performance,95.0,179.0,3.81,28.19,34.67
+Overcooked! 2,Gameplay,84.0,593.0,12.63,24.93,12.41
+Overcooked! 2,Graphics & Visuals,11.0,157.0,3.34,3.26,6.55
+Overcooked! 2,Multiplayer & Servers,136.0,1230.0,26.19,40.36,9.96
+Overcooked! 2,Price & Value,62.0,489.0,10.41,18.4,11.25
+Overcooked! 2,Sound & Music,9.0,75.0,1.6,2.67,10.71
+Overcooked! 2,Story & Characters,38.0,288.0,6.13,11.28,11.66
+Overcooked! 2,Updates & Developers,48.0,142.0,3.02,14.24,25.26
+Oxygen Not Included,Bugs & Performance,179.0,950.0,5.35,20.29,15.85
+Oxygen Not Included,Gameplay,209.0,2832.0,15.96,23.7,6.87
+Oxygen Not Included,Graphics & Visuals,79.0,1413.0,7.96,8.96,5.29
+Oxygen Not Included,Multiplayer & Servers,33.0,251.0,1.41,3.74,11.62
+Oxygen Not Included,Price & Value,151.0,1535.0,8.65,17.12,8.96
+Oxygen Not Included,Sound & Music,10.0,219.0,1.23,1.13,4.37
+Oxygen Not Included,Story & Characters,82.0,799.0,4.5,9.3,9.31
+Oxygen Not Included,Updates & Developers,216.0,2541.0,14.32,24.49,7.83
 PAYDAY 2,Bugs & Performance,2819.0,7740.0,7.77,11.28,26.7
 PAYDAY 2,Gameplay,3987.0,14548.0,14.61,15.95,21.51
 PAYDAY 2,Graphics & Visuals,761.0,3667.0,3.68,3.04,17.19
@@ -87,6 +1447,14 @@ PAYDAY 2,Price & Value,14755.0,24075.0,24.18,59.02,38.0
 PAYDAY 2,Sound & Music,450.0,2866.0,2.88,1.8,13.57
 PAYDAY 2,Story & Characters,1655.0,5666.0,5.69,6.62,22.61
 PAYDAY 2,Updates & Developers,5988.0,6710.0,6.74,23.95,47.16
+PC Building Simulator,Bugs & Performance,145.0,688.0,7.37,21.71,17.41
+PC Building Simulator,Gameplay,131.0,722.0,7.73,19.61,15.36
+PC Building Simulator,Graphics & Visuals,55.0,567.0,6.07,8.23,8.84
+PC Building Simulator,Multiplayer & Servers,10.0,182.0,1.95,1.5,5.21
+PC Building Simulator,Price & Value,217.0,1342.0,14.37,32.49,13.92
+PC Building Simulator,Sound & Music,13.0,286.0,3.06,1.95,4.35
+PC Building Simulator,Story & Characters,32.0,427.0,4.57,4.79,6.97
+PC Building Simulator,Updates & Developers,123.0,909.0,9.73,18.41,11.92
 PLAYERUNKNOWN'S BATTLEGROUNDS,Bugs & Performance,36969.0,26857.0,23.85,38.2,57.92
 PLAYERUNKNOWN'S BATTLEGROUNDS,Gameplay,9158.0,9585.0,8.51,9.46,48.86
 PLAYERUNKNOWN'S BATTLEGROUNDS,Graphics & Visuals,4803.0,5648.0,5.02,4.96,45.96
@@ -95,6 +1463,38 @@ PLAYERUNKNOWN'S BATTLEGROUNDS,Price & Value,21902.0,9869.0,8.76,22.63,68.94
 PLAYERUNKNOWN'S BATTLEGROUNDS,Sound & Music,602.0,520.0,0.46,0.62,53.65
 PLAYERUNKNOWN'S BATTLEGROUNDS,Story & Characters,3028.0,2566.0,2.28,3.13,54.13
 PLAYERUNKNOWN'S BATTLEGROUNDS,Updates & Developers,24338.0,16038.0,14.24,25.15,60.28
+"Papers, Please",Bugs & Performance,26.0,271.0,1.56,3.67,8.75
+"Papers, Please",Gameplay,157.0,3282.0,18.83,22.18,4.57
+"Papers, Please",Graphics & Visuals,57.0,1326.0,7.61,8.05,4.12
+"Papers, Please",Multiplayer & Servers,7.0,58.0,0.33,0.99,10.77
+"Papers, Please",Price & Value,139.0,2467.0,14.16,19.63,5.33
+"Papers, Please",Sound & Music,26.0,647.0,3.71,3.67,3.86
+"Papers, Please",Story & Characters,133.0,4316.0,24.77,18.79,2.99
+"Papers, Please",Updates & Developers,33.0,274.0,1.57,4.66,10.75
+Pathfinder: Kingmaker,Bugs & Performance,1317.0,2669.0,29.38,45.65,33.04
+Pathfinder: Kingmaker,Gameplay,1648.0,3591.0,39.53,57.12,31.46
+Pathfinder: Kingmaker,Graphics & Visuals,291.0,898.0,9.89,10.09,24.47
+Pathfinder: Kingmaker,Multiplayer & Servers,114.0,195.0,2.15,3.95,36.89
+Pathfinder: Kingmaker,Price & Value,678.0,1304.0,14.35,23.5,34.21
+Pathfinder: Kingmaker,Sound & Music,164.0,526.0,5.79,5.68,23.77
+Pathfinder: Kingmaker,Story & Characters,1413.0,3668.0,40.38,48.98,27.81
+Pathfinder: Kingmaker,Updates & Developers,873.0,1817.0,20.0,30.26,32.45
+People Playground,Bugs & Performance,25.0,288.0,3.34,17.61,7.99
+People Playground,Gameplay,14.0,219.0,2.54,9.86,6.01
+People Playground,Graphics & Visuals,5.0,142.0,1.65,3.52,3.4
+People Playground,Multiplayer & Servers,4.0,48.0,0.56,2.82,7.69
+People Playground,Price & Value,27.0,424.0,4.91,19.01,5.99
+People Playground,Sound & Music,0.0,52.0,0.6,0.0,0.0
+People Playground,Story & Characters,2.0,110.0,1.27,1.41,1.79
+People Playground,Updates & Developers,15.0,392.0,4.54,10.56,3.69
+Persona 4 Golden,Bugs & Performance,297.0,1471.0,7.39,56.79,16.8
+Persona 4 Golden,Gameplay,104.0,3523.0,17.69,19.89,2.87
+Persona 4 Golden,Graphics & Visuals,63.0,1631.0,8.19,12.05,3.72
+Persona 4 Golden,Multiplayer & Servers,17.0,97.0,0.49,3.25,14.91
+Persona 4 Golden,Price & Value,90.0,2250.0,11.3,17.21,3.85
+Persona 4 Golden,Sound & Music,71.0,2499.0,12.55,13.58,2.76
+Persona 4 Golden,Story & Characters,129.0,5397.0,27.1,24.67,2.33
+Persona 4 Golden,Updates & Developers,100.0,448.0,2.25,19.12,18.25
 Phasmophobia,Bugs & Performance,509.0,6329.0,7.91,22.07,7.44
 Phasmophobia,Gameplay,421.0,5807.0,7.25,18.26,6.76
 Phasmophobia,Graphics & Visuals,123.0,2204.0,2.75,5.33,5.29
@@ -103,6 +1503,54 @@ Phasmophobia,Price & Value,422.0,5542.0,6.92,18.3,7.08
 Phasmophobia,Sound & Music,60.0,1044.0,1.3,2.6,5.43
 Phasmophobia,Story & Characters,106.0,1825.0,2.28,4.6,5.49
 Phasmophobia,Updates & Developers,374.0,9101.0,11.37,16.22,3.95
+Phoenix Wright: Ace Attorney Trilogy,Bugs & Performance,7.0,42.0,1.96,15.22,14.29
+Phoenix Wright: Ace Attorney Trilogy,Gameplay,9.0,258.0,12.06,19.57,3.37
+Phoenix Wright: Ace Attorney Trilogy,Graphics & Visuals,11.0,389.0,18.19,23.91,2.75
+Phoenix Wright: Ace Attorney Trilogy,Multiplayer & Servers,0.0,14.0,0.65,0.0,0.0
+Phoenix Wright: Ace Attorney Trilogy,Price & Value,9.0,333.0,15.57,19.57,2.63
+Phoenix Wright: Ace Attorney Trilogy,Sound & Music,4.0,283.0,13.23,8.7,1.39
+Phoenix Wright: Ace Attorney Trilogy,Story & Characters,17.0,706.0,33.01,36.96,2.35
+Phoenix Wright: Ace Attorney Trilogy,Updates & Developers,3.0,37.0,1.73,6.52,7.5
+Pillars of Eternity II: Deadfire,Bugs & Performance,339.0,585.0,12.23,43.86,36.69
+Pillars of Eternity II: Deadfire,Gameplay,411.0,2069.0,43.24,53.17,16.57
+Pillars of Eternity II: Deadfire,Graphics & Visuals,131.0,717.0,14.98,16.95,15.45
+Pillars of Eternity II: Deadfire,Multiplayer & Servers,14.0,40.0,0.84,1.81,25.93
+Pillars of Eternity II: Deadfire,Price & Value,223.0,811.0,16.95,28.85,21.57
+Pillars of Eternity II: Deadfire,Sound & Music,64.0,531.0,11.1,8.28,10.76
+Pillars of Eternity II: Deadfire,Story & Characters,425.0,2258.0,47.19,54.98,15.84
+Pillars of Eternity II: Deadfire,Updates & Developers,161.0,426.0,8.9,20.83,27.43
+Pit People,Bugs & Performance,31.0,331.0,10.6,12.81,8.56
+Pit People,Gameplay,152.0,868.0,27.8,62.81,14.9
+Pit People,Graphics & Visuals,36.0,338.0,10.83,14.88,9.63
+Pit People,Multiplayer & Servers,27.0,375.0,12.01,11.16,6.72
+Pit People,Price & Value,43.0,357.0,11.43,17.77,10.75
+Pit People,Sound & Music,25.0,395.0,12.65,10.33,5.95
+Pit People,Story & Characters,101.0,860.0,27.55,41.74,10.51
+Pit People,Updates & Developers,50.0,535.0,17.14,20.66,8.55
+PixARK,Bugs & Performance,316.0,341.0,24.2,37.26,48.1
+PixARK,Gameplay,126.0,195.0,13.84,14.86,39.25
+PixARK,Graphics & Visuals,65.0,117.0,8.3,7.67,35.71
+PixARK,Multiplayer & Servers,224.0,272.0,19.3,26.42,45.16
+PixARK,Price & Value,230.0,212.0,15.05,27.12,52.04
+PixARK,Sound & Music,7.0,11.0,0.78,0.83,38.89
+PixARK,Story & Characters,66.0,69.0,4.9,7.78,48.89
+PixARK,Updates & Developers,225.0,299.0,21.22,26.53,42.94
+Planet Coaster,Bugs & Performance,579.0,1365.0,8.87,27.22,29.78
+Planet Coaster,Gameplay,549.0,1757.0,11.42,25.81,23.81
+Planet Coaster,Graphics & Visuals,301.0,2379.0,15.46,14.15,11.23
+Planet Coaster,Multiplayer & Servers,29.0,134.0,0.87,1.36,17.79
+Planet Coaster,Price & Value,917.0,2896.0,18.82,43.11,24.05
+Planet Coaster,Sound & Music,35.0,667.0,4.33,1.65,4.99
+Planet Coaster,Story & Characters,115.0,511.0,3.32,5.41,18.37
+Planet Coaster,Updates & Developers,306.0,1551.0,10.08,14.39,16.48
+Pogostuck: Rage With Your Friends,Bugs & Performance,10.0,12.0,1.44,5.92,45.45
+Pogostuck: Rage With Your Friends,Gameplay,32.0,80.0,9.59,18.93,28.57
+Pogostuck: Rage With Your Friends,Graphics & Visuals,5.0,7.0,0.84,2.96,41.67
+Pogostuck: Rage With Your Friends,Multiplayer & Servers,2.0,12.0,1.44,1.18,14.29
+Pogostuck: Rage With Your Friends,Price & Value,27.0,35.0,4.2,15.98,43.55
+Pogostuck: Rage With Your Friends,Sound & Music,0.0,15.0,1.8,0.0,0.0
+Pogostuck: Rage With Your Friends,Story & Characters,4.0,19.0,2.28,2.37,17.39
+Pogostuck: Rage With Your Friends,Updates & Developers,8.0,19.0,2.28,4.73,29.63
 Portal 2,Bugs & Performance,73.0,1478.0,2.07,7.99,4.71
 Portal 2,Gameplay,83.0,8785.0,12.3,9.08,0.94
 Portal 2,Graphics & Visuals,45.0,4294.0,6.01,4.92,1.04
@@ -111,6 +1559,86 @@ Portal 2,Price & Value,98.0,5655.0,7.92,10.72,1.7
 Portal 2,Sound & Music,28.0,2831.0,3.96,3.06,0.98
 Portal 2,Story & Characters,124.0,18774.0,26.29,13.57,0.66
 Portal 2,Updates & Developers,30.0,625.0,0.88,3.28,4.58
+Puyo Puyo™Tetris® ,Bugs & Performance,51.0,126.0,9.14,27.27,28.81
+Puyo Puyo™Tetris® ,Gameplay,33.0,164.0,11.9,17.65,16.75
+Puyo Puyo™Tetris® ,Graphics & Visuals,6.0,69.0,5.01,3.21,8.0
+Puyo Puyo™Tetris® ,Multiplayer & Servers,81.0,359.0,26.05,43.32,18.41
+Puyo Puyo™Tetris® ,Price & Value,32.0,135.0,9.8,17.11,19.16
+Puyo Puyo™Tetris® ,Sound & Music,7.0,102.0,7.4,3.74,6.42
+Puyo Puyo™Tetris® ,Story & Characters,23.0,281.0,20.39,12.3,7.57
+Puyo Puyo™Tetris® ,Updates & Developers,13.0,42.0,3.05,6.95,23.64
+Raft,Bugs & Performance,425.0,1382.0,5.97,17.28,23.52
+Raft,Gameplay,471.0,2462.0,10.64,19.15,16.06
+Raft,Graphics & Visuals,135.0,1117.0,4.83,5.49,10.78
+Raft,Multiplayer & Servers,180.0,1709.0,7.38,7.32,9.53
+Raft,Price & Value,656.0,1877.0,8.11,26.67,25.9
+Raft,Sound & Music,31.0,477.0,2.06,1.26,6.1
+Raft,Story & Characters,259.0,2486.0,10.74,10.53,9.44
+Raft,Updates & Developers,431.0,3224.0,13.93,17.52,11.79
+Railway Empire,Bugs & Performance,88.0,175.0,8.52,14.72,33.46
+Railway Empire,Gameplay,175.0,423.0,20.58,29.26,29.26
+Railway Empire,Graphics & Visuals,85.0,361.0,17.57,14.21,19.06
+Railway Empire,Multiplayer & Servers,35.0,85.0,4.14,5.85,29.17
+Railway Empire,Price & Value,230.0,476.0,23.16,38.46,32.58
+Railway Empire,Sound & Music,24.0,69.0,3.36,4.01,25.81
+Railway Empire,Story & Characters,53.0,126.0,6.13,8.86,29.61
+Railway Empire,Updates & Developers,97.0,249.0,12.12,16.22,28.03
+Rapture Rejects,Bugs & Performance,53.0,33.0,12.79,9.38,61.63
+Rapture Rejects,Gameplay,69.0,47.0,18.22,12.21,59.48
+Rapture Rejects,Graphics & Visuals,41.0,25.0,9.69,7.26,62.12
+Rapture Rejects,Multiplayer & Servers,146.0,33.0,12.79,25.84,81.56
+Rapture Rejects,Price & Value,207.0,77.0,29.84,36.64,72.89
+Rapture Rejects,Sound & Music,8.0,7.0,2.71,1.42,53.33
+Rapture Rejects,Story & Characters,48.0,25.0,9.69,8.5,65.75
+Rapture Rejects,Updates & Developers,90.0,37.0,14.34,15.93,70.87
+Ravenfield,Bugs & Performance,124.0,1597.0,12.77,21.83,7.21
+Ravenfield,Gameplay,115.0,1572.0,12.57,20.25,6.82
+Ravenfield,Graphics & Visuals,39.0,679.0,5.43,6.87,5.43
+Ravenfield,Multiplayer & Servers,92.0,1277.0,10.22,16.2,6.72
+Ravenfield,Price & Value,161.0,1430.0,11.44,28.35,10.12
+Ravenfield,Sound & Music,5.0,91.0,0.73,0.88,5.21
+Ravenfield,Story & Characters,26.0,324.0,2.59,4.58,7.43
+Ravenfield,Updates & Developers,129.0,1773.0,14.18,22.71,6.78
+Resident Evil 2,Bugs & Performance,122.0,1243.0,5.45,16.29,8.94
+Resident Evil 2,Gameplay,264.0,4724.0,20.71,35.25,5.29
+Resident Evil 2,Graphics & Visuals,170.0,4293.0,18.82,22.7,3.81
+Resident Evil 2,Multiplayer & Servers,21.0,141.0,0.62,2.8,12.96
+Resident Evil 2,Price & Value,222.0,2937.0,12.88,29.64,7.03
+Resident Evil 2,Sound & Music,53.0,1433.0,6.28,7.08,3.57
+Resident Evil 2,Story & Characters,213.0,4014.0,17.6,28.44,5.04
+Resident Evil 2,Updates & Developers,76.0,688.0,3.02,10.15,9.95
+Resident Evil 7 Biohazard,Bugs & Performance,164.0,976.0,9.45,18.49,14.39
+Resident Evil 7 Biohazard,Gameplay,262.0,2342.0,22.68,29.54,10.06
+Resident Evil 7 Biohazard,Graphics & Visuals,170.0,1685.0,16.32,19.17,9.16
+Resident Evil 7 Biohazard,Multiplayer & Servers,18.0,94.0,0.91,2.03,16.07
+Resident Evil 7 Biohazard,Price & Value,306.0,2023.0,19.59,34.5,13.14
+Resident Evil 7 Biohazard,Sound & Music,46.0,660.0,6.39,5.19,6.52
+Resident Evil 7 Biohazard,Story & Characters,261.0,3015.0,29.2,29.43,7.97
+Resident Evil 7 Biohazard,Updates & Developers,90.0,385.0,3.73,10.15,18.95
+RimWorld,Bugs & Performance,149.0,2341.0,5.16,17.67,5.98
+RimWorld,Gameplay,263.0,7509.0,16.55,31.2,3.38
+RimWorld,Graphics & Visuals,78.0,2341.0,5.16,9.25,3.22
+RimWorld,Multiplayer & Servers,30.0,1022.0,2.25,3.56,2.85
+RimWorld,Price & Value,319.0,5519.0,12.17,37.84,5.46
+RimWorld,Sound & Music,11.0,600.0,1.32,1.3,1.8
+RimWorld,Story & Characters,171.0,5651.0,12.46,20.28,2.94
+RimWorld,Updates & Developers,215.0,4519.0,9.96,25.5,4.54
+Rise of Industry,Bugs & Performance,79.0,152.0,11.92,18.94,34.2
+Rise of Industry,Gameplay,158.0,274.0,21.49,37.89,36.57
+Rise of Industry,Graphics & Visuals,69.0,198.0,15.53,16.55,25.84
+Rise of Industry,Multiplayer & Servers,12.0,44.0,3.45,2.88,21.43
+Rise of Industry,Price & Value,162.0,281.0,22.04,38.85,36.57
+Rise of Industry,Sound & Music,8.0,48.0,3.76,1.92,14.29
+Rise of Industry,Story & Characters,26.0,61.0,4.78,6.24,29.89
+Rise of Industry,Updates & Developers,112.0,374.0,29.33,26.86,23.05
+Rise of the Tomb Raider,Bugs & Performance,529.0,2065.0,12.02,27.68,20.39
+Rise of the Tomb Raider,Gameplay,823.0,5944.0,34.59,43.07,12.16
+Rise of the Tomb Raider,Graphics & Visuals,548.0,6278.0,36.53,28.68,8.03
+Rise of the Tomb Raider,Multiplayer & Servers,58.0,373.0,2.17,3.04,13.46
+Rise of the Tomb Raider,Price & Value,548.0,3389.0,19.72,28.68,13.92
+Rise of the Tomb Raider,Sound & Music,91.0,835.0,4.86,4.76,9.83
+Rise of the Tomb Raider,Story & Characters,883.0,7439.0,43.29,46.21,10.61
+Rise of the Tomb Raider,Updates & Developers,211.0,651.0,3.79,11.04,24.48
 Rocket League,Bugs & Performance,2112.0,4029.0,3.25,10.09,34.39
 Rocket League,Gameplay,1543.0,12356.0,9.96,7.37,11.1
 Rocket League,Graphics & Visuals,354.0,3849.0,3.1,1.69,8.42
@@ -119,6 +1647,22 @@ Rocket League,Price & Value,3976.0,11194.0,9.02,19.0,26.21
 Rocket League,Sound & Music,130.0,1821.0,1.47,0.62,6.66
 Rocket League,Story & Characters,541.0,1837.0,1.48,2.59,22.75
 Rocket League,Updates & Developers,2883.0,4628.0,3.73,13.78,38.38
+RollerCoaster Tycoon World,Bugs & Performance,927.0,329.0,49.25,46.03,73.81
+RollerCoaster Tycoon World,Gameplay,295.0,132.0,19.76,14.65,69.09
+RollerCoaster Tycoon World,Graphics & Visuals,396.0,149.0,22.31,19.66,72.66
+RollerCoaster Tycoon World,Multiplayer & Servers,16.0,4.0,0.6,0.79,80.0
+RollerCoaster Tycoon World,Price & Value,781.0,146.0,21.86,38.78,84.25
+RollerCoaster Tycoon World,Sound & Music,36.0,22.0,3.29,1.79,62.07
+RollerCoaster Tycoon World,Story & Characters,87.0,52.0,7.78,4.32,62.59
+RollerCoaster Tycoon World,Updates & Developers,561.0,281.0,42.07,27.86,66.63
+Rules Of Survival,Bugs & Performance,148.0,109.0,12.75,19.73,57.59
+Rules Of Survival,Gameplay,39.0,40.0,4.68,5.2,49.37
+Rules Of Survival,Graphics & Visuals,24.0,53.0,6.2,3.2,31.17
+Rules Of Survival,Multiplayer & Servers,244.0,231.0,27.02,32.53,51.37
+Rules Of Survival,Price & Value,143.0,80.0,9.36,19.07,64.13
+Rules Of Survival,Sound & Music,6.0,4.0,0.47,0.8,60.0
+Rules Of Survival,Story & Characters,14.0,14.0,1.64,1.87,50.0
+Rules Of Survival,Updates & Developers,103.0,60.0,7.02,13.73,63.19
 Rust,Bugs & Performance,6626.0,9970.0,6.95,21.01,39.93
 Rust,Gameplay,3366.0,9840.0,6.86,10.67,25.49
 Rust,Graphics & Visuals,1644.0,5440.0,3.79,5.21,23.21
@@ -127,6 +1671,134 @@ Rust,Price & Value,5826.0,8584.0,5.98,18.48,40.43
 Rust,Sound & Music,113.0,585.0,0.41,0.36,16.19
 Rust,Story & Characters,1598.0,3467.0,2.42,5.07,31.55
 Rust,Updates & Developers,4854.0,10721.0,7.47,15.39,31.17
+SCUM,Bugs & Performance,1606.0,2420.0,21.85,32.82,39.89
+SCUM,Gameplay,848.0,1557.0,14.06,17.33,35.26
+SCUM,Graphics & Visuals,359.0,1039.0,9.38,7.34,25.68
+SCUM,Multiplayer & Servers,1265.0,1741.0,15.72,25.85,42.08
+SCUM,Price & Value,1172.0,1406.0,12.7,23.95,45.46
+SCUM,Sound & Music,22.0,48.0,0.43,0.45,31.43
+SCUM,Story & Characters,487.0,849.0,7.67,9.95,36.45
+SCUM,Updates & Developers,1335.0,3923.0,35.43,27.28,25.39
+SENRAN KAGURA ESTIVAL VERSUS,Bugs & Performance,8.0,54.0,6.6,17.39,12.9
+SENRAN KAGURA ESTIVAL VERSUS,Gameplay,21.0,253.0,30.93,45.65,7.66
+SENRAN KAGURA ESTIVAL VERSUS,Graphics & Visuals,9.0,125.0,15.28,19.57,6.72
+SENRAN KAGURA ESTIVAL VERSUS,Multiplayer & Servers,4.0,64.0,7.82,8.7,5.88
+SENRAN KAGURA ESTIVAL VERSUS,Price & Value,12.0,124.0,15.16,26.09,8.82
+SENRAN KAGURA ESTIVAL VERSUS,Sound & Music,1.0,50.0,6.11,2.17,1.96
+SENRAN KAGURA ESTIVAL VERSUS,Story & Characters,18.0,270.0,33.01,39.13,6.25
+SENRAN KAGURA ESTIVAL VERSUS,Updates & Developers,5.0,30.0,3.67,10.87,14.29
+SENRAN KAGURA Peach Beach Splash,Bugs & Performance,66.0,82.0,14.41,47.83,44.59
+SENRAN KAGURA Peach Beach Splash,Gameplay,55.0,142.0,24.96,39.86,27.92
+SENRAN KAGURA Peach Beach Splash,Graphics & Visuals,16.0,46.0,8.08,11.59,25.81
+SENRAN KAGURA Peach Beach Splash,Multiplayer & Servers,52.0,121.0,21.27,37.68,30.06
+SENRAN KAGURA Peach Beach Splash,Price & Value,68.0,145.0,25.48,49.28,31.92
+SENRAN KAGURA Peach Beach Splash,Sound & Music,10.0,18.0,3.16,7.25,35.71
+SENRAN KAGURA Peach Beach Splash,Story & Characters,41.0,140.0,24.6,29.71,22.65
+SENRAN KAGURA Peach Beach Splash,Updates & Developers,27.0,49.0,8.61,19.57,35.53
+SOS,Bugs & Performance,84.0,35.0,8.82,6.92,70.59
+SOS,Gameplay,93.0,44.0,11.08,7.66,67.88
+SOS,Graphics & Visuals,40.0,24.0,6.05,3.29,62.5
+SOS,Multiplayer & Servers,118.0,47.0,11.84,9.72,71.52
+SOS,Price & Value,367.0,55.0,13.85,30.23,86.97
+SOS,Sound & Music,1.0,3.0,0.76,0.08,25.0
+SOS,Story & Characters,55.0,21.0,5.29,4.53,72.37
+SOS,Updates & Developers,344.0,58.0,14.61,28.34,85.57
+SOULCALIBUR VI,Bugs & Performance,130.0,267.0,8.1,15.29,32.75
+SOULCALIBUR VI,Gameplay,268.0,913.0,27.71,31.53,22.69
+SOULCALIBUR VI,Graphics & Visuals,156.0,443.0,13.44,18.35,26.04
+SOULCALIBUR VI,Multiplayer & Servers,202.0,532.0,16.15,23.76,27.52
+SOULCALIBUR VI,Price & Value,382.0,686.0,20.82,44.94,35.77
+SOULCALIBUR VI,Sound & Music,60.0,167.0,5.07,7.06,26.43
+SOULCALIBUR VI,Story & Characters,457.0,1474.0,44.73,53.76,23.67
+SOULCALIBUR VI,Updates & Developers,95.0,200.0,6.07,11.18,32.2
+STAR WARS™ Empire at War: Gold Pack,Bugs & Performance,91.0,358.0,3.52,25.28,20.27
+STAR WARS™ Empire at War: Gold Pack,Gameplay,92.0,1495.0,14.72,25.56,5.8
+STAR WARS™ Empire at War: Gold Pack,Graphics & Visuals,26.0,676.0,6.66,7.22,3.7
+STAR WARS™ Empire at War: Gold Pack,Multiplayer & Servers,43.0,595.0,5.86,11.94,6.74
+STAR WARS™ Empire at War: Gold Pack,Price & Value,56.0,882.0,8.68,15.56,5.97
+STAR WARS™ Empire at War: Gold Pack,Sound & Music,3.0,86.0,0.85,0.83,3.37
+STAR WARS™ Empire at War: Gold Pack,Story & Characters,23.0,459.0,4.52,6.39,4.77
+STAR WARS™ Empire at War: Gold Pack,Updates & Developers,32.0,294.0,2.89,8.89,9.82
+STEINS;GATE,Bugs & Performance,6.0,34.0,1.99,7.06,15.0
+STEINS;GATE,Gameplay,15.0,174.0,10.16,17.65,7.94
+STEINS;GATE,Graphics & Visuals,29.0,593.0,34.64,34.12,4.66
+STEINS;GATE,Multiplayer & Servers,3.0,30.0,1.75,3.53,9.09
+STEINS;GATE,Price & Value,30.0,291.0,17.0,35.29,9.35
+STEINS;GATE,Sound & Music,11.0,258.0,15.07,12.94,4.09
+STEINS;GATE,Story & Characters,60.0,887.0,51.81,70.59,6.34
+STEINS;GATE,Updates & Developers,4.0,40.0,2.34,4.71,9.09
+STEINS;GATE 0,Bugs & Performance,2.0,15.0,2.62,5.56,11.76
+STEINS;GATE 0,Gameplay,3.0,39.0,6.82,8.33,7.14
+STEINS;GATE 0,Graphics & Visuals,10.0,107.0,18.71,27.78,8.55
+STEINS;GATE 0,Multiplayer & Servers,1.0,5.0,0.87,2.78,16.67
+STEINS;GATE 0,Price & Value,10.0,80.0,13.99,27.78,11.11
+STEINS;GATE 0,Sound & Music,5.0,58.0,10.14,13.89,7.94
+STEINS;GATE 0,Story & Characters,28.0,266.0,46.5,77.78,9.52
+STEINS;GATE 0,Updates & Developers,2.0,15.0,2.62,5.56,11.76
+Saints Row: The Third,Bugs & Performance,252.0,985.0,5.82,25.61,20.37
+Saints Row: The Third,Gameplay,226.0,3105.0,18.35,22.97,6.78
+Saints Row: The Third,Graphics & Visuals,61.0,1060.0,6.27,6.2,5.44
+Saints Row: The Third,Multiplayer & Servers,80.0,1702.0,10.06,8.13,4.49
+Saints Row: The Third,Price & Value,181.0,2200.0,13.0,18.39,7.6
+Saints Row: The Third,Sound & Music,24.0,658.0,3.89,2.44,3.52
+Saints Row: The Third,Story & Characters,177.0,3673.0,21.71,17.99,4.6
+Saints Row: The Third,Updates & Developers,67.0,208.0,1.23,6.81,24.36
+Salt and Sanctuary,Bugs & Performance,61.0,141.0,3.79,13.44,30.2
+Salt and Sanctuary,Gameplay,250.0,1400.0,37.61,55.07,15.15
+Salt and Sanctuary,Graphics & Visuals,120.0,565.0,15.18,26.43,17.52
+Salt and Sanctuary,Multiplayer & Servers,22.0,427.0,11.47,4.85,4.9
+Salt and Sanctuary,Price & Value,86.0,576.0,15.48,18.94,12.99
+Salt and Sanctuary,Sound & Music,36.0,294.0,7.9,7.93,10.91
+Salt and Sanctuary,Story & Characters,115.0,773.0,20.77,25.33,12.95
+Salt and Sanctuary,Updates & Developers,53.0,185.0,4.97,11.67,22.27
+Satisfactory,Bugs & Performance,136.0,2309.0,13.16,24.16,5.56
+Satisfactory,Gameplay,131.0,1969.0,11.22,23.27,6.24
+Satisfactory,Graphics & Visuals,82.0,2068.0,11.79,14.56,3.81
+Satisfactory,Multiplayer & Servers,119.0,1271.0,7.25,21.14,8.56
+Satisfactory,Price & Value,112.0,1274.0,7.26,19.89,8.08
+Satisfactory,Sound & Music,2.0,251.0,1.43,0.36,0.79
+Satisfactory,Story & Characters,46.0,645.0,3.68,8.17,6.66
+Satisfactory,Updates & Developers,163.0,3078.0,17.55,28.95,5.03
+Secret of Mana,Bugs & Performance,184.0,306.0,39.64,54.44,37.55
+Secret of Mana,Gameplay,157.0,351.0,45.47,46.45,30.91
+Secret of Mana,Graphics & Visuals,136.0,393.0,50.91,40.24,25.71
+Secret of Mana,Multiplayer & Servers,48.0,87.0,11.27,14.2,35.56
+Secret of Mana,Price & Value,151.0,250.0,32.38,44.67,37.66
+Secret of Mana,Sound & Music,130.0,411.0,53.24,38.46,24.03
+Secret of Mana,Story & Characters,124.0,319.0,41.32,36.69,27.99
+Secret of Mana,Updates & Developers,66.0,152.0,19.69,19.53,30.28
+Sekiro™: Shadows Die Twice,Bugs & Performance,333.0,756.0,3.39,14.91,30.58
+Sekiro™: Shadows Die Twice,Gameplay,1119.0,8331.0,37.4,50.11,11.84
+Sekiro™: Shadows Die Twice,Graphics & Visuals,372.0,2621.0,11.77,16.66,12.43
+Sekiro™: Shadows Die Twice,Multiplayer & Servers,86.0,448.0,2.01,3.85,16.1
+Sekiro™: Shadows Die Twice,Price & Value,553.0,2143.0,9.62,24.76,20.51
+Sekiro™: Shadows Die Twice,Sound & Music,100.0,927.0,4.16,4.48,9.74
+Sekiro™: Shadows Die Twice,Story & Characters,598.0,3969.0,17.82,26.78,13.09
+Sekiro™: Shadows Die Twice,Updates & Developers,205.0,537.0,2.41,9.18,27.63
+Senren＊Banka,Bugs & Performance,0.0,5.0,2.45,0.0,0.0
+Senren＊Banka,Gameplay,2.0,13.0,6.37,28.57,13.33
+Senren＊Banka,Graphics & Visuals,2.0,45.0,22.06,28.57,4.26
+Senren＊Banka,Multiplayer & Servers,0.0,0.0,0.0,0.0,0.0
+Senren＊Banka,Price & Value,0.0,24.0,11.76,0.0,0.0
+Senren＊Banka,Sound & Music,4.0,39.0,19.12,57.14,9.3
+Senren＊Banka,Story & Characters,5.0,94.0,46.08,71.43,5.05
+Senren＊Banka,Updates & Developers,3.0,33.0,16.18,42.86,8.33
+Shadow Complex Remastered,Bugs & Performance,21.0,26.0,9.19,35.59,44.68
+Shadow Complex Remastered,Gameplay,30.0,111.0,39.22,50.85,21.28
+Shadow Complex Remastered,Graphics & Visuals,12.0,59.0,20.85,20.34,16.9
+Shadow Complex Remastered,Multiplayer & Servers,3.0,2.0,0.71,5.08,60.0
+Shadow Complex Remastered,Price & Value,16.0,59.0,20.85,27.12,21.33
+Shadow Complex Remastered,Sound & Music,10.0,19.0,6.71,16.95,34.48
+Shadow Complex Remastered,Story & Characters,26.0,101.0,35.69,44.07,20.47
+Shadow Complex Remastered,Updates & Developers,2.0,12.0,4.24,3.39,14.29
+Shovel Knight: Treasure Trove,Bugs & Performance,17.0,98.0,1.24,5.23,14.78
+Shovel Knight: Treasure Trove,Gameplay,167.0,2904.0,36.88,51.38,5.44
+Shovel Knight: Treasure Trove,Graphics & Visuals,43.0,1178.0,14.96,13.23,3.52
+Shovel Knight: Treasure Trove,Multiplayer & Servers,3.0,159.0,2.02,0.92,1.85
+Shovel Knight: Treasure Trove,Price & Value,88.0,1623.0,20.61,27.08,5.14
+Shovel Knight: Treasure Trove,Sound & Music,59.0,2122.0,26.95,18.15,2.71
+Shovel Knight: Treasure Trove,Story & Characters,66.0,1716.0,21.79,20.31,3.7
+Shovel Knight: Treasure Trove,Updates & Developers,33.0,545.0,6.92,10.15,5.71
 Sid Meier's Civilization V,Bugs & Performance,864.0,2225.0,3.06,24.64,27.97
 Sid Meier's Civilization V,Gameplay,457.0,7999.0,11.0,13.03,5.4
 Sid Meier's Civilization V,Graphics & Visuals,223.0,2792.0,3.84,6.36,7.4
@@ -135,6 +1807,62 @@ Sid Meier's Civilization V,Price & Value,727.0,9715.0,13.36,20.73,6.96
 Sid Meier's Civilization V,Sound & Music,43.0,891.0,1.23,1.23,4.6
 Sid Meier's Civilization V,Story & Characters,129.0,1762.0,2.42,3.68,6.82
 Sid Meier's Civilization V,Updates & Developers,420.0,930.0,1.28,11.98,31.11
+Sid Meier's Civilization VI,Bugs & Performance,2604.0,1935.0,5.19,21.09,57.37
+Sid Meier's Civilization VI,Gameplay,2628.0,5493.0,14.74,21.28,32.36
+Sid Meier's Civilization VI,Graphics & Visuals,1964.0,3356.0,9.0,15.91,36.92
+Sid Meier's Civilization VI,Multiplayer & Servers,974.0,1491.0,4.0,7.89,39.51
+Sid Meier's Civilization VI,Price & Value,4561.0,6603.0,17.71,36.94,40.85
+Sid Meier's Civilization VI,Sound & Music,299.0,804.0,2.16,2.42,27.11
+Sid Meier's Civilization VI,Story & Characters,751.0,1117.0,3.0,6.08,40.2
+Sid Meier's Civilization VI,Updates & Developers,2137.0,2562.0,6.87,17.31,45.48
+SimAirport,Bugs & Performance,146.0,439.0,34.76,45.48,24.96
+SimAirport,Gameplay,46.0,170.0,13.46,14.33,21.3
+SimAirport,Graphics & Visuals,37.0,105.0,8.31,11.53,26.06
+SimAirport,Multiplayer & Servers,4.0,11.0,0.87,1.25,26.67
+SimAirport,Price & Value,115.0,242.0,19.16,35.83,32.21
+SimAirport,Sound & Music,4.0,12.0,0.95,1.25,25.0
+SimAirport,Story & Characters,14.0,60.0,4.75,4.36,18.92
+SimAirport,Updates & Developers,107.0,559.0,44.26,33.33,16.07
+Slay the Spire,Bugs & Performance,55.0,525.0,1.81,7.58,9.48
+Slay the Spire,Gameplay,220.0,7278.0,25.06,30.3,2.93
+Slay the Spire,Graphics & Visuals,54.0,1427.0,4.91,7.44,3.65
+Slay the Spire,Multiplayer & Servers,20.0,285.0,0.98,2.75,6.56
+Slay the Spire,Price & Value,153.0,3048.0,10.49,21.07,4.78
+Slay the Spire,Sound & Music,20.0,578.0,1.99,2.75,3.34
+Slay the Spire,Story & Characters,155.0,3665.0,12.62,21.35,4.06
+Slay the Spire,Updates & Developers,107.0,3393.0,11.68,14.74,3.06
+Slime Rancher,Bugs & Performance,124.0,1098.0,4.42,17.44,10.15
+Slime Rancher,Gameplay,186.0,2798.0,11.26,26.16,6.23
+Slime Rancher,Graphics & Visuals,70.0,2497.0,10.05,9.85,2.73
+Slime Rancher,Multiplayer & Servers,24.0,1001.0,4.03,3.38,2.34
+Slime Rancher,Price & Value,225.0,3058.0,12.31,31.65,6.85
+Slime Rancher,Sound & Music,16.0,1144.0,4.6,2.25,1.38
+Slime Rancher,Story & Characters,95.0,2349.0,9.45,13.36,3.89
+Slime Rancher,Updates & Developers,106.0,3050.0,12.27,14.91,3.36
+Slipstream,Bugs & Performance,24.0,38.0,5.91,24.24,38.71
+Slipstream,Gameplay,41.0,242.0,37.64,41.41,14.49
+Slipstream,Graphics & Visuals,29.0,189.0,29.39,29.29,13.3
+Slipstream,Multiplayer & Servers,4.0,62.0,9.64,4.04,6.06
+Slipstream,Price & Value,15.0,116.0,18.04,15.15,11.45
+Slipstream,Sound & Music,23.0,255.0,39.66,23.23,8.27
+Slipstream,Story & Characters,6.0,31.0,4.82,6.06,16.22
+Slipstream,Updates & Developers,12.0,42.0,6.53,12.12,22.22
+Sniper Elite 4,Bugs & Performance,192.0,506.0,8.73,21.15,27.51
+Sniper Elite 4,Gameplay,290.0,1774.0,30.62,31.94,14.05
+Sniper Elite 4,Graphics & Visuals,120.0,1004.0,17.33,13.22,10.68
+Sniper Elite 4,Multiplayer & Servers,121.0,827.0,14.28,13.33,12.76
+Sniper Elite 4,Price & Value,320.0,1271.0,21.94,35.24,20.11
+Sniper Elite 4,Sound & Music,33.0,163.0,2.81,3.63,16.84
+Sniper Elite 4,Story & Characters,148.0,855.0,14.76,16.3,14.76
+Sniper Elite 4,Updates & Developers,80.0,145.0,2.5,8.81,35.56
+South Park™: The Stick of Truth™,Bugs & Performance,69.0,568.0,3.06,11.08,10.83
+South Park™: The Stick of Truth™,Gameplay,249.0,4844.0,26.14,39.97,4.89
+South Park™: The Stick of Truth™,Graphics & Visuals,35.0,874.0,4.72,5.62,3.85
+South Park™: The Stick of Truth™,Multiplayer & Servers,11.0,94.0,0.51,1.77,10.48
+South Park™: The Stick of Truth™,Price & Value,220.0,3045.0,16.43,35.31,6.74
+South Park™: The Stick of Truth™,Sound & Music,18.0,456.0,2.46,2.89,3.8
+South Park™: The Stick of Truth™,Story & Characters,138.0,3873.0,20.9,22.15,3.44
+South Park™: The Stick of Truth™,Updates & Developers,25.0,292.0,1.58,4.01,7.89
 Stardew Valley,Bugs & Performance,187.0,2418.0,1.97,11.87,7.18
 Stardew Valley,Gameplay,355.0,13935.0,11.38,22.53,2.48
 Stardew Valley,Graphics & Visuals,118.0,8481.0,6.92,7.49,1.37
@@ -143,6 +1871,54 @@ Stardew Valley,Price & Value,273.0,12326.0,10.06,17.32,2.17
 Stardew Valley,Sound & Music,53.0,7288.0,5.95,3.36,0.72
 Stardew Valley,Story & Characters,216.0,14417.0,11.77,13.71,1.48
 Stardew Valley,Updates & Developers,153.0,9244.0,7.55,9.71,1.63
+Staxel,Bugs & Performance,123.0,233.0,16.8,28.34,34.55
+Staxel,Gameplay,141.0,346.0,24.95,32.49,28.95
+Staxel,Graphics & Visuals,71.0,180.0,12.98,16.36,28.29
+Staxel,Multiplayer & Servers,67.0,153.0,11.03,15.44,30.45
+Staxel,Price & Value,137.0,218.0,15.72,31.57,38.59
+Staxel,Sound & Music,19.0,76.0,5.48,4.38,20.0
+Staxel,Story & Characters,81.0,212.0,15.28,18.66,27.65
+Staxel,Updates & Developers,108.0,322.0,23.22,24.88,25.12
+Stay Out,Bugs & Performance,204.0,113.0,17.44,19.01,64.35
+Stay Out,Gameplay,246.0,168.0,25.93,22.93,59.42
+Stay Out,Graphics & Visuals,84.0,52.0,8.02,7.83,61.76
+Stay Out,Multiplayer & Servers,97.0,72.0,11.11,9.04,57.4
+Stay Out,Price & Value,116.0,52.0,8.02,10.81,69.05
+Stay Out,Sound & Music,11.0,10.0,1.54,1.03,52.38
+Stay Out,Story & Characters,76.0,52.0,8.02,7.08,59.38
+Stay Out,Updates & Developers,104.0,80.0,12.35,9.69,56.52
+Steel Division: Normandy 44,Bugs & Performance,115.0,99.0,5.59,15.91,53.74
+Steel Division: Normandy 44,Gameplay,246.0,594.0,33.56,34.02,29.29
+Steel Division: Normandy 44,Graphics & Visuals,97.0,212.0,11.98,13.42,31.39
+Steel Division: Normandy 44,Multiplayer & Servers,129.0,276.0,15.59,17.84,31.85
+Steel Division: Normandy 44,Price & Value,221.0,281.0,15.88,30.57,44.02
+Steel Division: Normandy 44,Sound & Music,17.0,38.0,2.15,2.35,30.91
+Steel Division: Normandy 44,Story & Characters,39.0,96.0,5.42,5.39,28.89
+Steel Division: Normandy 44,Updates & Developers,124.0,150.0,8.47,17.15,45.26
+Stellaris,Bugs & Performance,1856.0,2654.0,7.18,28.35,41.15
+Stellaris,Gameplay,2004.0,6852.0,18.53,30.61,22.63
+Stellaris,Graphics & Visuals,389.0,1862.0,5.04,5.94,17.28
+Stellaris,Multiplayer & Servers,546.0,1681.0,4.55,8.34,24.52
+Stellaris,Price & Value,2558.0,8138.0,22.01,39.07,23.92
+Stellaris,Sound & Music,163.0,1068.0,2.89,2.49,13.24
+Stellaris,Story & Characters,656.0,2870.0,7.76,10.02,18.6
+Stellaris,Updates & Developers,2379.0,5521.0,14.93,36.34,30.11
+Streets of Rogue,Bugs & Performance,31.0,235.0,4.5,14.03,11.65
+Streets of Rogue,Gameplay,69.0,1376.0,26.32,31.22,4.78
+Streets of Rogue,Graphics & Visuals,16.0,242.0,4.63,7.24,6.2
+Streets of Rogue,Multiplayer & Servers,30.0,830.0,15.88,13.57,3.49
+Streets of Rogue,Price & Value,67.0,711.0,13.6,30.32,8.61
+Streets of Rogue,Sound & Music,9.0,268.0,5.13,4.07,3.25
+Streets of Rogue,Story & Characters,49.0,1197.0,22.9,22.17,3.93
+Streets of Rogue,Updates & Developers,39.0,893.0,17.08,17.65,4.18
+Styx: Shards of Darkness,Bugs & Performance,80.0,147.0,13.49,28.57,35.24
+Styx: Shards of Darkness,Gameplay,146.0,490.0,44.95,52.14,22.96
+Styx: Shards of Darkness,Graphics & Visuals,56.0,210.0,19.27,20.0,21.05
+Styx: Shards of Darkness,Multiplayer & Servers,52.0,146.0,13.39,18.57,26.26
+Styx: Shards of Darkness,Price & Value,67.0,206.0,18.9,23.93,24.54
+Styx: Shards of Darkness,Sound & Music,21.0,87.0,7.98,7.5,19.44
+Styx: Shards of Darkness,Story & Characters,104.0,436.0,40.0,37.14,19.26
+Styx: Shards of Darkness,Updates & Developers,35.0,82.0,7.52,12.5,29.91
 Subnautica,Bugs & Performance,1376.0,10184.0,14.63,36.98,11.9
 Subnautica,Gameplay,631.0,9512.0,13.67,16.96,6.22
 Subnautica,Graphics & Visuals,590.0,15745.0,22.62,15.86,3.61
@@ -151,6 +1927,62 @@ Subnautica,Price & Value,796.0,8506.0,12.22,21.39,8.56
 Subnautica,Sound & Music,323.0,3616.0,5.2,8.68,8.2
 Subnautica,Story & Characters,516.0,16986.0,24.41,13.87,2.95
 Subnautica,Updates & Developers,1204.0,11271.0,16.19,32.36,9.65
+Super Hexagon,Bugs & Performance,16.0,140.0,1.21,4.12,10.26
+Super Hexagon,Gameplay,116.0,1713.0,14.8,29.9,6.34
+Super Hexagon,Graphics & Visuals,27.0,454.0,3.92,6.96,5.61
+Super Hexagon,Multiplayer & Servers,4.0,61.0,0.53,1.03,6.15
+Super Hexagon,Price & Value,80.0,1419.0,12.26,20.62,5.34
+Super Hexagon,Sound & Music,73.0,2175.0,18.79,18.81,3.25
+Super Hexagon,Story & Characters,21.0,285.0,2.46,5.41,6.86
+Super Hexagon,Updates & Developers,13.0,105.0,0.91,3.35,11.02
+Super Meat Boy,Bugs & Performance,89.0,300.0,2.82,13.44,22.88
+Super Meat Boy,Gameplay,228.0,2682.0,25.23,34.44,7.84
+Super Meat Boy,Graphics & Visuals,50.0,523.0,4.92,7.55,8.73
+Super Meat Boy,Multiplayer & Servers,10.0,64.0,0.6,1.51,13.51
+Super Meat Boy,Price & Value,97.0,922.0,8.67,14.65,9.52
+Super Meat Boy,Sound & Music,34.0,976.0,9.18,5.14,3.37
+Super Meat Boy,Story & Characters,76.0,1001.0,9.41,11.48,7.06
+Super Meat Boy,Updates & Developers,50.0,167.0,1.57,7.55,23.04
+Surviving Mars,Bugs & Performance,280.0,449.0,8.22,20.2,38.41
+Surviving Mars,Gameplay,436.0,1386.0,25.38,31.46,23.93
+Surviving Mars,Graphics & Visuals,174.0,533.0,9.76,12.55,24.61
+Surviving Mars,Multiplayer & Servers,16.0,60.0,1.1,1.15,21.05
+Surviving Mars,Price & Value,469.0,1217.0,22.29,33.84,27.82
+Surviving Mars,Sound & Music,71.0,333.0,6.1,5.12,17.57
+Surviving Mars,Story & Characters,137.0,392.0,7.18,9.88,25.9
+Surviving Mars,Updates & Developers,250.0,620.0,11.35,18.04,28.74
+Sword Art Online: Fatal Bullet,Bugs & Performance,154.0,312.0,11.36,23.05,33.05
+Sword Art Online: Fatal Bullet,Gameplay,312.0,1023.0,37.25,46.71,23.37
+Sword Art Online: Fatal Bullet,Graphics & Visuals,104.0,367.0,13.36,15.57,22.08
+Sword Art Online: Fatal Bullet,Multiplayer & Servers,144.0,578.0,21.05,21.56,19.94
+Sword Art Online: Fatal Bullet,Price & Value,260.0,587.0,21.38,38.92,30.7
+Sword Art Online: Fatal Bullet,Sound & Music,38.0,95.0,3.46,5.69,28.57
+Sword Art Online: Fatal Bullet,Story & Characters,284.0,1033.0,37.62,42.51,21.56
+Sword Art Online: Fatal Bullet,Updates & Developers,73.0,146.0,5.32,10.93,33.33
+Tabletop Simulator,Bugs & Performance,132.0,528.0,2.73,17.41,20.0
+Tabletop Simulator,Gameplay,104.0,1201.0,6.21,13.72,7.97
+Tabletop Simulator,Graphics & Visuals,28.0,284.0,1.47,3.69,8.97
+Tabletop Simulator,Multiplayer & Servers,114.0,1721.0,8.9,15.04,6.21
+Tabletop Simulator,Price & Value,168.0,2427.0,12.55,22.16,6.47
+Tabletop Simulator,Sound & Music,3.0,120.0,0.62,0.4,2.44
+Tabletop Simulator,Story & Characters,23.0,369.0,1.91,3.03,5.87
+Tabletop Simulator,Updates & Developers,76.0,514.0,2.66,10.03,12.88
+Takedown: Red Sabre,Bugs & Performance,303.0,183.0,19.22,18.6,62.35
+Takedown: Red Sabre,Gameplay,297.0,195.0,20.48,18.23,60.37
+Takedown: Red Sabre,Graphics & Visuals,195.0,106.0,11.13,11.97,64.78
+Takedown: Red Sabre,Multiplayer & Servers,197.0,124.0,13.03,12.09,61.37
+Takedown: Red Sabre,Price & Value,432.0,184.0,19.33,26.52,70.13
+Takedown: Red Sabre,Sound & Music,25.0,6.0,0.63,1.53,80.65
+Takedown: Red Sabre,Story & Characters,80.0,51.0,5.36,4.91,61.07
+Takedown: Red Sabre,Updates & Developers,195.0,81.0,8.51,11.97,70.65
+Tales of Berseria,Bugs & Performance,47.0,290.0,6.96,12.14,13.95
+Tales of Berseria,Gameplay,239.0,2043.0,49.04,61.76,10.47
+Tales of Berseria,Graphics & Visuals,74.0,753.0,18.07,19.12,8.95
+Tales of Berseria,Multiplayer & Servers,12.0,60.0,1.44,3.1,16.67
+Tales of Berseria,Price & Value,96.0,747.0,17.93,24.81,11.39
+Tales of Berseria,Sound & Music,53.0,661.0,15.87,13.7,7.42
+Tales of Berseria,Story & Characters,256.0,2759.0,66.23,66.15,8.49
+Tales of Berseria,Updates & Developers,39.0,165.0,3.96,10.08,19.12
 Terraria,Bugs & Performance,434.0,3410.0,1.59,8.8,11.29
 Terraria,Gameplay,593.0,24123.0,11.28,12.02,2.4
 Terraria,Graphics & Visuals,187.0,7363.0,3.44,3.79,2.48
@@ -159,6 +1991,38 @@ Terraria,Price & Value,577.0,21283.0,9.95,11.7,2.64
 Terraria,Sound & Music,70.0,4416.0,2.06,1.42,1.56
 Terraria,Story & Characters,344.0,8604.0,4.02,6.97,3.84
 Terraria,Updates & Developers,436.0,18278.0,8.54,8.84,2.33
+The Binding of Isaac,Bugs & Performance,107.0,550.0,2.81,10.78,16.29
+The Binding of Isaac,Gameplay,252.0,4283.0,21.9,25.38,5.56
+The Binding of Isaac,Graphics & Visuals,83.0,986.0,5.04,8.36,7.76
+The Binding of Isaac,Multiplayer & Servers,12.0,119.0,0.61,1.21,9.16
+The Binding of Isaac,Price & Value,170.0,3323.0,16.99,17.12,4.87
+The Binding of Isaac,Sound & Music,48.0,924.0,4.72,4.83,4.94
+The Binding of Isaac,Story & Characters,91.0,1944.0,9.94,9.16,4.47
+The Binding of Isaac,Updates & Developers,57.0,246.0,1.26,5.74,18.81
+The Binding of Isaac: Rebirth,Bugs & Performance,120.0,1063.0,2.79,13.61,10.14
+The Binding of Isaac: Rebirth,Gameplay,170.0,7330.0,19.25,19.27,2.27
+The Binding of Isaac: Rebirth,Graphics & Visuals,87.0,2120.0,5.57,9.86,3.94
+The Binding of Isaac: Rebirth,Multiplayer & Servers,24.0,534.0,1.4,2.72,4.3
+The Binding of Isaac: Rebirth,Price & Value,204.0,5054.0,13.27,23.13,3.88
+The Binding of Isaac: Rebirth,Sound & Music,57.0,1603.0,4.21,6.46,3.43
+The Binding of Isaac: Rebirth,Story & Characters,104.0,3682.0,9.67,11.79,2.75
+The Binding of Isaac: Rebirth,Updates & Developers,111.0,880.0,2.31,12.59,11.2
+The Crew 2,Bugs & Performance,415.0,368.0,8.24,22.22,53.0
+The Crew 2,Gameplay,470.0,640.0,14.34,25.16,42.34
+The Crew 2,Graphics & Visuals,321.0,683.0,15.3,17.18,31.97
+The Crew 2,Multiplayer & Servers,202.0,247.0,5.53,10.81,44.99
+The Crew 2,Price & Value,593.0,732.0,16.4,31.75,44.75
+The Crew 2,Sound & Music,83.0,130.0,2.91,4.44,38.97
+The Crew 2,Story & Characters,230.0,303.0,6.79,12.31,43.15
+The Crew 2,Updates & Developers,198.0,237.0,5.31,10.6,45.52
+The Elder Scrolls Online,Bugs & Performance,1622.0,1805.0,6.35,18.24,47.33
+The Elder Scrolls Online,Gameplay,2498.0,7777.0,27.35,28.09,24.31
+The Elder Scrolls Online,Graphics & Visuals,905.0,3435.0,12.08,10.18,20.85
+The Elder Scrolls Online,Multiplayer & Servers,1755.0,3480.0,12.24,19.74,33.52
+The Elder Scrolls Online,Price & Value,3150.0,5869.0,20.64,35.43,34.93
+The Elder Scrolls Online,Sound & Music,211.0,1222.0,4.3,2.37,14.72
+The Elder Scrolls Online,Story & Characters,1719.0,6596.0,23.2,19.33,20.67
+The Elder Scrolls Online,Updates & Developers,1449.0,1869.0,6.57,16.3,43.67
 The Elder Scrolls V: Skyrim,Bugs & Performance,1223.0,7576.0,6.92,12.94,13.9
 The Elder Scrolls V: Skyrim,Gameplay,1293.0,19190.0,17.54,13.68,6.31
 The Elder Scrolls V: Skyrim,Graphics & Visuals,581.0,10885.0,9.95,6.15,5.07
@@ -167,6 +2031,22 @@ The Elder Scrolls V: Skyrim,Price & Value,2361.0,12763.0,11.66,24.98,15.61
 The Elder Scrolls V: Skyrim,Sound & Music,173.0,2361.0,2.16,1.83,6.83
 The Elder Scrolls V: Skyrim,Story & Characters,1007.0,16014.0,14.64,10.65,5.92
 The Elder Scrolls V: Skyrim,Updates & Developers,784.0,2129.0,1.95,8.29,26.91
+The Elder Scrolls V: Skyrim Special Edition,Bugs & Performance,2575.0,5939.0,11.9,30.94,30.24
+The Elder Scrolls V: Skyrim Special Edition,Gameplay,872.0,6167.0,12.36,10.48,12.39
+The Elder Scrolls V: Skyrim Special Edition,Graphics & Visuals,1649.0,7150.0,14.33,19.81,18.74
+The Elder Scrolls V: Skyrim Special Edition,Multiplayer & Servers,126.0,408.0,0.82,1.51,23.6
+The Elder Scrolls V: Skyrim Special Edition,Price & Value,2453.0,5746.0,11.51,29.48,29.92
+The Elder Scrolls V: Skyrim Special Edition,Sound & Music,187.0,801.0,1.61,2.25,18.93
+The Elder Scrolls V: Skyrim Special Edition,Story & Characters,709.0,5235.0,10.49,8.52,11.93
+The Elder Scrolls V: Skyrim Special Edition,Updates & Developers,1083.0,1795.0,3.6,13.01,37.63
+The End Is Nigh,Bugs & Performance,5.0,30.0,3.26,5.0,14.29
+The End Is Nigh,Gameplay,59.0,360.0,39.13,59.0,14.08
+The End Is Nigh,Graphics & Visuals,17.0,95.0,10.33,17.0,15.18
+The End Is Nigh,Multiplayer & Servers,3.0,3.0,0.33,3.0,50.0
+The End Is Nigh,Price & Value,24.0,101.0,10.98,24.0,19.2
+The End Is Nigh,Sound & Music,26.0,233.0,25.33,26.0,10.04
+The End Is Nigh,Story & Characters,21.0,138.0,15.0,21.0,13.21
+The End Is Nigh,Updates & Developers,12.0,27.0,2.93,12.0,30.77
 The Forest,Bugs & Performance,1458.0,10629.0,17.17,34.33,12.06
 The Forest,Gameplay,769.0,6955.0,11.23,18.11,9.96
 The Forest,Graphics & Visuals,439.0,6585.0,10.64,10.34,6.25
@@ -175,6 +2055,62 @@ The Forest,Price & Value,815.0,6099.0,9.85,19.19,11.79
 The Forest,Sound & Music,34.0,763.0,1.23,0.8,4.27
 The Forest,Story & Characters,617.0,9374.0,15.14,14.53,6.18
 The Forest,Updates & Developers,845.0,8630.0,13.94,19.9,8.92
+The Henry Stickmin Collection,Bugs & Performance,20.0,449.0,4.63,15.75,4.26
+The Henry Stickmin Collection,Gameplay,20.0,1098.0,11.31,15.75,1.79
+The Henry Stickmin Collection,Graphics & Visuals,4.0,583.0,6.01,3.15,0.68
+The Henry Stickmin Collection,Multiplayer & Servers,1.0,88.0,0.91,0.79,1.12
+The Henry Stickmin Collection,Price & Value,45.0,1699.0,17.51,35.43,2.58
+The Henry Stickmin Collection,Sound & Music,1.0,207.0,2.13,0.79,0.48
+The Henry Stickmin Collection,Story & Characters,13.0,1802.0,18.57,10.24,0.72
+The Henry Stickmin Collection,Updates & Developers,6.0,298.0,3.07,4.72,1.97
+The Legend of Heroes: Trails of Cold Steel II,Bugs & Performance,9.0,54.0,5.68,20.93,14.29
+The Legend of Heroes: Trails of Cold Steel II,Gameplay,21.0,250.0,26.29,48.84,7.75
+The Legend of Heroes: Trails of Cold Steel II,Graphics & Visuals,9.0,69.0,7.26,20.93,11.54
+The Legend of Heroes: Trails of Cold Steel II,Multiplayer & Servers,1.0,6.0,0.63,2.33,14.29
+The Legend of Heroes: Trails of Cold Steel II,Price & Value,7.0,87.0,9.15,16.28,7.45
+The Legend of Heroes: Trails of Cold Steel II,Sound & Music,6.0,107.0,11.25,13.95,5.31
+The Legend of Heroes: Trails of Cold Steel II,Story & Characters,36.0,436.0,45.85,83.72,7.63
+The Legend of Heroes: Trails of Cold Steel II,Updates & Developers,4.0,26.0,2.73,9.3,13.33
+The Room,Bugs & Performance,17.0,158.0,2.3,8.29,9.71
+The Room,Gameplay,60.0,1280.0,18.66,29.27,4.48
+The Room,Graphics & Visuals,44.0,1864.0,27.17,21.46,2.31
+The Room,Multiplayer & Servers,0.0,41.0,0.6,0.0,0.0
+The Room,Price & Value,62.0,1721.0,25.09,30.24,3.48
+The Room,Sound & Music,18.0,553.0,8.06,8.78,3.15
+The Room,Story & Characters,63.0,1313.0,19.14,30.73,4.58
+The Room,Updates & Developers,7.0,177.0,2.58,3.41,3.8
+The Room Two,Bugs & Performance,17.0,88.0,1.74,12.88,16.19
+The Room Two,Gameplay,23.0,830.0,16.39,17.42,2.7
+The Room Two,Graphics & Visuals,28.0,1010.0,19.95,21.21,2.7
+The Room Two,Multiplayer & Servers,1.0,18.0,0.36,0.76,5.26
+The Room Two,Price & Value,26.0,1024.0,20.23,19.7,2.48
+The Room Two,Sound & Music,6.0,252.0,4.98,4.55,2.33
+The Room Two,Story & Characters,35.0,1073.0,21.19,26.52,3.16
+The Room Two,Updates & Developers,11.0,249.0,4.92,8.33,4.23
+The Sims(TM) 3,Bugs & Performance,519.0,880.0,9.59,30.09,37.1
+The Sims(TM) 3,Gameplay,129.0,595.0,6.48,7.48,17.82
+The Sims(TM) 3,Graphics & Visuals,107.0,486.0,5.29,6.2,18.04
+The Sims(TM) 3,Multiplayer & Servers,48.0,196.0,2.14,2.78,19.67
+The Sims(TM) 3,Price & Value,846.0,2215.0,24.13,49.04,27.64
+The Sims(TM) 3,Sound & Music,11.0,78.0,0.85,0.64,12.36
+The Sims(TM) 3,Story & Characters,107.0,587.0,6.39,6.2,15.42
+The Sims(TM) 3,Updates & Developers,91.0,144.0,1.57,5.28,38.72
+The Walking Dead,Bugs & Performance,125.0,741.0,3.57,14.93,14.43
+The Walking Dead,Gameplay,197.0,3257.0,15.68,23.54,5.7
+The Walking Dead,Graphics & Visuals,92.0,2175.0,10.47,10.99,4.06
+The Walking Dead,Multiplayer & Servers,18.0,106.0,0.51,2.15,14.52
+The Walking Dead,Price & Value,165.0,2603.0,12.53,19.71,5.96
+The Walking Dead,Sound & Music,32.0,938.0,4.51,3.82,3.3
+The Walking Dead,Story & Characters,387.0,11270.0,54.24,46.24,3.32
+The Walking Dead,Updates & Developers,49.0,238.0,1.15,5.85,17.07
+The Wild Eight,Bugs & Performance,139.0,227.0,24.38,37.57,37.98
+The Wild Eight,Gameplay,115.0,262.0,28.14,31.08,30.5
+The Wild Eight,Graphics & Visuals,31.0,110.0,11.82,8.38,21.99
+The Wild Eight,Multiplayer & Servers,59.0,201.0,21.59,15.95,22.69
+The Wild Eight,Price & Value,86.0,122.0,13.1,23.24,41.35
+The Wild Eight,Sound & Music,9.0,40.0,4.3,2.43,18.37
+The Wild Eight,Story & Characters,69.0,227.0,24.38,18.65,23.31
+The Wild Eight,Updates & Developers,101.0,253.0,27.18,27.3,28.53
 The Witcher 3: Wild Hunt,Bugs & Performance,537.0,5213.0,5.18,17.78,9.34
 The Witcher 3: Wild Hunt,Gameplay,1609.0,27685.0,27.49,53.26,5.49
 The Witcher 3: Wild Hunt,Graphics & Visuals,706.0,17739.0,17.61,23.37,3.83
@@ -183,6 +2119,70 @@ The Witcher 3: Wild Hunt,Price & Value,676.0,17941.0,17.81,22.38,3.63
 The Witcher 3: Wild Hunt,Sound & Music,206.0,5941.0,5.9,6.82,3.35
 The Witcher 3: Wild Hunt,Story & Characters,1330.0,35146.0,34.89,44.03,3.65
 The Witcher 3: Wild Hunt,Updates & Developers,243.0,4131.0,4.1,8.04,5.56
+The Wolf Among Us,Bugs & Performance,79.0,519.0,4.02,22.13,13.21
+The Wolf Among Us,Gameplay,64.0,1987.0,15.4,17.93,3.12
+The Wolf Among Us,Graphics & Visuals,50.0,2211.0,17.14,14.01,2.21
+The Wolf Among Us,Multiplayer & Servers,7.0,48.0,0.37,1.96,12.73
+The Wolf Among Us,Price & Value,90.0,1543.0,11.96,25.21,5.51
+The Wolf Among Us,Sound & Music,27.0,1281.0,9.93,7.56,2.06
+The Wolf Among Us,Story & Characters,185.0,7777.0,60.28,51.82,2.32
+The Wolf Among Us,Updates & Developers,26.0,188.0,1.46,7.28,12.15
+There Is No Game: Wrong Dimension,Bugs & Performance,4.0,65.0,2.82,5.41,5.8
+There Is No Game: Wrong Dimension,Gameplay,22.0,257.0,11.14,29.73,7.89
+There Is No Game: Wrong Dimension,Graphics & Visuals,3.0,88.0,3.81,4.05,3.3
+There Is No Game: Wrong Dimension,Multiplayer & Servers,0.0,13.0,0.56,0.0,0.0
+There Is No Game: Wrong Dimension,Price & Value,17.0,320.0,13.87,22.97,5.04
+There Is No Game: Wrong Dimension,Sound & Music,11.0,160.0,6.94,14.86,6.43
+There Is No Game: Wrong Dimension,Story & Characters,33.0,486.0,21.07,44.59,6.36
+There Is No Game: Wrong Dimension,Updates & Developers,5.0,90.0,3.9,6.76,5.26
+They Are Billions,Bugs & Performance,379.0,632.0,6.54,15.0,37.49
+They Are Billions,Gameplay,1305.0,2899.0,29.99,51.66,31.04
+They Are Billions,Graphics & Visuals,183.0,631.0,6.53,7.24,22.48
+They Are Billions,Multiplayer & Servers,102.0,516.0,5.34,4.04,16.5
+They Are Billions,Price & Value,548.0,1255.0,12.98,21.69,30.39
+They Are Billions,Sound & Music,103.0,328.0,3.39,4.08,23.9
+They Are Billions,Story & Characters,352.0,789.0,8.16,13.94,30.85
+They Are Billions,Updates & Developers,780.0,1587.0,16.42,30.88,32.95
+Thief Simulator,Bugs & Performance,119.0,276.0,13.4,28.95,30.13
+Thief Simulator,Gameplay,111.0,361.0,17.53,27.01,23.52
+Thief Simulator,Graphics & Visuals,44.0,162.0,7.87,10.71,21.36
+Thief Simulator,Multiplayer & Servers,6.0,46.0,2.23,1.46,11.54
+Thief Simulator,Price & Value,145.0,360.0,17.48,35.28,28.71
+Thief Simulator,Sound & Music,8.0,25.0,1.21,1.95,24.24
+Thief Simulator,Story & Characters,56.0,295.0,14.33,13.63,15.95
+Thief Simulator,Updates & Developers,61.0,229.0,11.12,14.84,21.03
+Thimbleweed Park,Bugs & Performance,11.0,42.0,2.77,8.59,20.75
+Thimbleweed Park,Gameplay,41.0,223.0,14.71,32.03,15.53
+Thimbleweed Park,Graphics & Visuals,31.0,245.0,16.16,24.22,11.23
+Thimbleweed Park,Multiplayer & Servers,3.0,18.0,1.19,2.34,14.29
+Thimbleweed Park,Price & Value,29.0,207.0,13.65,22.66,12.29
+Thimbleweed Park,Sound & Music,28.0,162.0,10.69,21.88,14.74
+Thimbleweed Park,Story & Characters,94.0,636.0,41.95,73.44,12.88
+Thimbleweed Park,Updates & Developers,25.0,74.0,4.88,19.53,25.25
+Titan Souls,Bugs & Performance,40.0,31.0,1.94,5.08,56.34
+Titan Souls,Gameplay,370.0,615.0,38.46,47.01,37.56
+Titan Souls,Graphics & Visuals,156.0,390.0,24.39,19.82,28.57
+Titan Souls,Multiplayer & Servers,3.0,11.0,0.69,0.38,21.43
+Titan Souls,Price & Value,189.0,298.0,18.64,24.02,38.81
+Titan Souls,Sound & Music,138.0,371.0,23.2,17.53,27.11
+Titan Souls,Story & Characters,186.0,230.0,14.38,23.63,44.71
+Titan Souls,Updates & Developers,88.0,69.0,4.32,11.18,56.05
+To the Moon,Bugs & Performance,48.0,255.0,1.46,6.32,15.84
+To the Moon,Gameplay,336.0,3385.0,19.37,44.27,9.03
+To the Moon,Graphics & Visuals,186.0,4855.0,27.79,24.51,3.69
+To the Moon,Multiplayer & Servers,2.0,37.0,0.21,0.26,5.13
+To the Moon,Price & Value,165.0,2958.0,16.93,21.74,5.28
+To the Moon,Sound & Music,221.0,4940.0,28.27,29.12,4.28
+To the Moon,Story & Characters,584.0,10988.0,62.89,76.94,5.05
+To the Moon,Updates & Developers,46.0,386.0,2.21,6.06,10.65
+Tom Clancy's Ghost Recon® Wildlands,Bugs & Performance,1369.0,1792.0,16.69,33.63,43.31
+Tom Clancy's Ghost Recon® Wildlands,Gameplay,1428.0,3455.0,32.17,35.08,29.24
+Tom Clancy's Ghost Recon® Wildlands,Graphics & Visuals,618.0,2059.0,19.17,15.18,23.09
+Tom Clancy's Ghost Recon® Wildlands,Multiplayer & Servers,605.0,2095.0,19.51,14.86,22.41
+Tom Clancy's Ghost Recon® Wildlands,Price & Value,1327.0,2014.0,18.75,32.6,39.72
+Tom Clancy's Ghost Recon® Wildlands,Sound & Music,123.0,205.0,1.91,3.02,37.5
+Tom Clancy's Ghost Recon® Wildlands,Story & Characters,808.0,2350.0,21.88,19.85,25.59
+Tom Clancy's Ghost Recon® Wildlands,Updates & Developers,447.0,575.0,5.35,10.98,43.74
 Tom Clancy's Rainbow Six Siege,Bugs & Performance,5694.0,22463.0,13.99,20.2,20.22
 Tom Clancy's Rainbow Six Siege,Gameplay,2969.0,15039.0,9.37,10.53,16.49
 Tom Clancy's Rainbow Six Siege,Graphics & Visuals,846.0,5686.0,3.54,3.0,12.95
@@ -191,6 +2191,142 @@ Tom Clancy's Rainbow Six Siege,Price & Value,5072.0,13145.0,8.19,17.99,27.84
 Tom Clancy's Rainbow Six Siege,Sound & Music,242.0,864.0,0.54,0.86,21.88
 Tom Clancy's Rainbow Six Siege,Story & Characters,1769.0,5762.0,3.59,6.28,23.49
 Tom Clancy's Rainbow Six Siege,Updates & Developers,3404.0,6888.0,4.29,12.08,33.07
+Tomb Raider,Bugs & Performance,390.0,2353.0,6.01,14.32,14.22
+Tomb Raider,Gameplay,1055.0,11941.0,30.49,38.73,8.12
+Tomb Raider,Graphics & Visuals,572.0,10813.0,27.61,21.0,5.02
+Tomb Raider,Multiplayer & Servers,142.0,2613.0,6.67,5.21,5.15
+Tomb Raider,Price & Value,471.0,6035.0,15.41,17.29,7.24
+Tomb Raider,Sound & Music,111.0,1737.0,4.43,4.07,6.01
+Tomb Raider,Story & Characters,1019.0,16363.0,41.78,37.41,5.86
+Tomb Raider,Updates & Developers,190.0,886.0,2.26,6.98,17.66
+Torment: Tides of Numenera,Bugs & Performance,171.0,201.0,11.89,21.84,45.97
+Torment: Tides of Numenera,Gameplay,440.0,911.0,53.87,56.19,32.57
+Torment: Tides of Numenera,Graphics & Visuals,179.0,307.0,18.15,22.86,36.83
+Torment: Tides of Numenera,Multiplayer & Servers,15.0,7.0,0.41,1.92,68.18
+Torment: Tides of Numenera,Price & Value,239.0,411.0,24.31,30.52,36.77
+Torment: Tides of Numenera,Sound & Music,54.0,127.0,7.51,6.9,29.83
+Torment: Tides of Numenera,Story & Characters,502.0,1163.0,68.78,64.11,30.15
+Torment: Tides of Numenera,Updates & Developers,158.0,186.0,11.0,20.18,45.93
+Total War Saga: Thrones of Britannia,Bugs & Performance,260.0,272.0,9.44,14.03,48.87
+Total War Saga: Thrones of Britannia,Gameplay,517.0,834.0,28.96,27.9,38.27
+Total War Saga: Thrones of Britannia,Graphics & Visuals,230.0,425.0,14.76,12.41,35.11
+Total War Saga: Thrones of Britannia,Multiplayer & Servers,60.0,87.0,3.02,3.24,40.82
+Total War Saga: Thrones of Britannia,Price & Value,712.0,723.0,25.1,38.42,49.62
+Total War Saga: Thrones of Britannia,Sound & Music,26.0,116.0,4.03,1.4,18.31
+Total War Saga: Thrones of Britannia,Story & Characters,173.0,264.0,9.17,9.34,39.59
+Total War Saga: Thrones of Britannia,Updates & Developers,224.0,256.0,8.89,12.09,46.67
+Total War: ROME II - Emperor Edition,Bugs & Performance,1860.0,2629.0,14.55,34.39,41.43
+Total War: ROME II - Emperor Edition,Gameplay,980.0,2690.0,14.89,18.12,26.7
+Total War: ROME II - Emperor Edition,Graphics & Visuals,805.0,1977.0,10.94,14.88,28.94
+Total War: ROME II - Emperor Edition,Multiplayer & Servers,348.0,1008.0,5.58,6.43,25.66
+Total War: ROME II - Emperor Edition,Price & Value,2073.0,3856.0,21.35,38.33,34.96
+Total War: ROME II - Emperor Edition,Sound & Music,91.0,201.0,1.11,1.68,31.16
+Total War: ROME II - Emperor Edition,Story & Characters,351.0,658.0,3.64,6.49,34.79
+Total War: ROME II - Emperor Edition,Updates & Developers,1077.0,2231.0,12.35,19.91,32.56
+Total War: THREE KINGDOMS,Bugs & Performance,567.0,909.0,9.09,27.93,38.41
+Total War: THREE KINGDOMS,Gameplay,470.0,1845.0,18.44,23.15,20.3
+Total War: THREE KINGDOMS,Graphics & Visuals,307.0,1190.0,11.9,15.12,20.51
+Total War: THREE KINGDOMS,Multiplayer & Servers,170.0,224.0,2.24,8.37,43.15
+Total War: THREE KINGDOMS,Price & Value,692.0,1415.0,14.15,34.09,32.84
+Total War: THREE KINGDOMS,Sound & Music,32.0,273.0,2.73,1.58,10.49
+Total War: THREE KINGDOMS,Story & Characters,330.0,1458.0,14.58,16.26,18.46
+Total War: THREE KINGDOMS,Updates & Developers,302.0,471.0,4.71,14.88,39.07
+Total War: WARHAMMER,Bugs & Performance,641.0,1851.0,10.88,14.58,25.72
+Total War: WARHAMMER,Gameplay,946.0,3816.0,22.44,21.52,19.87
+Total War: WARHAMMER,Graphics & Visuals,469.0,2047.0,12.04,10.67,18.64
+Total War: WARHAMMER,Multiplayer & Servers,290.0,1106.0,6.5,6.6,20.77
+Total War: WARHAMMER,Price & Value,2742.0,6125.0,36.01,62.39,30.92
+Total War: WARHAMMER,Sound & Music,43.0,297.0,1.75,0.98,12.65
+Total War: WARHAMMER,Story & Characters,493.0,2102.0,12.36,11.22,19.0
+Total War: WARHAMMER,Updates & Developers,533.0,1174.0,6.9,12.13,31.22
+Total War: WARHAMMER II,Bugs & Performance,673.0,1353.0,4.36,25.7,33.22
+Total War: WARHAMMER II,Gameplay,598.0,5402.0,17.39,22.83,9.97
+Total War: WARHAMMER II,Graphics & Visuals,242.0,1865.0,6.0,9.24,11.49
+Total War: WARHAMMER II,Multiplayer & Servers,313.0,1398.0,4.5,11.95,18.29
+Total War: WARHAMMER II,Price & Value,1290.0,7180.0,23.11,49.26,15.23
+Total War: WARHAMMER II,Sound & Music,24.0,287.0,0.92,0.92,7.72
+Total War: WARHAMMER II,Story & Characters,252.0,2671.0,8.6,9.62,8.62
+Total War: WARHAMMER II,Updates & Developers,470.0,1887.0,6.07,17.95,19.94
+Totally Accurate Battle Simulator,Bugs & Performance,94.0,1242.0,7.45,19.38,7.04
+Totally Accurate Battle Simulator,Gameplay,50.0,814.0,4.89,10.31,5.79
+Totally Accurate Battle Simulator,Graphics & Visuals,20.0,505.0,3.03,4.12,3.81
+Totally Accurate Battle Simulator,Multiplayer & Servers,17.0,251.0,1.51,3.51,6.34
+Totally Accurate Battle Simulator,Price & Value,117.0,1409.0,8.46,24.12,7.67
+Totally Accurate Battle Simulator,Sound & Music,2.0,84.0,0.5,0.41,2.33
+Totally Accurate Battle Simulator,Story & Characters,23.0,604.0,3.63,4.74,3.67
+Totally Accurate Battle Simulator,Updates & Developers,70.0,1758.0,10.55,14.43,3.83
+Totally Accurate Battlegrounds,Bugs & Performance,678.0,1614.0,13.61,26.55,29.58
+Totally Accurate Battlegrounds,Gameplay,191.0,800.0,6.74,7.48,19.27
+Totally Accurate Battlegrounds,Graphics & Visuals,106.0,443.0,3.73,4.15,19.31
+Totally Accurate Battlegrounds,Multiplayer & Servers,743.0,1489.0,12.55,29.09,33.29
+Totally Accurate Battlegrounds,Price & Value,374.0,1090.0,9.19,14.64,25.55
+Totally Accurate Battlegrounds,Sound & Music,20.0,72.0,0.61,0.78,21.74
+Totally Accurate Battlegrounds,Story & Characters,73.0,392.0,3.3,2.86,15.7
+Totally Accurate Battlegrounds,Updates & Developers,275.0,908.0,7.65,10.77,23.25
+Toukiden 2,Bugs & Performance,23.0,85.0,22.02,22.33,21.3
+Toukiden 2,Gameplay,40.0,182.0,47.15,38.83,18.02
+Toukiden 2,Graphics & Visuals,19.0,94.0,24.35,18.45,16.81
+Toukiden 2,Multiplayer & Servers,19.0,93.0,24.09,18.45,16.96
+Toukiden 2,Price & Value,29.0,94.0,24.35,28.16,23.58
+Toukiden 2,Sound & Music,6.0,24.0,6.22,5.83,20.0
+Toukiden 2,Story & Characters,22.0,163.0,42.23,21.36,11.89
+Toukiden 2,Updates & Developers,8.0,28.0,7.25,7.77,22.22
+Townscaper,Bugs & Performance,1.0,67.0,1.83,2.5,1.47
+Townscaper,Gameplay,7.0,364.0,9.93,17.5,1.89
+Townscaper,Graphics & Visuals,5.0,592.0,16.15,12.5,0.84
+Townscaper,Multiplayer & Servers,0.0,22.0,0.6,0.0,0.0
+Townscaper,Price & Value,13.0,412.0,11.24,32.5,3.06
+Townscaper,Sound & Music,0.0,148.0,4.04,0.0,0.0
+Townscaper,Story & Characters,4.0,137.0,3.74,10.0,2.84
+Townscaper,Updates & Developers,9.0,533.0,14.54,22.5,1.66
+Trailmakers,Bugs & Performance,75.0,279.0,12.83,25.42,21.19
+Trailmakers,Gameplay,74.0,265.0,12.19,25.08,21.83
+Trailmakers,Graphics & Visuals,13.0,111.0,5.11,4.41,10.48
+Trailmakers,Multiplayer & Servers,31.0,180.0,8.28,10.51,14.69
+Trailmakers,Price & Value,63.0,172.0,7.91,21.36,26.81
+Trailmakers,Sound & Music,2.0,16.0,0.74,0.68,11.11
+Trailmakers,Story & Characters,19.0,107.0,4.92,6.44,15.08
+Trailmakers,Updates & Developers,63.0,261.0,12.01,21.36,19.44
+Train Sim World® 2020,Bugs & Performance,392.0,420.0,25.75,51.04,48.28
+Train Sim World® 2020,Gameplay,133.0,237.0,14.53,17.32,35.95
+Train Sim World® 2020,Graphics & Visuals,186.0,539.0,33.05,24.22,25.66
+Train Sim World® 2020,Multiplayer & Servers,46.0,50.0,3.07,5.99,47.92
+Train Sim World® 2020,Price & Value,419.0,450.0,27.59,54.56,48.22
+Train Sim World® 2020,Sound & Music,13.0,26.0,1.59,1.69,33.33
+Train Sim World® 2020,Story & Characters,38.0,58.0,3.56,4.95,39.58
+Train Sim World® 2020,Updates & Developers,208.0,204.0,12.51,27.08,50.49
+Two Point Hospital,Bugs & Performance,190.0,505.0,5.95,21.09,27.34
+Two Point Hospital,Gameplay,221.0,1250.0,14.72,24.53,15.02
+Two Point Hospital,Graphics & Visuals,120.0,894.0,10.53,13.32,11.83
+Two Point Hospital,Multiplayer & Servers,9.0,113.0,1.33,1.0,7.38
+Two Point Hospital,Price & Value,347.0,1457.0,17.16,38.51,19.24
+Two Point Hospital,Sound & Music,46.0,382.0,4.5,5.11,10.75
+Two Point Hospital,Story & Characters,77.0,364.0,4.29,8.55,17.46
+Two Point Hospital,Updates & Developers,109.0,580.0,6.83,12.1,15.82
+ULTRAKILL,Bugs & Performance,4.0,442.0,12.38,22.22,0.9
+ULTRAKILL,Gameplay,9.0,809.0,22.67,50.0,1.1
+ULTRAKILL,Graphics & Visuals,3.0,244.0,6.84,16.67,1.21
+ULTRAKILL,Multiplayer & Servers,0.0,34.0,0.95,0.0,0.0
+ULTRAKILL,Price & Value,7.0,346.0,9.69,38.89,1.98
+ULTRAKILL,Sound & Music,2.0,351.0,9.83,11.11,0.57
+ULTRAKILL,Story & Characters,3.0,248.0,6.95,16.67,1.2
+ULTRAKILL,Updates & Developers,3.0,421.0,11.8,16.67,0.71
+Ultimate Marvel vs. Capcom 3,Bugs & Performance,22.0,95.0,8.47,15.6,18.8
+Ultimate Marvel vs. Capcom 3,Gameplay,28.0,165.0,14.72,19.86,14.51
+Ultimate Marvel vs. Capcom 3,Graphics & Visuals,8.0,151.0,13.47,5.67,5.03
+Ultimate Marvel vs. Capcom 3,Multiplayer & Servers,44.0,216.0,19.27,31.21,16.92
+Ultimate Marvel vs. Capcom 3,Price & Value,35.0,171.0,15.25,24.82,16.99
+Ultimate Marvel vs. Capcom 3,Sound & Music,4.0,50.0,4.46,2.84,7.41
+Ultimate Marvel vs. Capcom 3,Story & Characters,21.0,196.0,17.48,14.89,9.68
+Ultimate Marvel vs. Capcom 3,Updates & Developers,6.0,28.0,2.5,4.26,17.65
+Umbrella Corps,Bugs & Performance,97.0,48.0,17.02,15.06,66.9
+Umbrella Corps,Gameplay,192.0,83.0,29.43,29.81,69.82
+Umbrella Corps,Graphics & Visuals,78.0,29.0,10.28,12.11,72.9
+Umbrella Corps,Multiplayer & Servers,208.0,104.0,36.88,32.3,66.67
+Umbrella Corps,Price & Value,215.0,93.0,32.98,33.39,69.81
+Umbrella Corps,Sound & Music,10.0,8.0,2.84,1.55,55.56
+Umbrella Corps,Story & Characters,89.0,41.0,14.54,13.82,68.46
+Umbrella Corps,Updates & Developers,51.0,30.0,10.64,7.92,62.96
 Undertale,Bugs & Performance,77.0,717.0,1.05,2.67,9.7
 Undertale,Gameplay,824.0,11032.0,16.16,28.57,6.95
 Undertale,Graphics & Visuals,321.0,6034.0,8.84,11.13,5.05
@@ -199,3 +2335,187 @@ Undertale,Price & Value,466.0,6853.0,10.04,16.16,6.37
 Undertale,Sound & Music,478.0,13489.0,19.76,16.57,3.42
 Undertale,Story & Characters,1010.0,25597.0,37.51,35.02,3.8
 Undertale,Updates & Developers,113.0,896.0,1.31,3.92,11.2
+Urban Empire,Bugs & Performance,152.0,41.0,17.75,27.49,78.76
+Urban Empire,Gameplay,166.0,59.0,25.54,30.02,73.78
+Urban Empire,Graphics & Visuals,60.0,21.0,9.09,10.85,74.07
+Urban Empire,Multiplayer & Servers,6.0,4.0,1.73,1.08,60.0
+Urban Empire,Price & Value,256.0,77.0,33.33,46.29,76.88
+Urban Empire,Sound & Music,11.0,5.0,2.16,1.99,68.75
+Urban Empire,Story & Characters,53.0,21.0,9.09,9.58,71.62
+Urban Empire,Updates & Developers,145.0,46.0,19.91,26.22,75.92
+VA-11 Hall-A: Cyberpunk Bartender Action,Bugs & Performance,9.0,283.0,3.67,3.5,3.08
+VA-11 Hall-A: Cyberpunk Bartender Action,Gameplay,81.0,1423.0,18.45,31.52,5.39
+VA-11 Hall-A: Cyberpunk Bartender Action,Graphics & Visuals,110.0,2328.0,30.18,42.8,4.51
+VA-11 Hall-A: Cyberpunk Bartender Action,Multiplayer & Servers,7.0,126.0,1.63,2.72,5.26
+VA-11 Hall-A: Cyberpunk Bartender Action,Price & Value,42.0,1009.0,13.08,16.34,4.0
+VA-11 Hall-A: Cyberpunk Bartender Action,Sound & Music,63.0,2209.0,28.64,24.51,2.77
+VA-11 Hall-A: Cyberpunk Bartender Action,Story & Characters,181.0,4280.0,55.49,70.43,4.06
+VA-11 Hall-A: Cyberpunk Bartender Action,Updates & Developers,18.0,267.0,3.46,7.0,6.32
+Vampyr,Bugs & Performance,354.0,569.0,13.07,21.69,38.35
+Vampyr,Gameplay,1108.0,2522.0,57.95,67.89,30.52
+Vampyr,Graphics & Visuals,318.0,874.0,20.08,19.49,26.68
+Vampyr,Multiplayer & Servers,26.0,49.0,1.13,1.59,34.67
+Vampyr,Price & Value,542.0,976.0,22.43,33.21,35.7
+Vampyr,Sound & Music,204.0,814.0,18.7,12.5,20.04
+Vampyr,Story & Characters,952.0,2864.0,65.81,58.33,24.95
+Vampyr,Updates & Developers,205.0,351.0,8.07,12.56,36.87
+Void Bastards,Bugs & Performance,51.0,331.0,17.65,16.14,13.35
+Void Bastards,Gameplay,161.0,708.0,37.76,50.95,18.53
+Void Bastards,Graphics & Visuals,97.0,522.0,27.84,30.7,15.67
+Void Bastards,Multiplayer & Servers,3.0,27.0,1.44,0.95,10.0
+Void Bastards,Price & Value,121.0,383.0,20.43,38.29,24.01
+Void Bastards,Sound & Music,28.0,144.0,7.68,8.86,16.28
+Void Bastards,Story & Characters,81.0,427.0,22.77,25.63,15.94
+Void Bastards,Updates & Developers,30.0,119.0,6.35,9.49,20.13
+Volgarr the Viking,Bugs & Performance,12.0,13.0,1.31,4.15,48.0
+Volgarr the Viking,Gameplay,188.0,395.0,39.94,65.05,32.25
+Volgarr the Viking,Graphics & Visuals,53.0,115.0,11.63,18.34,31.55
+Volgarr the Viking,Multiplayer & Servers,2.0,1.0,0.1,0.69,66.67
+Volgarr the Viking,Price & Value,40.0,99.0,10.01,13.84,28.78
+Volgarr the Viking,Sound & Music,17.0,79.0,7.99,5.88,17.71
+Volgarr the Viking,Story & Characters,32.0,104.0,10.52,11.07,23.53
+Volgarr the Viking,Updates & Developers,24.0,34.0,3.44,8.3,41.38
+WWE 2K17,Bugs & Performance,157.0,139.0,42.12,53.22,53.04
+WWE 2K17,Gameplay,72.0,54.0,16.36,24.41,57.14
+WWE 2K17,Graphics & Visuals,49.0,46.0,13.94,16.61,51.58
+WWE 2K17,Multiplayer & Servers,48.0,42.0,12.73,16.27,53.33
+WWE 2K17,Price & Value,108.0,72.0,21.82,36.61,60.0
+WWE 2K17,Sound & Music,24.0,27.0,8.18,8.14,47.06
+WWE 2K17,Story & Characters,58.0,55.0,16.67,19.66,51.33
+WWE 2K17,Updates & Developers,40.0,26.0,7.88,13.56,60.61
+WWE 2K19,Bugs & Performance,161.0,152.0,23.24,42.15,51.44
+WWE 2K19,Gameplay,85.0,94.0,14.37,22.25,47.49
+WWE 2K19,Graphics & Visuals,55.0,91.0,13.91,14.4,37.67
+WWE 2K19,Multiplayer & Servers,39.0,48.0,7.34,10.21,44.83
+WWE 2K19,Price & Value,146.0,105.0,16.06,38.22,58.17
+WWE 2K19,Sound & Music,25.0,41.0,6.27,6.54,37.88
+WWE 2K19,Story & Characters,81.0,134.0,20.49,21.2,37.67
+WWE 2K19,Updates & Developers,43.0,41.0,6.27,11.26,51.19
+WWE 2K20,Bugs & Performance,678.0,286.0,61.77,68.69,70.33
+WWE 2K20,Gameplay,152.0,67.0,14.47,15.4,69.41
+WWE 2K20,Graphics & Visuals,146.0,77.0,16.63,14.79,65.47
+WWE 2K20,Multiplayer & Servers,50.0,19.0,4.1,5.07,72.46
+WWE 2K20,Price & Value,343.0,121.0,26.13,34.75,73.92
+WWE 2K20,Sound & Music,23.0,11.0,2.38,2.33,67.65
+WWE 2K20,Story & Characters,196.0,80.0,17.28,19.86,71.01
+WWE 2K20,Updates & Developers,157.0,66.0,14.25,15.91,70.4
+Wallpaper Engine,Bugs & Performance,217.0,1752.0,4.42,23.9,11.02
+Wallpaper Engine,Gameplay,24.0,365.0,0.92,2.64,6.17
+Wallpaper Engine,Graphics & Visuals,40.0,1704.0,4.29,4.41,2.29
+Wallpaper Engine,Multiplayer & Servers,15.0,152.0,0.38,1.65,8.98
+Wallpaper Engine,Price & Value,127.0,6330.0,15.95,13.99,1.97
+Wallpaper Engine,Sound & Music,25.0,1556.0,3.92,2.75,1.58
+Wallpaper Engine,Story & Characters,22.0,538.0,1.36,2.42,3.93
+Wallpaper Engine,Updates & Developers,64.0,710.0,1.79,7.05,8.27
+"Warhammer 40,000: Dawn of War III",Bugs & Performance,474.0,250.0,6.77,9.18,65.47
+"Warhammer 40,000: Dawn of War III",Gameplay,1723.0,1178.0,31.9,33.39,59.39
+"Warhammer 40,000: Dawn of War III",Graphics & Visuals,985.0,733.0,19.85,19.09,57.33
+"Warhammer 40,000: Dawn of War III",Multiplayer & Servers,992.0,983.0,26.62,19.22,50.23
+"Warhammer 40,000: Dawn of War III",Price & Value,1721.0,983.0,26.62,33.35,63.65
+"Warhammer 40,000: Dawn of War III",Sound & Music,287.0,250.0,6.77,5.56,53.45
+"Warhammer 40,000: Dawn of War III",Story & Characters,1098.0,740.0,20.04,21.27,59.74
+"Warhammer 40,000: Dawn of War III",Updates & Developers,965.0,543.0,14.7,18.7,63.99
+"Warhammer 40,000: Mechanicus",Bugs & Performance,50.0,299.0,7.13,13.44,14.33
+"Warhammer 40,000: Mechanicus",Gameplay,228.0,2044.0,48.71,61.29,10.04
+"Warhammer 40,000: Mechanicus",Graphics & Visuals,66.0,482.0,11.49,17.74,12.04
+"Warhammer 40,000: Mechanicus",Multiplayer & Servers,7.0,39.0,0.93,1.88,15.22
+"Warhammer 40,000: Mechanicus",Price & Value,94.0,696.0,16.59,25.27,11.9
+"Warhammer 40,000: Mechanicus",Sound & Music,51.0,1133.0,27.0,13.71,4.31
+"Warhammer 40,000: Mechanicus",Story & Characters,126.0,1165.0,27.76,33.87,9.76
+"Warhammer 40,000: Mechanicus",Updates & Developers,44.0,342.0,8.15,11.83,11.4
+Warhammer: Vermintide 2,Bugs & Performance,1290.0,2184.0,11.1,32.07,37.13
+Warhammer: Vermintide 2,Gameplay,1535.0,5901.0,30.0,38.17,20.64
+Warhammer: Vermintide 2,Graphics & Visuals,411.0,2093.0,10.64,10.22,16.41
+Warhammer: Vermintide 2,Multiplayer & Servers,805.0,3054.0,15.53,20.01,20.86
+Warhammer: Vermintide 2,Price & Value,1275.0,3423.0,17.4,31.7,27.14
+Warhammer: Vermintide 2,Sound & Music,105.0,602.0,3.06,2.61,14.85
+Warhammer: Vermintide 2,Story & Characters,732.0,3213.0,16.33,18.2,18.56
+Warhammer: Vermintide 2,Updates & Developers,1183.0,1825.0,9.28,29.41,39.33
+Watch_Dogs 2,Bugs & Performance,784.0,1230.0,15.0,33.55,38.93
+Watch_Dogs 2,Gameplay,667.0,2453.0,29.91,28.54,21.38
+Watch_Dogs 2,Graphics & Visuals,291.0,1475.0,17.98,12.45,16.48
+Watch_Dogs 2,Multiplayer & Servers,334.0,1514.0,18.46,14.29,18.07
+Watch_Dogs 2,Price & Value,634.0,1366.0,16.65,27.13,31.7
+Watch_Dogs 2,Sound & Music,57.0,371.0,4.52,2.44,13.32
+Watch_Dogs 2,Story & Characters,623.0,2775.0,33.83,26.66,18.33
+Watch_Dogs 2,Updates & Developers,185.0,241.0,2.94,7.92,43.43
+We Were Here Too,Bugs & Performance,105.0,86.0,7.19,30.09,54.97
+We Were Here Too,Gameplay,68.0,170.0,14.21,19.48,28.57
+We Were Here Too,Graphics & Visuals,25.0,80.0,6.69,7.16,23.81
+We Were Here Too,Multiplayer & Servers,52.0,239.0,19.98,14.9,17.87
+We Were Here Too,Price & Value,116.0,272.0,22.74,33.24,29.9
+We Were Here Too,Sound & Music,7.0,46.0,3.85,2.01,13.21
+We Were Here Too,Story & Characters,75.0,169.0,14.13,21.49,30.74
+We Were Here Too,Updates & Developers,27.0,59.0,4.93,7.74,31.4
+Wolfenstein: Youngblood,Bugs & Performance,312.0,240.0,17.87,20.33,56.52
+Wolfenstein: Youngblood,Gameplay,630.0,552.0,41.1,41.04,53.3
+Wolfenstein: Youngblood,Graphics & Visuals,194.0,238.0,17.72,12.64,44.91
+Wolfenstein: Youngblood,Multiplayer & Servers,402.0,457.0,34.03,26.19,46.8
+Wolfenstein: Youngblood,Price & Value,508.0,383.0,28.52,33.09,57.01
+Wolfenstein: Youngblood,Sound & Music,76.0,85.0,6.33,4.95,47.2
+Wolfenstein: Youngblood,Story & Characters,573.0,531.0,39.54,37.33,51.9
+Wolfenstein: Youngblood,Updates & Developers,133.0,99.0,7.37,8.66,57.33
+X Rebirth,Bugs & Performance,1061.0,565.0,39.26,44.54,65.25
+X Rebirth,Gameplay,693.0,437.0,30.37,29.09,61.33
+X Rebirth,Graphics & Visuals,503.0,310.0,21.54,21.12,61.87
+X Rebirth,Multiplayer & Servers,58.0,56.0,3.89,2.43,50.88
+X Rebirth,Price & Value,820.0,418.0,29.05,34.42,66.24
+X Rebirth,Sound & Music,169.0,106.0,7.37,7.09,61.45
+X Rebirth,Story & Characters,378.0,287.0,19.94,15.87,56.84
+X Rebirth,Updates & Developers,589.0,556.0,38.64,24.73,51.44
+X-Blades,Bugs & Performance,39.0,20.0,3.96,7.57,66.1
+X-Blades,Gameplay,228.0,153.0,30.3,44.27,59.84
+X-Blades,Graphics & Visuals,101.0,102.0,20.2,19.61,49.75
+X-Blades,Multiplayer & Servers,8.0,4.0,0.79,1.55,66.67
+X-Blades,Price & Value,143.0,121.0,23.96,27.77,54.17
+X-Blades,Sound & Music,85.0,66.0,13.07,16.5,56.29
+X-Blades,Story & Characters,190.0,160.0,31.68,36.89,54.29
+X-Blades,Updates & Developers,29.0,12.0,2.38,5.63,70.73
+X-Plane 11,Bugs & Performance,156.0,346.0,11.15,32.5,31.08
+X-Plane 11,Gameplay,89.0,287.0,9.25,18.54,23.67
+X-Plane 11,Graphics & Visuals,117.0,647.0,20.86,24.38,15.31
+X-Plane 11,Multiplayer & Servers,22.0,100.0,3.22,4.58,18.03
+X-Plane 11,Price & Value,194.0,494.0,15.93,40.42,28.2
+X-Plane 11,Sound & Music,6.0,17.0,0.55,1.25,26.09
+X-Plane 11,Story & Characters,19.0,76.0,2.45,3.96,20.0
+X-Plane 11,Updates & Developers,65.0,191.0,6.16,13.54,25.39
+XCOM 2,Bugs & Performance,2224.0,3868.0,15.55,43.68,36.51
+XCOM 2,Gameplay,2490.0,8288.0,33.33,48.91,23.1
+XCOM 2,Graphics & Visuals,744.0,2310.0,9.29,14.61,24.36
+XCOM 2,Multiplayer & Servers,204.0,473.0,1.9,4.01,30.13
+XCOM 2,Price & Value,1404.0,4304.0,17.31,27.58,24.6
+XCOM 2,Sound & Music,133.0,543.0,2.18,2.61,19.67
+XCOM 2,Story & Characters,964.0,4230.0,17.01,18.94,18.56
+XCOM 2,Updates & Developers,920.0,1477.0,5.94,18.07,38.38
+Yakuza 0,Bugs & Performance,264.0,886.0,6.46,34.74,22.96
+Yakuza 0,Gameplay,294.0,4032.0,29.4,38.68,6.8
+Yakuza 0,Graphics & Visuals,92.0,1078.0,7.86,12.11,7.86
+Yakuza 0,Multiplayer & Servers,17.0,74.0,0.54,2.24,18.68
+Yakuza 0,Price & Value,132.0,2087.0,15.22,17.37,5.95
+Yakuza 0,Sound & Music,64.0,1160.0,8.46,8.42,5.23
+Yakuza 0,Story & Characters,256.0,5931.0,43.24,33.68,4.14
+Yakuza 0,Updates & Developers,73.0,332.0,2.42,9.61,18.02
+Youtubers Life,Bugs & Performance,373.0,534.0,15.84,27.17,41.12
+Youtubers Life,Gameplay,264.0,340.0,10.08,19.23,43.71
+Youtubers Life,Graphics & Visuals,84.0,156.0,4.63,6.12,35.0
+Youtubers Life,Multiplayer & Servers,34.0,65.0,1.93,2.48,34.34
+Youtubers Life,Price & Value,448.0,494.0,14.65,32.63,47.56
+Youtubers Life,Sound & Music,90.0,157.0,4.66,6.55,36.44
+Youtubers Life,Story & Characters,139.0,217.0,6.44,10.12,39.04
+Youtubers Life,Updates & Developers,317.0,459.0,13.61,23.09,40.85
+theHunter: Call of the Wild™,Bugs & Performance,1205.0,2435.0,17.82,39.91,33.1
+theHunter: Call of the Wild™,Gameplay,573.0,1931.0,14.13,18.98,22.88
+theHunter: Call of the Wild™,Graphics & Visuals,533.0,3511.0,25.69,17.65,13.18
+theHunter: Call of the Wild™,Multiplayer & Servers,235.0,865.0,6.33,7.78,21.36
+theHunter: Call of the Wild™,Price & Value,1332.0,3158.0,23.11,44.12,29.67
+theHunter: Call of the Wild™,Sound & Music,51.0,331.0,2.42,1.69,13.35
+theHunter: Call of the Wild™,Story & Characters,199.0,664.0,4.86,6.59,23.06
+theHunter: Call of the Wild™,Updates & Developers,645.0,1237.0,9.05,21.36,34.27
+三国群英传8 Heroes of the Three Kingdoms 8,Bugs & Performance,1.0,1.0,9.09,12.5,50.0
+三国群英传8 Heroes of the Three Kingdoms 8,Gameplay,1.0,2.0,18.18,12.5,33.33
+三国群英传8 Heroes of the Three Kingdoms 8,Graphics & Visuals,0.0,2.0,18.18,0.0,0.0
+三国群英传8 Heroes of the Three Kingdoms 8,Multiplayer & Servers,0.0,0.0,0.0,0.0,0.0
+三国群英传8 Heroes of the Three Kingdoms 8,Price & Value,1.0,5.0,45.45,12.5,16.67
+三国群英传8 Heroes of the Three Kingdoms 8,Sound & Music,0.0,0.0,0.0,0.0,0.0
+三国群英传8 Heroes of the Three Kingdoms 8,Story & Characters,0.0,2.0,18.18,0.0,0.0
+三国群英传8 Heroes of the Three Kingdoms 8,Updates & Developers,0.0,3.0,27.27,0.0,0.0
